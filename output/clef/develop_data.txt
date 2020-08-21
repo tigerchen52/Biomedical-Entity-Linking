@@ -1,0 +1,692 @@
+21833-003461-DISCHARGE_SUMMARY.txt	Group A strep bacteremia	C0554628	group a strep bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	SIRS	C0242966	systemic inflammatory response syndrome
+21833-003461-DISCHARGE_SUMMARY.txt	tuberous sclerosis	C0041341	tuberous sclerosis
+21833-003461-DISCHARGE_SUMMARY.txt	seizure disorder	C0014544	seizure disorder
+21833-003461-DISCHARGE_SUMMARY.txt	pneumonia	C0032285	pneumonia
+21833-003461-DISCHARGE_SUMMARY.txt	ARDS	C0035222	acute respiratory distress syndrome
+21833-003461-DISCHARGE_SUMMARY.txt	fever	CUI-less	fever
+21833-003461-DISCHARGE_SUMMARY.txt	abdominal pain	C0000737	abdominal pain
+21833-003461-DISCHARGE_SUMMARY.txt	nausea	C0027497	nausea
+21833-003461-DISCHARGE_SUMMARY.txt	emesis	C0042963	emesis
+21833-003461-DISCHARGE_SUMMARY.txt	febrile	CUI-less	febrile
+21833-003461-DISCHARGE_SUMMARY.txt	tachycardic	CUI-less	tachycardic
+21833-003461-DISCHARGE_SUMMARY.txt	pneumonia	C0032285	pneumonia
+21833-003461-DISCHARGE_SUMMARY.txt	persistently febrile	C0476474	persistently febrile
+21833-003461-DISCHARGE_SUMMARY.txt	respiratory status	CUI-less	respiratory status
+21833-003461-DISCHARGE_SUMMARY.txt	enlarged R kidney	CUI-less	enlarged r kidney
+21833-003461-DISCHARGE_SUMMARY.txt	adipose tissue densities	CUI-less	adipose tissue densities
+21833-003461-DISCHARGE_SUMMARY.txt	air fluid levels	CUI-less	air fluid levels
+21833-003461-DISCHARGE_SUMMARY.txt	gas present	CUI-less	gas present
+21833-003461-DISCHARGE_SUMMARY.txt	enlarged spleen	CUI-less	enlarged spleen
+21833-003461-DISCHARGE_SUMMARY.txt	renal lesion	CUI-less	renal lesion
+21833-003461-DISCHARGE_SUMMARY.txt	difficulty breathing	C0013404	difficulty breathing
+21833-003461-DISCHARGE_SUMMARY.txt	flank pain ... right	C0423640	flank pain right
+21833-003461-DISCHARGE_SUMMARY.txt	N	C0027497	n
+21833-003461-DISCHARGE_SUMMARY.txt	V	C0042963	five
+21833-003461-DISCHARGE_SUMMARY.txt	chest pain	C0008031	chest pain
+21833-003461-DISCHARGE_SUMMARY.txt	loose stools	C0011991	loose stools
+21833-003461-DISCHARGE_SUMMARY.txt	blood in stool	C1321898	blood in stool
+21833-003461-DISCHARGE_SUMMARY.txt	pharyngitis	C0031350	pharyngitis
+21833-003461-DISCHARGE_SUMMARY.txt	skin infection	C0037278	skin infection
+21833-003461-DISCHARGE_SUMMARY.txt	dysuria	C0013428	dysuria
+21833-003461-DISCHARGE_SUMMARY.txt	muscle aches	C0231528	muscle aches
+21833-003461-DISCHARGE_SUMMARY.txt	joint pains	C0003862	joint pains
+21833-003461-DISCHARGE_SUMMARY.txt	non productive cough	C0850149	non productive cough
+21833-003461-DISCHARGE_SUMMARY.txt	headache	C0018681	headache
+21833-003461-DISCHARGE_SUMMARY.txt	n	C0027497	n
+21833-003461-DISCHARGE_SUMMARY.txt	v	C0042963	five
+21833-003461-DISCHARGE_SUMMARY.txt	recent trauma	C0332665	recent trauma
+21833-003461-DISCHARGE_SUMMARY.txt	skin breakdown	CUI-less	skin breakdown
+21833-003461-DISCHARGE_SUMMARY.txt	tuberous sclerosis	C0041341	tuberous sclerosis
+21833-003461-DISCHARGE_SUMMARY.txt	seizure disorder	C0014544	seizure disorder
+21833-003461-DISCHARGE_SUMMARY.txt	distressed	CUI-less	distressed
+21833-003461-DISCHARGE_SUMMARY.txt	pharyngeal exudate	CUI-less	pharyngeal exudate
+21833-003461-DISCHARGE_SUMMARY.txt	JVD	CUI-less	jugular venous distention
+21833-003461-DISCHARGE_SUMMARY.txt	LAD	CUI-less	lymphadenopathy
+21833-003461-DISCHARGE_SUMMARY.txt	murmurs	CUI-less	murmurs
+21833-003461-DISCHARGE_SUMMARY.txt	rubs	CUI-less	rubs
+21833-003461-DISCHARGE_SUMMARY.txt	tachy	CUI-less	tachy
+21833-003461-DISCHARGE_SUMMARY.txt	rhonci	C0035508	rhonci
+21833-003461-DISCHARGE_SUMMARY.txt	decreased BS	CUI-less	decreased bloom s syndrome
+21833-003461-DISCHARGE_SUMMARY.txt	ABD ... distended	CUI-less	abdomen distended
+21833-003461-DISCHARGE_SUMMARY.txt	ABD ... tenderness ... RUQ	C3164070	abdomen tenderness right upper quadrant
+21833-003461-DISCHARGE_SUMMARY.txt	rebound	C0234246	rebound
+21833-003461-DISCHARGE_SUMMARY.txt	organomegaly	CUI-less	organomegaly
+21833-003461-DISCHARGE_SUMMARY.txt	flank tenderness	C0235634	flank tenderness
+21833-003461-DISCHARGE_SUMMARY.txt	rashes	C0015230	rashes
+21833-003461-DISCHARGE_SUMMARY.txt	skin breakdown	CUI-less	skin breakdown
+21833-003461-DISCHARGE_SUMMARY.txt	focal deficits	CUI-less	focal deficits
+21833-003461-DISCHARGE_SUMMARY.txt	pulmonary infiltrates	C0034068	pulmonary infiltrates
+21833-003461-DISCHARGE_SUMMARY.txt	pneumonia	C0032285	pneumonia
+21833-003461-DISCHARGE_SUMMARY.txt	left effusion	C0013687	left effusion
+21833-003461-DISCHARGE_SUMMARY.txt	deformed	C0302142	deformed
+21833-003461-DISCHARGE_SUMMARY.txt	enlarged right kidney	CUI-less	enlarged right kidney
+21833-003461-DISCHARGE_SUMMARY.txt	kidney ... AMLs	C0241961	kidney amls
+21833-003461-DISCHARGE_SUMMARY.txt	lesion	CUI-less	lesion
+21833-003461-DISCHARGE_SUMMARY.txt	AML	C0206633	acute myeloid leukemia
+21833-003461-DISCHARGE_SUMMARY.txt	renal cell carcinoma	C0007134	renal cell carcinoma
+21833-003461-DISCHARGE_SUMMARY.txt	left atrium ... dilated	C0344720	left atrium dilated
+21833-003461-DISCHARGE_SUMMARY.txt	interatrial septum ... aneurysmal	C0521533	interatrial septum aneurysmal
+21833-003461-DISCHARGE_SUMMARY.txt	patent foramen ovale	C0016522	patent foramen ovale
+21833-003461-DISCHARGE_SUMMARY.txt	aortic regurgitation	C0003504	aortic regurgitation
+21833-003461-DISCHARGE_SUMMARY.txt	masses	CUI-less	masses
+21833-003461-DISCHARGE_SUMMARY.txt	vegetations ... aortic valve	C0577870	vegetations aortic valve
+21833-003461-DISCHARGE_SUMMARY.txt	mitral valve prolapse	C0026267	mitral valve prolapse
+21833-003461-DISCHARGE_SUMMARY.txt	mass	CUI-less	mass
+21833-003461-DISCHARGE_SUMMARY.txt	vegetation ... mitral valve	C0577871	vegetation mitral valve
+21833-003461-DISCHARGE_SUMMARY.txt	mitral regurgitation	C0026266	mitral regurgitation
+21833-003461-DISCHARGE_SUMMARY.txt	pericardial effusion	C0031039	pericardial effusion
+21833-003461-DISCHARGE_SUMMARY.txt	Patent foramen ovale	C0016522	patent foramen ovale
+21833-003461-DISCHARGE_SUMMARY.txt	tuberous sclerosis	C0041341	tuberous sclerosis
+21833-003461-DISCHARGE_SUMMARY.txt	Group A Strep bacteremia	C0554628	group a strep bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	sepsis	C0243026	sepsis
+21833-003461-DISCHARGE_SUMMARY.txt	Bacteremia	C0004610	bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	Strep A group bacteremia	C0554628	strep a group bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	vegatations	C1285498	vegatations
+21833-003461-DISCHARGE_SUMMARY.txt	Hypoxia	C0242184	hypoxia
+21833-003461-DISCHARGE_SUMMARY.txt	hypoxic	C0242184	hypoxic
+21833-003461-DISCHARGE_SUMMARY.txt	paneumonia	C0032285	paneumonia
+21833-003461-DISCHARGE_SUMMARY.txt	ARDS	C0035222	acute respiratory distress syndrome
+21833-003461-DISCHARGE_SUMMARY.txt	angiomyolipoma	C0206633	angiomyolipoma
+21833-003461-DISCHARGE_SUMMARY.txt	tuberous sclerosis	C0041341	tuberous sclerosis
+21833-003461-DISCHARGE_SUMMARY.txt	Seizure d/o	C0014544	seizure d o
+21833-003461-DISCHARGE_SUMMARY.txt	fever	CUI-less	fever
+21833-003461-DISCHARGE_SUMMARY.txt	Tuberous sclerosis	C0041341	tuberous sclerosis
+21833-003461-DISCHARGE_SUMMARY.txt	Seizure disorder	C0014544	seizure disorder
+21833-003461-DISCHARGE_SUMMARY.txt	fever	CUI-less	fever
+21833-003461-DISCHARGE_SUMMARY.txt	cough	C0010200	cough
+21833-003461-DISCHARGE_SUMMARY.txt	chest pain	C0008031	chest pain
+21833-003461-DISCHARGE_SUMMARY.txt	rigors	CUI-less	rigors
+21833-003461-DISCHARGE_SUMMARY.txt	nausea	C0027497	nausea
+21833-003461-DISCHARGE_SUMMARY.txt	vomitting	C0042963	vomitting
+21833-003461-DISCHARGE_SUMMARY.txt	angiomyolipoma	C0206633	angiomyolipoma
+21833-003461-DISCHARGE_SUMMARY.txt	endocarditis	C0014118	endocarditis
+21833-003461-DISCHARGE_SUMMARY.txt	patent foramen ovale	C0016522	patent foramen ovale
+21833-003461-DISCHARGE_SUMMARY.txt	recent ... wounds	C1265680	recent wounds
+21833-003461-DISCHARGE_SUMMARY.txt	UTI	C0042029	urinary tract infection
+21833-003461-DISCHARGE_SUMMARY.txt	hemorrhage	C0019080	hemorrhage
+21833-003461-DISCHARGE_SUMMARY.txt	LLE	C0239340	left lower extremity
+21833-003461-DISCHARGE_SUMMARY.txt	hemorrhage	C0019080	hemorrhage
+21833-003461-DISCHARGE_SUMMARY.txt	effusions	C0013687	effusions
+21833-003461-DISCHARGE_SUMMARY.txt	endocarditis	C0014118	endocarditis
+21833-003461-DISCHARGE_SUMMARY.txt	Group A streptococcus bacteremia	C0554628	group a streptococcus bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	feeling LH	C0220870	feeling lh
+21833-003461-DISCHARGE_SUMMARY.txt	pain ... abdomen	C0000737	pain abdomen
+21833-003461-DISCHARGE_SUMMARY.txt	Group A strep bacteremia	C0554628	group a strep bacteremia
+21833-003461-DISCHARGE_SUMMARY.txt	fatty infiltrate	C0332448	fatty infiltrate
+21833-003461-DISCHARGE_SUMMARY.txt	ABD ... soft	CUI-less	abdomen soft
+21833-003461-DISCHARGE_SUMMARY.txt	Group A strep	C0554628	group a strep
+21833-003461-DISCHARGE_SUMMARY.txt	gropu B streptococcus	C1960564	gropu b streptococcus
+21833-003461-DISCHARGE_SUMMARY.txt	dry mucosa	CUI-less	dry mucosa
+21833-003461-DISCHARGE_SUMMARY.txt	renal lesions	CUI-less	renal lesions
+21833-003461-DISCHARGE_SUMMARY.txt	fatty infiltrate	C0332448	fatty infiltrate
+21833-003461-DISCHARGE_SUMMARY.txt	strep A	C0554628	strep a
+21967-106697-ECHO_REPORT.txt	Left ventricular function	CUI-less	left ventricular function
+21967-106697-ECHO_REPORT.txt	bradycrdia	C0428977	bradycrdia
+21967-106697-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+21967-106697-ECHO_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+21967-106697-ECHO_REPORT.txt	right ventricular ... dilated	C0344893	right ventricular dilated
+21967-106697-ECHO_REPORT.txt	aortic root ... dilated	C0238669	aortic root dilated
+21967-106697-ECHO_REPORT.txt	aortic valve leaflets ... thickened	CUI-less	aortic valve leaflets thickened
+21967-106697-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+21967-106697-ECHO_REPORT.txt	tricuspid ... leaflets ... thickened	C2959459	tricuspid leaflets thickened
+21967-106697-ECHO_REPORT.txt	tricuspid ... regurgitation	C0040961	tricuspid regurgitation
+21967-106697-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+21967-106697-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+21967-106697-ECHO_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+21967-106697-ECHO_REPORT.txt	right ventricular ... dilated	C0344893	right ventricular dilated
+21967-106697-ECHO_REPORT.txt	aortic root ... dilated	C0238669	aortic root dilated
+21967-106697-ECHO_REPORT.txt	aortic valve leaflets ... thickened	CUI-less	aortic valve leaflets thickened
+21967-106697-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+21967-106697-ECHO_REPORT.txt	tricuspid ... leaflets ... thickened	C2959459	tricuspid leaflets thickened
+21967-106697-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+21971-062555-ECG_REPORT.txt	Sinus rhythm	CUI-less	sinus rhythm
+21971-062555-ECG_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+21971-062555-ECG_REPORT.txt	Q-T interval prolongation	CUI-less	q t interval prolongation
+21971-062555-ECG_REPORT.txt	P-R interval prolongation	CUI-less	p r interval prolongation
+22225-075494-ECG_REPORT.txt	Repolarization	CUI-less	repolarization
+22225-075494-ECG_REPORT.txt	paced rhythm	CUI-less	paced rhythm
+22225-075494-ECG_REPORT.txt	Atrial fibrillation	C0004238	atrial fibrillation
+22225-075494-ECG_REPORT.txt	ST changes are nonspecific	CUI-less	st changes are nonspecific
+22230-040122-ECG_REPORT.txt	Sinus rhythm	CUI-less	sinus rhythm
+22230-040122-ECG_REPORT.txt	Left axis deviation	CUI-less	left axis deviation
+22230-040122-ECG_REPORT.txt	Left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+22230-040122-ECG_REPORT.txt	non-specific ST-T wave changes	CUI-less	non specific st t wave changes
+22230-040122-ECG_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+22230-040122-ECG_REPORT.txt	ST-T wave changes	CUI-less	st t wave changes
+22264-260776-RADIOLOGY_REPORT.txt	abd distention	CUI-less	abd distention
+22264-260776-RADIOLOGY_REPORT.txt	nausea	C0027497	nausea
+22264-260776-RADIOLOGY_REPORT.txt	LIVER FAILURE	C0085605	liver failure
+22264-260776-RADIOLOGY_REPORT.txt	abd distention	CUI-less	abd distention
+22264-260776-RADIOLOGY_REPORT.txt	prominent loops ... small bowel	CUI-less	prominent loops small bowel
+22264-260776-RADIOLOGY_REPORT.txt	gas in ... colon	CUI-less	gas in colon
+22264-260776-RADIOLOGY_REPORT.txt	nausea	C0027497	nausea
+22264-260776-RADIOLOGY_REPORT.txt	Retained barium	CUI-less	retained barium
+22264-260776-RADIOLOGY_REPORT.txt	nausea	C0027497	nausea
+22264-260776-RADIOLOGY_REPORT.txt	abdominal distention	CUI-less	abdominal distention
+22264-260776-RADIOLOGY_REPORT.txt	partial small bowel obstruction	C0281936	partial small bowel obstruction
+22566-151087-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+22566-151087-RADIOLOGY_REPORT.txt	cardiapulm changes	CUI-less	cardiapulm changes
+22566-151087-RADIOLOGY_REPORT.txt	SEIZURE	C0036572	seizure
+22566-151087-RADIOLOGY_REPORT.txt	RUL pneumonia	C0585106	right upper lobe pneumonia
+22566-151087-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+22566-151087-RADIOLOGY_REPORT.txt	cardiapulm changes	CUI-less	cardiapulm changes
+22566-151087-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+22566-151087-RADIOLOGY_REPORT.txt	interstitial markings	CUI-less	interstitial markings
+22566-151087-RADIOLOGY_REPORT.txt	pulmonary overload	C0340106	pulmonary overload
+22566-151087-RADIOLOGY_REPORT.txt	cardiomegaly	CUI-less	cardiomegaly
+22566-151087-RADIOLOGY_REPORT.txt	gastric distention	CUI-less	gastric distention
+22566-151087-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+22566-151087-RADIOLOGY_REPORT.txt	interstitial markings	CUI-less	interstitial markings
+22566-151087-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+22566-151087-RADIOLOGY_REPORT.txt	Healed fracture	CUI-less	healed fracture
+22566-151087-RADIOLOGY_REPORT.txt	atelectasis	C0004144	atelectasis
+22682-065777-ECG_REPORT.txt	atrial flutter	C0004239	atrial flutter
+22682-065777-ECG_REPORT.txt	variable block	CUI-less	variable block
+22739-020612-DISCHARGE_SUMMARY.txt	increasing thirst	C0241379	increasing thirst
+22739-020612-DISCHARGE_SUMMARY.txt	increasing ... urination	CUI-less	increasing urination
+22739-020612-DISCHARGE_SUMMARY.txt	urinating multiple times	CUI-less	urinating multiple times
+22739-020612-DISCHARGE_SUMMARY.txt	vomiting	C0042963	vomiting
+22739-020612-DISCHARGE_SUMMARY.txt	abdominal discomfort	C0232487	abdominal discomfort
+22739-020612-DISCHARGE_SUMMARY.txt	diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	Genital herpes	C0019342	genital herpes
+22739-020612-DISCHARGE_SUMMARY.txt	hypertension	C0020538	hypertension
+22739-020612-DISCHARGE_SUMMARY.txt	coronary artery disease	C1956346	coronary artery disease
+22739-020612-DISCHARGE_SUMMARY.txt	diabetes mellitus	C0011849	diabetes mellitus
+22739-020612-DISCHARGE_SUMMARY.txt	cancer	C0006826	cancer
+22739-020612-DISCHARGE_SUMMARY.txt	jugular venous distention	CUI-less	jugular venous distention
+22739-020612-DISCHARGE_SUMMARY.txt	lymphadenopathy	CUI-less	lymphadenopathy
+22739-020612-DISCHARGE_SUMMARY.txt	systolic murmur	CUI-less	systolic murmur
+22739-020612-DISCHARGE_SUMMARY.txt	Abdomen ... nontender	CUI-less	abdomen nontender
+22739-020612-DISCHARGE_SUMMARY.txt	Abdomen ... nondistended	CUI-less	abdomen nondistended
+22739-020612-DISCHARGE_SUMMARY.txt	masses	CUI-less	masses
+22739-020612-DISCHARGE_SUMMARY.txt	clubbing	C0149651	clubbing
+22739-020612-DISCHARGE_SUMMARY.txt	cyanosis	C0010520	cyanosis
+22739-020612-DISCHARGE_SUMMARY.txt	edema	C0013604	edema
+22739-020612-DISCHARGE_SUMMARY.txt	diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	diabetic ketoacidosis	C0011880	diabetic ketoacidosis
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	diabetic	C0011849	diabetic
+22739-020612-DISCHARGE_SUMMARY.txt	symptoms	C1457887	symptoms
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetic ketoacidosis	C0011880	diabetic ketoacidosis
+22739-020612-DISCHARGE_SUMMARY.txt	Type 1 diabetes mellitus	C0011854	type one diabetes mellitus
+22739-020612-DISCHARGE_SUMMARY.txt	Hypovolemia	CUI-less	hypovolemia
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	dizziness	C0012833	dizziness
+22739-020612-DISCHARGE_SUMMARY.txt	symptoms	C0231217	symptoms
+22739-020612-DISCHARGE_SUMMARY.txt	symptoms	C0231217	symptoms
+22739-020612-DISCHARGE_SUMMARY.txt	hypertensive	C0020538	hypertensive
+22739-020612-DISCHARGE_SUMMARY.txt	tachycardic	CUI-less	tachycardic
+22739-020612-DISCHARGE_SUMMARY.txt	lost 37 pounds	CUI-less	lost 37 pounds
+22739-020612-DISCHARGE_SUMMARY.txt	blood sugar ... high	CUI-less	blood sugar high
+22739-020612-DISCHARGE_SUMMARY.txt	Diabetes	C0011849	diabetes
+22739-020612-DISCHARGE_SUMMARY.txt	wheezes	C0043144	wheezes
+22739-020612-DISCHARGE_SUMMARY.txt	rales	C0034642	rales
+22743-004908-DISCHARGE_SUMMARY.txt	leptomeningeal disease	CUI-less	leptomeningeal disease
+22743-004908-DISCHARGE_SUMMARY.txt	nausea	C0027497	nausea
+22743-004908-DISCHARGE_SUMMARY.txt	vomitting	C0042963	vomitting
+22743-004908-DISCHARGE_SUMMARY.txt	UTI	C0042029	urinary tract infection
+22743-004908-DISCHARGE_SUMMARY.txt	lesion	CUI-less	lesion
+22743-004908-DISCHARGE_SUMMARY.txt	puss	CUI-less	puss
+22743-004908-DISCHARGE_SUMMARY.txt	tumor	C0027651	tumor
+22743-004908-DISCHARGE_SUMMARY.txt	Breast CA	C0006142	breast ca
+22743-004908-DISCHARGE_SUMMARY.txt	leptomeningeal disease	CUI-less	leptomeningeal disease
+22743-004908-DISCHARGE_SUMMARY.txt	Hypothyroidism	C0020676	hypothyroidism
+22743-004908-DISCHARGE_SUMMARY.txt	bowel obstruction	C0021843	bowel obstruction
+22743-004908-DISCHARGE_SUMMARY.txt	bowel obstruction	C0021843	bowel obstruction
+22743-004908-DISCHARGE_SUMMARY.txt	colon cancer	C0007102	colon cancer
+22743-004908-DISCHARGE_SUMMARY.txt	coronary problems	CUI-less	coronary problems
+22743-004908-DISCHARGE_SUMMARY.txt	Sacral ulcer	C2919335	sacral ulcer
+22743-004908-DISCHARGE_SUMMARY.txt	puss	CUI-less	puss
+22743-004908-DISCHARGE_SUMMARY.txt	erythema	C0041834	erythema
+22743-004908-DISCHARGE_SUMMARY.txt	MG	CUI-less	mg
+22743-004908-DISCHARGE_SUMMARY.txt	R	CUI-less	r
+22743-004908-DISCHARGE_SUMMARY.txt	ABD ... nontender	CUI-less	abdomen nontender
+22743-004908-DISCHARGE_SUMMARY.txt	ABD ... nondistended	CUI-less	abdomen nondistended
+22743-004908-DISCHARGE_SUMMARY.txt	changes in personality	C0240735	changes in personality
+22743-004908-DISCHARGE_SUMMARY.txt	level of alertness	CUI-less	level of alertness
+22743-004908-DISCHARGE_SUMMARY.txt	erythema	C0041834	erythema
+22743-004908-DISCHARGE_SUMMARY.txt	edema	C0013604	edema
+22743-004908-DISCHARGE_SUMMARY.txt	fluctuance	CUI-less	fluctuance
+22743-004908-DISCHARGE_SUMMARY.txt	infxn	C0021311	infxn
+22743-004908-DISCHARGE_SUMMARY.txt	nystagmus	C0028738	nystagmus
+22743-004908-DISCHARGE_SUMMARY.txt	palate elevated	CUI-less	palate elevated
+22743-004908-DISCHARGE_SUMMARY.txt	thrush	C0006849	thrush
+22743-004908-DISCHARGE_SUMMARY.txt	breast carcinoma	C0678222	breast carcinoma
+22743-004908-DISCHARGE_SUMMARY.txt	meningeal carcinomatosis	C0220654	meningeal carcinomatosis
+22743-004908-DISCHARGE_SUMMARY.txt	ventriculitis	CUI-less	ventriculitis
+22743-004908-DISCHARGE_SUMMARY.txt	LM disease	CUI-less	lm disease
+22743-004908-DISCHARGE_SUMMARY.txt	disease	C0012634	disease
+22743-004908-DISCHARGE_SUMMARY.txt	Myopathy	C0026848	myopathy
+22743-004908-DISCHARGE_SUMMARY.txt	thrush	C0006849	thrush
+22743-004908-DISCHARGE_SUMMARY.txt	Cerebral edema	C0006114	cerebral edema
+22743-004908-DISCHARGE_SUMMARY.txt	Nausea	C0027497	nausea
+22743-004908-DISCHARGE_SUMMARY.txt	R/L disorientation	C0422885	r l disorientation
+22743-004908-DISCHARGE_SUMMARY.txt	ideomotor apraxia	C0234523	ideomotor apraxia
+22743-004908-DISCHARGE_SUMMARY.txt	alopecic from radiation	C0034520	alopecic from radiation
+22743-004908-DISCHARGE_SUMMARY.txt	nystagmus	C0028738	nystagmus
+22743-004908-DISCHARGE_SUMMARY.txt	palate elevated	CUI-less	palate elevated
+22743-004908-DISCHARGE_SUMMARY.txt	thrush	C0006849	thrush
+22743-004908-DISCHARGE_SUMMARY.txt	infection	C0021311	infection
+22743-004908-DISCHARGE_SUMMARY.txt	headache	C0018681	headache
+22743-004908-DISCHARGE_SUMMARY.txt	vision changes	C0042798	vision changes
+22743-004908-DISCHARGE_SUMMARY.txt	redness	CUI-less	redness
+22743-004908-DISCHARGE_SUMMARY.txt	swelling	CUI-less	swelling
+22743-004908-DISCHARGE_SUMMARY.txt	drainage from wound	C0332799	drainage from wound
+22743-004908-DISCHARGE_SUMMARY.txt	fever	CUI-less	fever
+22743-004908-DISCHARGE_SUMMARY.txt	chills	C0085593	chills
+22743-004908-DISCHARGE_SUMMARY.txt	decubitus ulcer	C0011127	decubitus ulcer
+22743-004908-DISCHARGE_SUMMARY.txt	Metastatic	C1384494	metastatic
+22743-004908-DISCHARGE_SUMMARY.txt	metastatic	C1384494	metastatic
+22743-004908-DISCHARGE_SUMMARY.txt	nausea	C0027497	nausea
+22743-004908-DISCHARGE_SUMMARY.txt	Brain Tumor	C0006118	brain tumor
+22743-004908-DISCHARGE_SUMMARY.txt	tired	C0557875	tired
+22743-004908-DISCHARGE_SUMMARY.txt	flat affect	C0233471	flat affect
+22743-004908-DISCHARGE_SUMMARY.txt	Gram Negative Rods	CUI-less	gram negative rods
+22743-004908-DISCHARGE_SUMMARY.txt	dry	C0151908	dry
+22743-004908-DISCHARGE_SUMMARY.txt	tired	C0557875	tired
+22743-004908-DISCHARGE_SUMMARY.txt	breast Ca	C0006142	breast ca
+22743-004908-DISCHARGE_SUMMARY.txt	Gram Negative rods	CUI-less	gram negative rods
+22743-004908-DISCHARGE_SUMMARY.txt	flat affect	C0233471	flat affect
+22743-004908-DISCHARGE_SUMMARY.txt	BM	CUI-less	bm
+22743-004908-DISCHARGE_SUMMARY.txt	Tired	C0557875	tired
+22743-004908-DISCHARGE_SUMMARY.txt	metastatic	C0027627	metastatic
+22743-004908-DISCHARGE_SUMMARY.txt	blood	CUI-less	blood
+22818-041469-ECG_REPORT.txt	Atrial fibrillation	C0004238	atrial fibrillation
+22818-041469-ECG_REPORT.txt	T wave flattening	CUI-less	t wave flattening
+22818-041469-ECG_REPORT.txt	Poor R wave progression	CUI-less	poor r wave progression
+22821-026994-DISCHARGE_SUMMARY.txt	HA	C0018681	ha
+22821-026994-DISCHARGE_SUMMARY.txt	neck pain	C0007859	neck pain
+22821-026994-DISCHARGE_SUMMARY.txt	neck pain	C0007859	neck pain
+22821-026994-DISCHARGE_SUMMARY.txt	HIV+	C0019693	hiv
+22821-026994-DISCHARGE_SUMMARY.txt	HA	C0018681	ha
+22821-026994-DISCHARGE_SUMMARY.txt	N	C0027497	n
+22821-026994-DISCHARGE_SUMMARY.txt	V	C0042963	five
+22821-026994-DISCHARGE_SUMMARY.txt	CP	C0008031	cerebral palsy
+22821-026994-DISCHARGE_SUMMARY.txt	SOB	C0013404	shortness of breath
+22821-026994-DISCHARGE_SUMMARY.txt	trauma	C0043251	trauma
+22821-026994-DISCHARGE_SUMMARY.txt	Alcohol abuse	C0085762	alcohol abuse
+22821-026994-DISCHARGE_SUMMARY.txt	Human immunodeficiency virus	C0019693	human immunodeficiency virus
+22821-026994-DISCHARGE_SUMMARY.txt	pneumocystis carinii pneumonia	C0032305	pneumocystis carinii pneumonia
+22821-026994-DISCHARGE_SUMMARY.txt	CVD	C0007222	cardiovascular disease
+22821-026994-DISCHARGE_SUMMARY.txt	subarachnoid hemorrhage	C0038525	subarachnoid hemorrhage
+22821-026994-DISCHARGE_SUMMARY.txt	ruptured aneurysm	C0162869	ruptured aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	ruptured ... PICA aneurysm	C0349600	ruptured pica aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	ruptured ... PICA ... aneurysm	C0349600	ruptured pica aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	blood ... third ... ventricles	CUI-less	blood three ventricles
+22821-026994-DISCHARGE_SUMMARY.txt	blood ... fourth ventricles	CUI-less	blood four ventricles
+22821-026994-DISCHARGE_SUMMARY.txt	posterior-inferior cerebellar artery aneurysm	C0349600	posterior inferior cerebellar artery aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	vasospasm	C0085616	vasospasm
+22821-026994-DISCHARGE_SUMMARY.txt	new infarction	C0021308	new infarction
+22821-026994-DISCHARGE_SUMMARY.txt	hemorrhage	C0019080	hemorrhage
+22821-026994-DISCHARGE_SUMMARY.txt	hemorrhage	C0019080	hemorrhage
+22821-026994-DISCHARGE_SUMMARY.txt	opacity	CUI-less	opacity
+22821-026994-DISCHARGE_SUMMARY.txt	pneumonia	C0032285	pneumonia
+22821-026994-DISCHARGE_SUMMARY.txt	DVT	C0149871	deep vein thrombosis
+22821-026994-DISCHARGE_SUMMARY.txt	hydrocephalus	C0020255	hydrocephalus
+22821-026994-DISCHARGE_SUMMARY.txt	intraventricular blood products	CUI-less	intraventricular blood products
+22821-026994-DISCHARGE_SUMMARY.txt	subarchnoid hemorrhage	C0038525	subarchnoid hemorrhage
+22821-026994-DISCHARGE_SUMMARY.txt	hydrocephalus	C0020255	hydrocephalus
+22821-026994-DISCHARGE_SUMMARY.txt	aneurysm	C0002940	aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	vasospasm	C0085616	vasospasm
+22821-026994-DISCHARGE_SUMMARY.txt	hyponatremia	CUI-less	hyponatremia
+22821-026994-DISCHARGE_SUMMARY.txt	Subarachnoid hemorrage	C0038525	subarachnoid hemorrage
+22821-026994-DISCHARGE_SUMMARY.txt	aneurysm	C0002940	aneurysm
+22821-026994-DISCHARGE_SUMMARY.txt	HA	C0018681	ha
+22821-026994-DISCHARGE_SUMMARY.txt	visual disturbances	C0547030	visual disturbances
+22821-026994-DISCHARGE_SUMMARY.txt	vomitting	C0042963	vomitting
+22821-026994-DISCHARGE_SUMMARY.txt	dyscoordination	C0520966	dyscoordination
+22821-026994-DISCHARGE_SUMMARY.txt	photophobia	C0085636	photophobia
+22821-026994-DISCHARGE_SUMMARY.txt	ABD ... NT	CUI-less	abdomen non tender
+22821-026994-DISCHARGE_SUMMARY.txt	ABD ... ND	CUI-less	abdomen non distended
+22821-026994-DISCHARGE_SUMMARY.txt	CAD	C1956346	coronary artery disease
+22821-026994-DISCHARGE_SUMMARY.txt	pronator drift	C1504476	pronator drift
+22821-026994-DISCHARGE_SUMMARY.txt	nausea	C0027497	nausea
+22821-026994-DISCHARGE_SUMMARY.txt	Enuresis	C0014394	enuresis
+22821-026994-DISCHARGE_SUMMARY.txt	symptoms	C1457887	symptoms
+22821-026994-DISCHARGE_SUMMARY.txt	edema	C0013604	edema
+22821-026994-DISCHARGE_SUMMARY.txt	Hydrocephalus	C0020255	hydrocephalus
+22891-058961-ECG_REPORT.txt	Sinus rhythm	CUI-less	sinus rhythm
+22891-058961-ECG_REPORT.txt	ST segment depression	CUI-less	st segment depression
+22891-058961-ECG_REPORT.txt	T wave inversion	CUI-less	t wave inversion
+22891-058961-ECG_REPORT.txt	anterolateral myocardial injury	CUI-less	anterolateral myocardial injury
+23039-078076-ECG_REPORT.txt	Sinus rhythm	CUI-less	sinus rhythm
+23039-078076-ECG_REPORT.txt	Prolonged QTc interval	CUI-less	prolonged qtc interval
+23039-078076-ECG_REPORT.txt	QTc interval	CUI-less	qtc interval
+23298-326737-RADIOLOGY_REPORT.txt	hepatitis	C0019158	hepatitis
+23298-326737-RADIOLOGY_REPORT.txt	Hepatitis B	C0019163	hepatitis b
+23298-326737-RADIOLOGY_REPORT.txt	liver volume	CUI-less	liver volume
+23298-326737-RADIOLOGY_REPORT.txt	cyst ... liver	C0267834	cyst liver
+23298-326737-RADIOLOGY_REPORT.txt	lesion ... liver	CUI-less	lesion liver
+23298-326737-RADIOLOGY_REPORT.txt	abnormal focal enhancement	CUI-less	abnormal focal enhancement
+23298-326737-RADIOLOGY_REPORT.txt	dilated	C0012359	dilated
+23298-326737-RADIOLOGY_REPORT.txt	dilated	C0012359	dilated
+23298-326737-RADIOLOGY_REPORT.txt	irregularity ... gallbladder	CUI-less	irregularity gallbladder
+23298-326737-RADIOLOGY_REPORT.txt	adenomyomatosis ... gallbladder	CUI-less	adenomyomatosis gallbladder
+23298-326737-RADIOLOGY_REPORT.txt	varices ... esophagus	C0014867	varices esophagus
+23298-326737-RADIOLOGY_REPORT.txt	spleen ... enlarged	CUI-less	spleen enlarged
+23298-326737-RADIOLOGY_REPORT.txt	ascites	CUI-less	ascites
+23298-326737-RADIOLOGY_REPORT.txt	lesion ... liver	CUI-less	lesion liver
+23298-326737-RADIOLOGY_REPORT.txt	Splenomegaly	CUI-less	splenomegaly
+23298-326737-RADIOLOGY_REPORT.txt	Adenomymatosis ... gallbladder	CUI-less	adenomymatosis gallbladder
+23298-326737-RADIOLOGY_REPORT.txt	ascites	CUI-less	ascites
+23298-326737-RADIOLOGY_REPORT.txt	stones	C0008350	stones
+23298-326737-RADIOLOGY_REPORT.txt	Hep B virus	C0019163	hep b virus
+23389-095475-ECHO_REPORT.txt	Endocarditis	C0014118	endocarditis
+23389-095475-ECHO_REPORT.txt	Left ventricular function	CUI-less	left ventricular function
+23389-095475-ECHO_REPORT.txt	Tachycardia	CUI-less	tachycardia
+23389-095475-ECHO_REPORT.txt	sepsis	C0243026	sepsis
+23389-095475-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+23389-095475-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+23389-095475-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+23389-095475-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+23389-095475-ECHO_REPORT.txt	hypokinetic	C0086439	hypokinetic
+23389-095475-ECHO_REPORT.txt	aortic regurgitation	C0003504	aortic regurgitation
+23389-095475-ECHO_REPORT.txt	masses	CUI-less	masses
+23389-095475-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+23389-095475-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+23389-095475-ECHO_REPORT.txt	aortic regurgitation	C0003504	aortic regurgitation
+23389-095475-ECHO_REPORT.txt	left ventricular systolic function ... normal	CUI-less	left ventricular systolic function normal
+23590-017830-DISCHARGE_SUMMARY.txt	white blood cells with ... bacteria	C0023510	white blood cells with bacteria
+23590-017830-DISCHARGE_SUMMARY.txt	positive nitrates	CUI-less	positive nitrates
+23590-017830-DISCHARGE_SUMMARY.txt	positive urinalysis	CUI-less	positive urinalysis
+23590-017830-DISCHARGE_SUMMARY.txt	positive leukocyte esterase	CUI-less	positive leukocyte esterase
+23893-094803-ECG_REPORT.txt	Sinus rhythm	CUI-less	sinus rhythm
+23893-094803-ECG_REPORT.txt	ventricular ectopy	C0151636	ventricular ectopy
+23893-094803-ECG_REPORT.txt	sinus rhythm	CUI-less	sinus rhythm
+23893-094803-ECG_REPORT.txt	atrial ectopy	C0085611	atrial ectopy
+23893-094803-ECG_REPORT.txt	ventriciular ectopy	C0151636	ventriciular ectopy
+23893-094803-ECG_REPORT.txt	rate	CUI-less	rate
+23893-094803-ECG_REPORT.txt	Left atrial abnormality	C0344711	left atrial abnormality
+23893-094803-ECG_REPORT.txt	Atrial bigeminy	C0262382	atrial bigeminy
+23969-299900-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+23969-299900-RADIOLOGY_REPORT.txt	edema	C0013604	edema
+23969-299900-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+23969-299900-RADIOLOGY_REPORT.txt	edema	C0013604	edema
+23969-299900-RADIOLOGY_REPORT.txt	lower extremity edema	C0239340	lower extremity edema
+23969-299900-RADIOLOGY_REPORT.txt	fatigue	C0015672	fatigue
+23969-299900-RADIOLOGY_REPORT.txt	infiltrate	C0332448	infiltrate
+23969-299900-RADIOLOGY_REPORT.txt	edema	C0013604	edema
+23969-299900-RADIOLOGY_REPORT.txt	pulmonary ... simplification	CUI-less	pulmonary simplification
+23969-299900-RADIOLOGY_REPORT.txt	centrilobular emphysema	C0221227	centrilobular emphysema
+23969-299900-RADIOLOGY_REPORT.txt	pleural thickening	C0264545	pleural thickening
+23969-299900-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+23969-299900-RADIOLOGY_REPORT.txt	CHF	C0018802	congestive heart failure
+23969-299900-RADIOLOGY_REPORT.txt	osteopenia	C0029453	osteopenia
+23969-299900-RADIOLOGY_REPORT.txt	vertebral compression	CUI-less	vertebral compression
+23969-299900-RADIOLOGY_REPORT.txt	obstructive airways disease	C0600260	obstructive airways disease
+23969-299900-RADIOLOGY_REPORT.txt	pulmonary hyperinflation	C1167782	pulmonary hyperinflation
+23969-299900-RADIOLOGY_REPORT.txt	obstructive lung disease	C0600260	obstructive lung disease
+23969-299900-RADIOLOGY_REPORT.txt	pulmonary vascular congestion	C0242073	pulmonary vascular congestion
+23969-299900-RADIOLOGY_REPORT.txt	LE edema	C0239340	lower extremity edema
+23969-299900-RADIOLOGY_REPORT.txt	fatigue	C0015672	fatigue
+24432-013472-DISCHARGE_SUMMARY.txt	coronary artery disease	C1956346	coronary artery disease
+24432-013472-DISCHARGE_SUMMARY.txt	hypertension	C0020538	hypertension
+24432-013472-DISCHARGE_SUMMARY.txt	chronic obstructive pulmonary disease	C0024117	chronic obstructive pulmonary disease
+24432-013472-DISCHARGE_SUMMARY.txt	chronic lymphocytic leukemia	C0023434	chronic lymphocytic leukemia
+24432-013472-DISCHARGE_SUMMARY.txt	hypogammaglobinemia	C0086438	hypogammaglobinemia
+24432-013472-DISCHARGE_SUMMARY.txt	liver ... metastases	C0563490	liver metastases
+24432-013472-DISCHARGE_SUMMARY.txt	brain metastases	C0563517	brain metastases
+24432-013472-DISCHARGE_SUMMARY.txt	unknown primary	C0027667	unknown primary
+24432-013472-DISCHARGE_SUMMARY.txt	brain metastatic bleed	C0553692	brain metastatic bleed
+24432-013472-DISCHARGE_SUMMARY.txt	seizure disorder	C0014544	seizure disorder
+24432-013472-DISCHARGE_SUMMARY.txt	acute respiratory distress	C0748355	acute respiratory distress
+24432-013472-DISCHARGE_SUMMARY.txt	aspiration pneumonia	C0032290	aspiration pneumonia
+24432-013472-DISCHARGE_SUMMARY.txt	MI	C0027051	myocardial infarction
+24432-013472-DISCHARGE_SUMMARY.txt	metastatic bleed	C0019080	metastatic bleed
+24432-013472-DISCHARGE_SUMMARY.txt	aspiration pneumonia	C0032290	aspiration pneumonia
+24432-013472-DISCHARGE_SUMMARY.txt	eosinophilia	C0014457	eosinophilia
+24432-013472-DISCHARGE_SUMMARY.txt	eosinophilia	C0014457	eosinophilia
+24432-013472-DISCHARGE_SUMMARY.txt	AV fistula	C0003855	atrioventricular fistula
+24432-013472-DISCHARGE_SUMMARY.txt	groin hematoma	C0585249	groin hematoma
+24432-013472-DISCHARGE_SUMMARY.txt	drop in blood pressure	C0520541	drop in blood pressure
+24432-013472-DISCHARGE_SUMMARY.txt	aspiration event	CUI-less	aspiration event
+24432-013472-DISCHARGE_SUMMARY.txt	sepsis	C0243026	sepsis
+24432-013472-DISCHARGE_SUMMARY.txt	blood loss	C0019080	blood loss
+24432-013472-DISCHARGE_SUMMARY.txt	groin hematoma	C0585249	groin hematoma
+24432-013472-DISCHARGE_SUMMARY.txt	hypotensive	C0520541	hypotensive
+24432-013472-DISCHARGE_SUMMARY.txt	aspiration pneumonia	C0032290	aspiration pneumonia
+24432-013472-DISCHARGE_SUMMARY.txt	PE	C0034065	pe
+24432-013472-DISCHARGE_SUMMARY.txt	bilateral pleural effusions	C0747635	bilateral pleural effusions
+24432-013472-DISCHARGE_SUMMARY.txt	polycystic kidney disease	C0022680	polycystic kidney disease
+24432-013472-DISCHARGE_SUMMARY.txt	liver metastasis	C0494165	liver metastasis
+24432-013472-DISCHARGE_SUMMARY.txt	eosinophilia	C0014457	eosinophilia
+24432-013472-DISCHARGE_SUMMARY.txt	multiple drug interactions	CUI-less	multiple drug interactions
+24432-013472-DISCHARGE_SUMMARY.txt	drug rash	C0011609	drug rash
+24432-013472-DISCHARGE_SUMMARY.txt	drug reaction	C0041755	drug reaction
+24432-013472-DISCHARGE_SUMMARY.txt	spiking temperatures	CUI-less	spiking temperatures
+24432-013472-DISCHARGE_SUMMARY.txt	drug fever	C1320835	drug fever
+24432-013472-DISCHARGE_SUMMARY.txt	blood pressure	CUI-less	blood pressure
+24432-013472-DISCHARGE_SUMMARY.txt	spiking temperatures	CUI-less	spiking temperatures
+24432-013472-DISCHARGE_SUMMARY.txt	seizures	C0014544	seizures
+24432-013472-DISCHARGE_SUMMARY.txt	hypoxic	C0242184	hypoxic
+24432-013472-DISCHARGE_SUMMARY.txt	breath sounds	CUI-less	breath sounds
+24432-013472-DISCHARGE_SUMMARY.txt	Pupils ... fixed ... dilated	CUI-less	pupils fixed dilated
+24432-013472-DISCHARGE_SUMMARY.txt	respond to ... light	CUI-less	respond to light
+24432-013472-DISCHARGE_SUMMARY.txt	sternal rub	CUI-less	sternal rub
+24432-013472-DISCHARGE_SUMMARY.txt	line sepsis	C1536163	line sepsis
+24432-013472-DISCHARGE_SUMMARY.txt	MRSA	C0343401	methicillin resistant staphylococcus aureus
+24432-013472-DISCHARGE_SUMMARY.txt	No heart sounds	CUI-less	no heart sounds
+24432-013472-DISCHARGE_SUMMARY.txt	pain sensation	CUI-less	pain sensation
+24638-098945-ECHO_REPORT.txt	hypokinesis	C0086439	hypokinesis
+24638-098945-ECHO_REPORT.txt	AS	C0003507	asperger syndrome
+24638-098945-ECHO_REPORT.txt	MR	C0026266	mitral regurgitation
+24638-098945-ECHO_REPORT.txt	TR	C0040961	tricuspid regurgitation
+24638-098945-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+24638-098945-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+24638-098945-ECHO_REPORT.txt	endocarditis	C0014118	endocarditis
+24638-098945-ECHO_REPORT.txt	left atrium ... elongated	C0344711	left atrium elongated
+24638-098945-ECHO_REPORT.txt	hypokinesis	C0086439	hypokinesis
+24638-098945-ECHO_REPORT.txt	aortic stenosis	C0003507	aortic stenosis
+24638-098945-ECHO_REPORT.txt	aortic regurgitation	C0003504	aortic regurgitation
+24638-098945-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+24638-098945-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+24638-098945-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+24638-098945-ECHO_REPORT.txt	Aortic valve sclerosis	C1455780	aortic valve sclerosis
+24638-098945-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+24638-098945-ECHO_REPORT.txt	left ventricular systolic dysfunction	C1277187	left ventricular systolic dysfunction
+24638-098945-ECHO_REPORT.txt	endocarditis	C0014118	endocarditis
+24638-098945-ECHO_REPORT.txt	vegetations	C1285498	vegetations
+24638-098945-ECHO_REPORT.txt	Endocarditis	C0014118	endocarditis
+24638-098945-ECHO_REPORT.txt	Elongated LA	C0344711	elongated left atrium
+24638-098945-ECHO_REPORT.txt	dilated RA	C0344709	dilated rheumatoid arthritis
+24638-098945-ECHO_REPORT.txt	thickened	CUI-less	thickened
+24638-098945-ECHO_REPORT.txt	pathologic flow	CUI-less	pathologic flow
+24638-098945-ECHO_REPORT.txt	thickened	CUI-less	thickened
+24813-183267-RADIOLOGY_REPORT.txt	SOB	C0013404	shortness of breath
+24813-183267-RADIOLOGY_REPORT.txt	tachy	CUI-less	tachy
+24813-183267-RADIOLOGY_REPORT.txt	PERFORATED DUODENUM	C0267356	perforated duodenum
+24813-183267-RADIOLOGY_REPORT.txt	septic	C0243026	septic
+24813-183267-RADIOLOGY_REPORT.txt	tension PTX	C0264558	tension ptx
+24813-183267-RADIOLOGY_REPORT.txt	SOB	C0013404	shortness of breath
+24813-183267-RADIOLOGY_REPORT.txt	tachy	CUI-less	tachy
+24813-183267-RADIOLOGY_REPORT.txt	pneumothorax	C0032326	pneumothorax
+24813-183267-RADIOLOGY_REPORT.txt	shortness of breath	C0013404	shortness of breath
+24813-183267-RADIOLOGY_REPORT.txt	CHF	C0018802	congestive heart failure
+24813-183267-RADIOLOGY_REPORT.txt	pneumothorax	C0032326	pneumothorax
+24813-183267-RADIOLOGY_REPORT.txt	atelectasis	C0004144	atelectasis
+24813-183267-RADIOLOGY_REPORT.txt	atelectasis	C0004144	atelectasis
+24813-183267-RADIOLOGY_REPORT.txt	CHF	C0018802	congestive heart failure
+24813-183267-RADIOLOGY_REPORT.txt	lung lesions	CUI-less	lung lesions
+24813-183267-RADIOLOGY_REPORT.txt	consolidation ... lower lobe	C0521530	consolidation lower lobe
+24813-183267-RADIOLOGY_REPORT.txt	lower lobe ... consolidation	C0521530	lower lobe consolidation
+24813-183267-RADIOLOGY_REPORT.txt	acute process	CUI-less	acute process
+24813-183267-RADIOLOGY_REPORT.txt	acute process	CUI-less	acute process
+25003-338492-RADIOLOGY_REPORT.txt	pleural ... effusions	C0032227	pleural effusions
+25003-338492-RADIOLOGY_REPORT.txt	effusions	C0013687	effusions
+25003-338492-RADIOLOGY_REPORT.txt	pleural ... effusions	C0032227	pleural effusions
+25003-338492-RADIOLOGY_REPORT.txt	cancer	C0006826	cancer
+25003-338492-RADIOLOGY_REPORT.txt	esophageal leak	C0341563	esophageal leak
+25003-338492-RADIOLOGY_REPORT.txt	leak ... anastomosis	C1265705	leak anastomosis
+25003-338492-RADIOLOGY_REPORT.txt	lung consolidation	C0521530	lung consolidation
+25003-338492-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+25003-338492-RADIOLOGY_REPORT.txt	hydropneumothorax	CUI-less	hydropneumothorax
+25003-338492-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+25003-338492-RADIOLOGY_REPORT.txt	lung consolidation	C0521530	lung consolidation
+25003-338492-RADIOLOGY_REPORT.txt	shotty ... lymph nodes	CUI-less	shotty lymph nodes
+25003-338492-RADIOLOGY_REPORT.txt	free air	C0032320	free air
+25003-338492-RADIOLOGY_REPORT.txt	collapsed	CUI-less	collapsed
+25003-338492-RADIOLOGY_REPORT.txt	injection granulomas	C0085654	injection granulomas
+25003-338492-RADIOLOGY_REPORT.txt	lytic ... lesions	CUI-less	lytic lesions
+25003-338492-RADIOLOGY_REPORT.txt	pleural ... effusions	C0032227	pleural effusions
+25003-338492-RADIOLOGY_REPORT.txt	abdominal effusions	C0685931	abdominal effusions
+25003-338492-RADIOLOGY_REPORT.txt	hydropneumothorax	C0020303	hydropneumothorax
+25003-338492-RADIOLOGY_REPORT.txt	leak ... anastomosis	C1265705	leak anastomosis
+25003-338492-RADIOLOGY_REPORT.txt	amount of stool ... colon	CUI-less	amount of stool colon
+25003-338492-RADIOLOGY_REPORT.txt	adenoma	C0001430	adenoma
+25003-338492-RADIOLOGY_REPORT.txt	consolidation ... lung	C0521530	consolidation lung
+25003-338492-RADIOLOGY_REPORT.txt	fat stranding	CUI-less	fat stranding
+25003-338492-RADIOLOGY_REPORT.txt	fluid collections	C0685931	fluid collections
+25003-338492-RADIOLOGY_REPORT.txt	sclerotic lesions	C0221434	sclerotic lesions
+25003-338492-RADIOLOGY_REPORT.txt	loculated effusion	C1265808	loculated effusion
+25003-338492-RADIOLOGY_REPORT.txt	free air ... abdomen	C0032320	free air abdomen
+25003-338492-RADIOLOGY_REPORT.txt	consolidation	C0521530	consolidation
+25003-338492-RADIOLOGY_REPORT.txt	fluid collections ... abdomen	C0685931	fluid collections abdomen
+25003-338492-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+25003-338492-RADIOLOGY_REPORT.txt	contrast ... extravasation	C1997179	contrast extravasation
+25003-338492-RADIOLOGY_REPORT.txt	soft- tissue densities	CUI-less	soft tissue densities
+25003-338492-RADIOLOGY_REPORT.txt	effusions	C0013687	effusions
+25217-257214-RADIOLOGY_REPORT.txt	thrombus	C0087086	thrombus
+25217-257214-RADIOLOGY_REPORT.txt	clot	C0302148	clot
+25217-257214-RADIOLOGY_REPORT.txt	thrombus	C0087086	thrombus
+25217-257214-RADIOLOGY_REPORT.txt	clot	C0302148	clot
+25217-257214-RADIOLOGY_REPORT.txt	increased total bilirubin	CUI-less	increased total bilirubin
+25217-257214-RADIOLOGY_REPORT.txt	increased TB	CUI-less	increased tuberculosis
+25217-257214-RADIOLOGY_REPORT.txt	liver ... masses	C0240225	liver masses
+25217-257214-RADIOLOGY_REPORT.txt	liver ... nodules	CUI-less	liver nodules
+25217-257214-RADIOLOGY_REPORT.txt	hemangioma	C0018916	hemangioma
+25217-257214-RADIOLOGY_REPORT.txt	ascites	CUI-less	ascites
+25217-257214-RADIOLOGY_REPORT.txt	resistive indices remain low	CUI-less	resistive indices remain low
+25217-257214-RADIOLOGY_REPORT.txt	Turbulent flow	CUI-less	turbulent flow
+25217-257214-RADIOLOGY_REPORT.txt	stenosis	C1261287	stenosis
+25217-257214-RADIOLOGY_REPORT.txt	resistive indices	CUI-less	resistive indices
+25217-257214-RADIOLOGY_REPORT.txt	arterial anastomotic stenosis	CUI-less	arterial anastomotic stenosis
+25217-257214-RADIOLOGY_REPORT.txt	ascites	CUI-less	ascites
+25217-257214-RADIOLOGY_REPORT.txt	liver hemangioma	C0238246	liver hemangioma
+25217-257214-RADIOLOGY_REPORT.txt	dilated bowel segments	CUI-less	dilated bowel segments
+25217-257214-RADIOLOGY_REPORT.txt	ASCTES	CUI-less	asctes
+25217-257214-RADIOLOGY_REPORT.txt	CONFUSION	C0009676	confusion
+25497-096953-ECHO_REPORT.txt	RV pressure ... overload	CUI-less	right ventricular pressure overload
+25497-096953-ECHO_REPORT.txt	RV ... volume overload	CUI-less	right ventricular volume overload
+25497-096953-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+25497-096953-ECHO_REPORT.txt	right ventricular pressure ... overload	CUI-less	right ventricular pressure overload
+25497-096953-ECHO_REPORT.txt	right ventricular ... volume overload	CUI-less	right ventricular volume overload
+25497-096953-ECHO_REPORT.txt	pulmonary embolism	C0034065	pulmonary embolism
+25497-096953-ECHO_REPORT.txt	right ventricular function	CUI-less	right ventricular function
+25497-096953-ECHO_REPORT.txt	dilated RV	C0344893	dilated right ventricular
+25497-096953-ECHO_REPORT.txt	Abnormal septal motion	CUI-less	abnormal septal motion
+25497-096953-ECHO_REPORT.txt	Abnormal septal ... position	CUI-less	abnormal septal position
+25497-096953-ECHO_REPORT.txt	AS	C0003507	asperger syndrome
+25497-096953-ECHO_REPORT.txt	AR	C0003504	aortic regurgitation
+25497-096953-ECHO_REPORT.txt	MR	C0026266	mitral regurgitation
+25497-096953-ECHO_REPORT.txt	TR	C0040961	tricuspid regurgitation
+25497-096953-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+25497-096953-ECHO_REPORT.txt	right ventricular ... dilated	C0344893	right ventricular dilated
+25497-096953-ECHO_REPORT.txt	abnormal septal motion	CUI-less	abnormal septal motion
+25497-096953-ECHO_REPORT.txt	abnormal septal ... position	CUI-less	abnormal septal position
+25497-096953-ECHO_REPORT.txt	aortic regurgitation	C0003504	aortic regurgitation
+25497-096953-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+25497-096953-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+25497-096953-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+25497-096953-ECHO_REPORT.txt	systolic hypertension	C0221155	systolic hypertension
+25497-096953-ECHO_REPORT.txt	Right ventricular ... enlargement	C0344893	right ventricular enlargement
+25585-058370-ECG_REPORT.txt	left axis deviation	CUI-less	left axis deviation
+25585-058370-ECG_REPORT.txt	RBBB	C0085615	right bundle branch block
+25585-058370-ECG_REPORT.txt	left anterior fascicular block	C0264912	left anterior fascicular block
+25844-097135-ECHO_REPORT.txt	Endocarditis	C0014118	endocarditis
+25844-097135-ECHO_REPORT.txt	LA enlargement	C0238705	left atrium enlargement
+25844-097135-ECHO_REPORT.txt	AS	C0003507	asperger syndrome
+25844-097135-ECHO_REPORT.txt	AR	C0003504	aortic regurgitation
+25844-097135-ECHO_REPORT.txt	MR	C0026266	mitral regurgitation
+25844-097135-ECHO_REPORT.txt	TR	C0040961	tricuspid regurgitation
+25844-097135-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+25844-097135-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+25844-097135-ECHO_REPORT.txt	endocarditis	C0014118	endocarditis
+25950-160092-RADIOLOGY_REPORT.txt	gsw	C0043252	gsw
+25950-160092-RADIOLOGY_REPORT.txt	fevers	CUI-less	fevers
+25950-160092-RADIOLOGY_REPORT.txt	abcess	C0000833	abcess
+25950-160092-RADIOLOGY_REPORT.txt	GSW	C0043252	gsw
+25950-160092-RADIOLOGY_REPORT.txt	fevers	CUI-less	fevers
+25950-160092-RADIOLOGY_REPORT.txt	abcess	C0000833	abcess
+25950-160092-RADIOLOGY_REPORT.txt	GSW	C0043252	gsw
+25950-160092-RADIOLOGY_REPORT.txt	gsw	C0043252	gsw
+25950-160092-RADIOLOGY_REPORT.txt	fevers	CUI-less	fevers
+25950-160092-RADIOLOGY_REPORT.txt	abcess	C0000833	abcess
+25950-160092-RADIOLOGY_REPORT.txt	abscess	C0000833	abscess
+25950-160092-RADIOLOGY_REPORT.txt	fevers	CUI-less	fevers
+25950-160092-RADIOLOGY_REPORT.txt	gunshot wound	C0043252	gunshot wound
+25950-160092-RADIOLOGY_REPORT.txt	pneumocephalus	C0032268	pneumocephalus
+25950-160092-RADIOLOGY_REPORT.txt	abscess	C0000833	abscess
+25950-160092-RADIOLOGY_REPORT.txt	intracranial abscess	C0021874	intracranial abscess
+25950-160092-RADIOLOGY_REPORT.txt	trauma	C0043251	trauma
+25950-160092-RADIOLOGY_REPORT.txt	residual air	CUI-less	residual air
+25950-160092-RADIOLOGY_REPORT.txt	air bubbles	CUI-less	air bubbles
+25950-160092-RADIOLOGY_REPORT.txt	lesion	CUI-less	lesion
+25950-160092-RADIOLOGY_REPORT.txt	mass effect	CUI-less	mass effect
+25950-160092-RADIOLOGY_REPORT.txt	opacification	CUI-less	opacification
+26136-101545-ECHO_REPORT.txt	Endocarditis	C0014118	endocarditis
+26136-101545-ECHO_REPORT.txt	Hypertension	C0020538	hypertension
+26136-101545-ECHO_REPORT.txt	Valvular heart disease	C0018824	valvular heart disease
+26136-101545-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+26136-101545-ECHO_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+26136-101545-ECHO_REPORT.txt	left ventricular outflow obstruction	C0344917	left ventricular outflow obstruction
+26136-101545-ECHO_REPORT.txt	calcifications	CUI-less	calcifications
+26136-101545-ECHO_REPORT.txt	aortic valve leaflets ... thickened	CUI-less	aortic valve leaflets thickened
+26136-101545-ECHO_REPORT.txt	aortic valve ... stenotic	C0003507	aortic valve stenotic
+26136-101545-ECHO_REPORT.txt	mitral ... leaflets ... thickened	C3164530	mitral leaflets thickened
+26136-101545-ECHO_REPORT.txt	mitral annular calcification	C0428811	mitral annular calcification
+26136-101545-ECHO_REPORT.txt	thickening ... mitral valve chordae	CUI-less	thickening mitral valve chordae
+26136-101545-ECHO_REPORT.txt	calcified	CUI-less	calcified
+26136-101545-ECHO_REPORT.txt	mitral stenosis	C0026269	mitral stenosis
+26136-101545-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+26136-101545-ECHO_REPORT.txt	tricuspid ... leaflets ... thickened	C2959459	tricuspid leaflets thickened
+26136-101545-ECHO_REPORT.txt	tricuspid regurgitation	C0040961	tricuspid regurgitation
+26136-101545-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+26136-101545-ECHO_REPORT.txt	left atrium ... dilated	C0344720	left atrium dilated
+26136-101545-ECHO_REPORT.txt	left ventricular hypertrophy	C0149721	left ventricular hypertrophy
+26136-101545-ECHO_REPORT.txt	left ventricular outflow obstruction	C0344917	left ventricular outflow obstruction
+26136-101545-ECHO_REPORT.txt	aortic valve leaflets ... thickened	CUI-less	aortic valve leaflets thickened
+26136-101545-ECHO_REPORT.txt	aortic valve ... stenotic	C0003507	aortic valve stenotic
+26136-101545-ECHO_REPORT.txt	mitral ... leaflets ... thickened	C3164530	mitral leaflets thickened
+26136-101545-ECHO_REPORT.txt	mitral valve prolapse	C0026267	mitral valve prolapse
+26136-101545-ECHO_REPORT.txt	thickening ... mitral valve chordae	CUI-less	thickening mitral valve chordae
+26136-101545-ECHO_REPORT.txt	mitral regurgitation	C0026266	mitral regurgitation
+26136-101545-ECHO_REPORT.txt	tricuspid ... leaflets ... thickened	C2959459	tricuspid leaflets thickened
+26136-101545-ECHO_REPORT.txt	pericardial effusion	C0031039	pericardial effusion
+26136-101545-ECHO_REPORT.txt	hypertrophic	C0020564	hypertrophic
+26136-101545-ECHO_REPORT.txt	mitral valve prolapse	C0026267	mitral valve prolapse
+26136-101545-ECHO_REPORT.txt	left ventricular cavity ... unusually small	CUI-less	left ventricular cavity unusually small
+26136-101545-ECHO_REPORT.txt	Left ventricular systolic function is hyperdynamic	CUI-less	left ventricular systolic function is hyperdynamic
+26136-101545-ECHO_REPORT.txt	Left ventricular systolic function ... hyperdynamic	CUI-less	left ventricular systolic function hyperdynamic
+26136-101545-ECHO_REPORT.txt	left ventricle ... hyperdynamic	CUI-less	left ventricle hyperdynamic
+26136-101545-ECHO_REPORT.txt	left ventricular cavity ... small	CUI-less	left ventricular cavity small
+26176-226973-RADIOLOGY_REPORT.txt	cardiac silhouette	CUI-less	cardiac silhouette
+26176-226973-RADIOLOGY_REPORT.txt	pneumoniae	C0032285	pneumoniae
+26176-226973-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+26176-226973-RADIOLOGY_REPORT.txt	pneumoniae	C0032285	pneumoniae
+26176-226973-RADIOLOGY_REPORT.txt	bleeding	C0019080	bleeding
+26176-226973-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+26176-226973-RADIOLOGY_REPORT.txt	opacification	CUI-less	opacification
+26176-226973-RADIOLOGY_REPORT.txt	atelectasis	C0004144	atelectasis
+26176-226973-RADIOLOGY_REPORT.txt	pulmonary edema	C0034063	pulmonary edema
+26176-226973-RADIOLOGY_REPORT.txt	opacity	C1265876	opacity
+26176-226973-RADIOLOGY_REPORT.txt	atelectasis	C0004144	atelectasis
+26176-226973-RADIOLOGY_REPORT.txt	pneumonia	C0032285	pneumonia
+26176-226973-RADIOLOGY_REPORT.txt	Cardiomegaly	CUI-less	cardiomegaly
+26176-226973-RADIOLOGY_REPORT.txt	failure	C0018801	failure
+26176-226973-RADIOLOGY_REPORT.txt	bleeding	C0019080	bleeding
+26563-387055-RADIOLOGY_REPORT.txt	ptx	C0032326	ptx
+26563-387055-RADIOLOGY_REPORT.txt	ptx	C0032326	ptx
+26563-387055-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+26563-387055-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+26563-387055-RADIOLOGY_REPORT.txt	pneumothorax	C0032326	pneumothorax
+26563-387055-RADIOLOGY_REPORT.txt	pneumothorax	C0032326	pneumothorax
+26563-387055-RADIOLOGY_REPORT.txt	heart ... enlarged	CUI-less	heart enlarged
+26563-387055-RADIOLOGY_REPORT.txt	pulmonary vascular redistribution	CUI-less	pulmonary vascular redistribution
+26563-387055-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion
+26563-387055-RADIOLOGY_REPORT.txt	pneumothorax	C0032326	pneumothorax
+26563-387055-RADIOLOGY_REPORT.txt	CHF	C0018802	congestive heart failure
+26563-387055-RADIOLOGY_REPORT.txt	pleural effusion	C0032227	pleural effusion

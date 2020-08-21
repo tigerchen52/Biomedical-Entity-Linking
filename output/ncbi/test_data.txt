@@ -1,0 +1,960 @@
+9949209	copper toxicosis	OMIM:215600	copper toxicosis
+9949209	hepatic copper accumulation	D008107	hepatic copper accumulation
+9949209	inherited disorder	D030342	inherited disorder
+9949209	hepatic copper accumulation	D008107	hepatic copper accumulation
+9949209	wilson disease	D006527	wilson disease
+9949209	wd	D006527	wilson disease
+9949209	copper overload	D008107	copper overload
+9949209	non-indian childhood cirrhosis	OMIM:215600	non indian childhood cirrhosis
+9949209	copper toxicosis	OMIM:215600	copper toxicosis
+9949209	ct	OMIM:215600	copper toxicosis
+9949209	liver disease	D008107	liver disease
+9949209	wd	D006527	wilson disease
+9949209	ct	OMIM:215600	copper toxicosis
+9949209	ct	OMIM:215600	copper toxicosis
+9949209	wd	D006527	wilson disease
+9949209	ct	OMIM:215600	copper toxicosis
+9949209	ct	OMIM:215600	copper toxicosis
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	colorectal cancer	D015179	colorectal cancer
+9950360	colorectal cancer	D015179	colorectal cancer
+9950360	familial adenomatous polyposis	D011125	familial adenomatous polyposis
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	adenomatous polyposis coli	D011125	adenomatous polyposis coli
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	colorectal cancer	D015179	colorectal cancer
+9950360	apc	D011125	adenomatous polyposis coli
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	colorectal cancer	D015179	colorectal cancer
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	colorectal cancer	D015179	colorectal cancer
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	fap	D011125	familial adenomatous polyposis
+9950360	colorectal cancer	D015179	colorectal cancer
+9634518	phenylalanine hydroxylase deficiency	D010661	phenylalanine hydroxylase deficiency
+9634518	phenylketonuria	D010661	phenylketonuria
+9634518	pku	D010661	phenylketonuria
+9634518	mild hyperphenylalaninemia	D010661	mild hyperphenylalaninemia
+9634518	mhp	D010661	mild hyperphenylalaninemia
+9634518	allelic disorders	D030342	allelic disorders
+9634518	pah deficiency	D010661	phenylalanine hydroxylase deficiency
+9634518	pah deficiency	D010661	phenylalanine hydroxylase deficiency
+9634518	hyperphenylalaninemia	D010661	hyperphenylalaninemia
+9563950	myotonic dystrophy	D009223	myotonic dystrophy
+9563950	myotonic dystrophy	D009223	myotonic dystrophy
+9563950	dm	D009223	myotonic dystrophy
+9563950	dm	D009223	myotonic dystrophy
+9563950	dm	D009223	myotonic dystrophy
+9563950	dm	D009223	myotonic dystrophy
+9563950	dm	D009223	myotonic dystrophy
+9674903	maternal disomy	D024182	maternal disomy
+9674903	prader-willi syndrome	D011218	prader willi syndrome
+9674903	maternal uniparental disomy (upd) for chromosome 15	C538037	maternal uniparental disomy uniparental disomy for chromosome fifteen
+9674903	prader-willi syndrome	D011218	prader willi syndrome
+9674903	pws	D011218	prader willi syndrome
+9674903	maternal disomy 15	C538037	maternal disomy fifteen
+9674903	pws	D011218	prader willi syndrome
+9674903	pws	D011218	prader willi syndrome
+9674903	pws	D011218	prader willi syndrome
+9674903	pws	D011218	prader willi syndrome
+9674903	maternal disomy	D024182	maternal disomy
+9674903	uniparental disomy	D024182	uniparental disomy
+9674903	pws	D011218	prader willi syndrome
+9674903	maternal upd 15	C538037	maternal uniparental disomy fifteen
+9674903	pws	D011218	prader willi syndrome
+9863607	myotonic dystrophy	D009223	myotonic dystrophy
+9863607	myotonic dystrophy	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	autosomal dominant disease	D030342	autosomal dominant disease
+9863607	infertility	D007246	infertility
+9863607	congenital myotonic dystrophy	D009223	congenital myotonic dystrophy
+9863607	cdm	D009223	congenital myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9863607	dm	D009223	myotonic dystrophy
+9443866	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9443866	breast cancer	D001943	breast cancer
+9443866	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9443866	a-t	D001260	ataxia telangiectasia
+9443866	a-t	D001260	ataxia telangiectasia
+9311732	unilateral retinoblastoma	D012175	unilateral retinoblastoma
+9311732	unilateral retinoblastoma	D012175	unilateral retinoblastoma
+9311732	tumor	D009369	tumor
+9311732	retinoblastoma	D012175	retinoblastoma
+9311732	unilateral retinoblastoma	D012175	unilateral retinoblastoma
+9311732	tumor	D009369	tumor
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	tumors	D009369	tumors
+9311732	bilateral retinoblastoma	D012175	bilateral retinoblastoma
+9311732	retinoblastoma	D012175	retinoblastoma
+9931324	congenital eye malformations	D005124	congenital eye malformations
+9931324	aniridia	D015783	aniridia
+9931324	congenital absence of the iris	D015783	congenital absence of the iris
+9931324	malformation of the eye	D005124	malformation of the eye
+9931324	aniridia	D015783	aniridia
+9931324	aniridia	D015783	aniridia
+9931324	aniridia	D015783	aniridia
+9931324	ectopia pupillae	C536185	ectopia pupillae
+9931324	displaced pupils	C536185	displaced pupils
+9931324	congenital nystagmus	D020417	congenital nystagmus
+9931324	searching gaze	D020417	searching gaze
+9931324	aniridia	D015783	aniridia
+9931324	pax6 -related disease	C536372	pax six related disease
+9668171	myotonic dystrophy	D009223	myotonic dystrophy
+9668171	myotonic dystrophy	D009223	myotonic dystrophy
+9668171	dm	D009223	myotonic dystrophy
+9668171	dm	D009223	myotonic dystrophy
+9668171	genetic diseases	D030342	genetic diseases
+9668171	dm	D009223	myotonic dystrophy
+9668171	dm	D009223	myotonic dystrophy
+9463314	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9463314	leukemia	D007938	leukemia
+9463314	lymphoma	D008223	lymphoma
+9463314	breast cancer	D001943	breast cancer
+9463314	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9463314	a-t	D001260	ataxia telangiectasia
+9463314	cerebellar degeneration	D013132	cerebellar degeneration
+9463314	a-t	D001260	ataxia telangiectasia
+9463314	breast cancer	D001943	breast cancer
+9463314	a-t	D001260	ataxia telangiectasia
+9463314	cerebellar degeneration	D013132	cerebellar degeneration
+9463314	a-t	D001260	ataxia telangiectasia
+9463314	leukemia	D007938	leukemia
+9463314	lymphoma	D008223	lymphoma
+9463314	hodgkin lymphoma	D006689	hodgkin lymphoma
+9463314	a-t	D001260	ataxia telangiectasia
+9391879	breast/ovarian cancer	D061325	breast ovarian cancer
+9391879	breast/ovarian cancer	D061325	breast ovarian cancer
+9391879	breast cancer	D001943	breast cancer
+9391879	breast-ovarian cancer	D061325	breast ovarian cancer
+9391879	breast/ovarian cancer	D061325	breast ovarian cancer
+9700175	hereditary ovarian cancer	D061325	hereditary ovarian cancer
+9700175	hereditary ovarian cancer	D061325	hereditary ovarian cancer
+9700175	ovarian cancer	D010051	ovarian cancer
+9700175	ovarian cancer	D010051	ovarian cancer
+9700175	hereditary forms of ovarian cancer	D061325	hereditary forms of ovarian cancer
+9700175	hereditary ovarian cancer	D061325	hereditary ovarian cancer
+9700175	ovarian cancer	D010051	ovarian cancer
+9700175	ovarian cancer	D010051	ovarian cancer
+9700175	ovarian cancer	D010051	ovarian cancer
+9792861	breast and ovarian cancer	D061325	breast and ovarian cancer
+9792861	breast cancer	D001943	breast cancer
+9792861	breast cancer	D001943	breast cancer
+9792861	breast/ovarian cancer	D061325	breast ovarian cancer
+9792861	cancer	D009369	cancer
+9792861	ovarian cancer	D010051	ovarian cancer
+9792861	breast cancer	D001943	breast cancer
+9792861	breast cancer	D001943	breast cancer
+9792861	breast cancer	D001943	breast cancer
+9792861	breast/ovarian cancer	D061325	breast ovarian cancer
+9705283	aniridia	D015783	aniridia
+9705283	peters anomaly	C537884	peters anomaly
+9705283	autosomal dominant keratitis	C537022	autosomal dominant keratitis
+9705283	familial foveal dysplasia	OMIM:136520	familial foveal dysplasia
+9705283	aniridia	D015783	aniridia
+9705283	aniridia	D015783	aniridia
+9705283	aniridia	D015783	aniridia
+9546397	hemochromatosis	D006432	hemochromatosis
+9546397	iron-overload disease	D019190	iron overload disease
+9546397	hereditary hemochromatosis	D006432	hereditary hemochromatosis
+9546397	hemochromatosis	D006432	hemochromatosis
+9774970	tumor	D009369	tumor
+9774970	breast and/or ovarian cancer	D061325	breast and or ovarian cancer
+9774970	hereditary breast and/or ovarian cancer	D061325	hereditary breast and or ovarian cancer
+9790667	cerebrotendinous xanthomatosis	D019294	cerebrotendinous xanthomatosis
+9790667	ctx	D019294	cerebrotendinous xanthomatosis
+9790667	deficiency in the sterol 27-hydroxylase activity	D019294	deficiency in the sterol twenty seven hydroxylase activity
+9702690	adrenoleukodystrophy	D000326	adrenoleukodystrophy
+9702690	adrenoleukodystrophy	D000326	adrenoleukodystrophy
+9702690	ald	D000326	adrenoleukodystrophy
+9702690	ald	D000326	adrenoleukodystrophy
+9702690	ald	D000326	adrenoleukodystrophy
+9702690	alzheimers disease	D000544	alzheimers disease
+9702690	ad	D000544	alzheimers disease
+9702690	abnormalities in the bilateral cerebellar hemispheres	D002526	abnormalities in the bilateral cerebellar hemispheres
+9702690	demyelination of the cerebral white matter	D003711	demyelination of the cerebral white matter
+9702690	ald	D000326	adrenoleukodystrophy
+9702690	ald	D000326	adrenoleukodystrophy
+9702690	insidious lesion	D004194	insidious lesion
+9702690	neuronal degeneration	D009410	neuronal degeneration
+9702690	ald	D000326	adrenoleukodystrophy
+9618166	pendred syndrome	C536648	pendred syndrome
+9618166	pendred syndrome	C536648	pendred syndrome
+9618166	autosomal recessive disorder	D030342	autosomal recessive disorder
+9618166	deafness	D003638	deafness
+9618166	goiter	D006042	goiter
+9618166	pds	C536648	pendred the disease gene
+9618166	pendred	C536648	pendred
+9618166	pendred	C536648	pendred
+9618166	pds	C536648	pendred the disease gene
+9618166	pendred syndrome	C536648	pendred syndrome
+9427148	aspartylglucosaminuria	D054880	aspartylglucosaminuria
+9427148	aspartylglucosaminuria	D054880	aspartylglucosaminuria
+9427148	agu	D054880	aspartylglucosaminuria
+9427148	disorder of glycoprotein metabolism	D008661	disorder of glycoprotein metabolism
+9427148	deficiency of the lysosomal enzyme aspartylglucosaminidase	D054880	deficiency of the lysosomal enzyme aspartylglucosaminidase
+9427148	agu	D054880	aspartylglucosaminuria
+9427148	agu	D054880	aspartylglucosaminuria
+9427148	agu	D054880	aspartylglucosaminuria
+9467011	cowden disease	D006223	cowden disease
+9467011	bannayan-zonana syndrome	D006223	bannayan zonana syndrome
+9467011	hamartoma syndromes	D006223	hamartoma syndromes
+9467011	tumour	D009369	tumour
+9467011	malignancy	D009369	malignancy
+9467011	sporadic breast, brain, prostate and kidney cancer	D001943|D001932|D011471|D007680	sporadic breast brain prostate and kidney cancer
+9467011	tumours	D009369	tumours
+9467011	endometrial carcinomas	D016889	endometrial carcinomas
+9467011	malignant melanoma	D008545	malignant melanoma
+9467011	thyroid tumours	D013964	thyroid tumours
+9467011	hamartoma syndromes	D006223	hamartoma syndromes
+9467011	cowden disease	D006223	cowden disease
+9467011	cd	D006223	cowden disease
+9467011	bannayan-zonana (bzs) or ruvalcaba-riley-smith syndrome	D006223	bannayan zonana bzs or ruvalcaba riley smith syndrome
+9467011	cd	D006223	cowden disease
+9467011	bzs	D006223	bzs
+9467011	cd	D006223	cowden disease
+9467011	cd	D006223	cowden disease
+9467011	cd	D006223	cowden disease
+9467011	bzs	D006223	bzs
+9467011	cd	D006223	cowden disease
+9467011	bzs	D006223	bzs
+9467011	bzs	D006223	bzs
+9467011	cd	D006223	cowden disease
+9467011	cd	D006223	cowden disease
+9467011	breast disease	D001941	breast disease
+9467011	malignant breast disease	D001941	malignant breast disease
+9467011	cd	D006223	cowden disease
+9831355	hereditary non-polyposis colorectal cancer	D003123	hereditary non polyposis colorectal cancer
+9831355	hereditary non-polyposis colorectal cancer	D003123	hereditary non polyposis colorectal cancer
+9831355	hnpcc	D003123	hereditary non polyposis colorectal cancer
+9831355	colorectal cancer	D015179	colorectal cancer
+9831355	cancer	D009369	cancer
+9590178	wilms' tumor	D009396	wilms tumor
+9590178	wilms tumor	D009396	wilms tumor
+9590178	male pseudohermaphroditism	D058490	male pseudohermaphroditism
+9590178	denys-drash syndrome	D030321	denys drash syndrome
+9358014	hereditary hemochromatosis	D006432	hereditary hemochromatosis
+9358014	hh	D006432	hereditary hemochromatosis
+9358014	hh	D006432	hereditary hemochromatosis
+9358014	hh	D006432	hereditary hemochromatosis
+9358014	cancer	D009369	cancer
+9382108	huntington disease	D006816	huntington disease
+9382108	huntington disease	D006816	huntington disease
+9382108	hd	D006816	huntington disease
+9382108	hd	D006816	huntington disease
+9382108	hd	D006816	huntington disease
+9554743	wilson disease	D006527	wilson disease
+9554743	wilson disease	D006527	wilson disease
+9554743	wilson disease	D006527	wilson disease
+9792860	autosomal recessive alport syndrome	C536587	autosomal recessive alport syndrome
+9792860	autosomal recessive alport syndrome	C536587	autosomal recessive alport syndrome
+9792860	hematuric glomerulonephritis	D005921	hematuric glomerulonephritis
+9792860	glomerular basement membrane abnormalities	D005921	glomerular basement membrane abnormalities
+9792860	autosomal recessive alport syndrome	C536587	autosomal recessive alport syndrome
+9771706	diabetes mellitus	D003920	diabetes mellitus
+9771706	optic atrophy	D009896	optic atrophy
+9771706	wolfram syndrome	D014929	wolfram syndrome
+9771706	wolfram syndrome	D014929	wolfram syndrome
+9771706	wfs	D014929	wolfram syndrome
+9771706	autosomal recessive neurodegenerative disorder	D020271	autosomal recessive neurodegenerative disorder
+9771706	insulin-dependent diabetes mellitus	D003922	insulin dependent diabetes mellitus
+9771706	optic atrophy	D009896	optic atrophy
+9771706	wfs	D014929	wolfram syndrome
+9771706	wfs	D014929	wolfram syndrome
+9472666	complement component c6 deficiency	OMIM:612446	complement component c six deficiency
+9472666	complement component c6 deficiency	OMIM:612446	complement component c six deficiency
+9472666	c6d	OMIM:612446	c six deficiency
+9472666	meningococcal meningitis	D008585	meningococcal meningitis
+9472666	c6d	OMIM:612446	c six deficiency
+9472666	meningitis	D008581	meningitis
+9472666	neisserial infection	D016870	neisserial infection
+9472666	c6d	OMIM:612446	c six deficiency
+9733027	friedreich ataxia	D005621	friedreich ataxia
+9733027	frda	D005621	frda
+9733027	friedreich ataxia	D005621	friedreich ataxia
+9733027	frda	D005621	frda
+9506545	eye movement abnormalities	D005124	eye movement abnormalities
+9506545	cerebellar ataxia type i	D020754	cerebellar ataxia type one
+9506545	cerebellar ataxias type i	D020754	cerebellar ataxias type one
+9506545	spinocerebellar ataxias 1 and 2	OMIM:164400|OMIM:183090	spinocerebellar ataxias one and two
+9506545	sca1	D020754	sca one
+9506545	sca2	D020754	sca two
+9506545	sca3	D017827	sca three
+9506545	machado-joseph disease	D017827	machado joseph disease
+9506545	mjd	D017827	sca three machado joseph disease
+9506545	sca1	D020754	sca one
+9506545	hypermetria	D002524	hypermetria
+9506545	sca2	D020754	sca two
+9506545	sca3	D017827	sca three
+9506545	gaze-evoked nystagmus	D009759	gaze evoked nystagmus
+9506545	gaze-evoked nystagmus	D009759	gaze evoked nystagmus
+9506545	sca1	D020754	sca one
+9506545	sca2	D020754	sca two
+9506545	sca3	D017827	sca three
+9506545	sca1	D020754	sca one
+9506545	sca2	D020754	sca two
+9506545	sca3	D017827	sca three
+9288106	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9288106	sporadic t-cell leukaemia	D015458	sporadic t cell leukaemia
+9288106	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9288106	a-t	D001260	ataxia telangiectasia
+9288106	recessive multi-system disorder	D030342	recessive multi system disorder
+9288106	cancer	D009369	cancer
+9288106	lymphoid neoplasias	D008223	lymphoid neoplasias
+9288106	a-t	D001260	ataxia telangiectasia
+9288106	tumour	D009369	tumour
+9288106	sporadic t-cell prolymphocytic leukaemia	D015461	sporadic t cell prolymphocytic leukaemia
+9288106	t-pll	D015461	t cell prolymphocytic leukaemia
+9288106	clonal malignancy	D007945	clonal malignancy
+9288106	mature t-cell leukaemia	D015458	mature t cell leukaemia
+9288106	a-t	D001260	ataxia telangiectasia
+9288106	t-pll	D015461	t cell prolymphocytic leukaemia
+9288106	a-t	D001260	ataxia telangiectasia
+9288106	leukaemia	D007938	leukaemia
+9288106	t-pll	D015461	t cell prolymphocytic leukaemia
+9288106	a-t	D001260	ataxia telangiectasia
+9288106	tumour	D009369	tumour
+9288106	leukaemia	D007938	leukaemia
+9288106	tumour	D009369	tumour
+9288106	b-cell non-hodgkins lymphomas	D016393	b cell non hodgkins lymphomas
+9288106	b-nhl	D016393	b cell non hodgkins lymphomas
+9288106	b-nhl	D016393	b cell non hodgkins lymphomas
+9288106	tumours	D009369	tumours
+9288106	sporadic t-pll	D015461	sporadic t cell prolymphocytic leukaemia
+9288106	tumour	D009369	tumour
+9288106	t-pll	D015461	t cell prolymphocytic leukaemia
+9580132	familial neurohypophyseal diabetes insipidus	OMIM:125700	familial neurohypophyseal diabetes insipidus
+9580132	familial neurohypophyseal diabetes insipidus	OMIM:125700	familial neurohypophyseal diabetes insipidus
+9580132	fndi	OMIM:125700	familial neurohypophyseal diabetes insipidus
+9580132	autosomal dominant disease	D030342	autosomal dominant disease
+9580132	fndi	OMIM:125700	familial neurohypophyseal diabetes insipidus
+9580132	fndi	OMIM:125700	familial neurohypophyseal diabetes insipidus
+9714764	insulin-dependent diabetes mellitus	D003922	insulin dependent diabetes mellitus
+9714764	iddm	D003922	insulin dependent diabetes mellitus
+9714764	diabetes	D003920	diabetes
+9792409	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9792409	autosomal recessive disorder	D030342	autosomal recessive disorder
+9792409	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9792409	a-t	D001260	ataxia telangiectasia
+9792409	a-t	D001260	ataxia telangiectasia
+9792409	a-t	D001260	ataxia telangiectasia
+9792409	a-t	D001260	ataxia telangiectasia
+9792409	a-t	D001260	ataxia telangiectasia
+9867744	hemochromatosis	D006432	hemochromatosis
+9867744	hemochromatosis	D006432	hemochromatosis
+9867744	early death	D003643	early death
+9867744	iron overload	D019190	iron overload
+9867744	cirrhosis	D008103	cirrhosis
+9867744	hemochromatosis	D006432	hemochromatosis
+9867744	hemochromatosis	D006432	hemochromatosis
+9867744	hemochromatosis	D006432	hemochromatosis
+9867744	hepatic cirrhosis	D008103	hepatic cirrhosis
+9482572	aniridia	D015783	aniridia
+9482572	peters anomaly	C537884	peters anomaly
+9482572	congenital cataracts	D002386	congenital cataracts
+9482572	autosomal dominant keratitis	C537022	autosomal dominant keratitis
+9482572	isolated foveal hypoplasia	OMIM:136520	isolated foveal hypoplasia
+9482572	aniridia	D015783	aniridia
+9674906	schwartz-jampel syndrome type 2	C537502	schwartz jampel syndrome type two
+9674906	stuve-wiedemann syndrome	C537502	stuve wiedemann syndrome
+9674906	schwartz-jampel syndrome	D010009	schwartz jampel syndrome
+9674906	sjs	D010009	schwartz jampel syndrome
+9674906	myotonia	D009222	myotonia
+9674906	skeletal dysplasia	C535662	skeletal dysplasia
+9674906	sjs type 2	C537502	schwartz jampel syndrome type two
+9674906	stuve-wiedemann syndrome	C537502	stuve wiedemann syndrome
+9674906	sws	C537502	stuve wiedemann syndrome
+9674906	campomelia	C537966	campomelia
+9674906	skeletal dysplasia	C535662	skeletal dysplasia
+9674906	contractures	D003286	contractures
+9674906	early death	D003643	early death
+9674906	sjs type 2	C537502	schwartz jampel syndrome type two
+9674906	sws	C537502	stuve wiedemann syndrome
+9674906	sjs	D010009	schwartz jampel syndrome
+9674906	sws	C537502	stuve wiedemann syndrome
+9674906	neuromuscular disorder	D009468	neuromuscular disorder
+9674906	congenital joint contractures	D003286	congenital joint contractures
+9674906	hyperthermia	D005334	hyperthermia
+9674906	campomelic-metaphyseal skeletal dysplasia	D055036	campomelic metaphyseal skeletal dysplasia
+9674906	bone dysplasia	D001848	bone dysplasia
+9674906	sjs type 2	C537502	schwartz jampel syndrome type two
+9674906	sws	C537502	stuve wiedemann syndrome
+9674906	sws	C537502	stuve wiedemann syndrome
+9674906	sjs type 2	C537502	schwartz jampel syndrome type two
+9536083	familial breast and ovarian cancer	OMIM:613399	familial breast and ovarian cancer
+9536083	breast/ovarian cancer	D061325	breast ovarian cancer
+9400934	ectopic intracranial retinoblastoma	D012175	ectopic intracranial retinoblastoma
+9400934	ectopic intracranial retinoblastoma	D012175	ectopic intracranial retinoblastoma
+9400934	pineal and retinal tumours	D019572|D010871	pineal and retinal tumours
+9400934	retinal and the pineal tumours	D019572|D010871	retinal and the pineal tumours
+9400934	retinoblastoma	D012175	retinoblastoma
+9729124	congenital chloride diarrhea	C536210	congenital chloride diarrhea
+9729124	cld	C536210	chloride diarrhea
+9729124	congenital chloride diarrhea	C536210	congenital chloride diarrhea
+9729124	cld	C536210	chloride diarrhea
+9729124	cld	C536210	chloride diarrhea
+9729124	cld	C536210	chloride diarrhea
+9729124	cld	C536210	chloride diarrhea
+9729124	pendred syndrome	C536648	pendred syndrome
+9729124	pds	C536648	pendred syndrome gene
+9585605	angelman syndrome	D017204	angelman syndrome
+9585605	angelman syndrome	D017204	angelman syndrome
+9585605	as	D017204	angelman syndrome
+9585605	uniparental disomy	D024182	uniparental disomy
+9585605	upd	D024182	uniparental disomy
+9585605	as	D017204	angelman syndrome
+9585605	as	D017204	angelman syndrome
+9585605	as	D017204	angelman syndrome
+9585605	as	D017204	angelman syndrome
+9360520	autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700	autosomal dominant neurohypophyseal diabetes insipidus
+9360520	autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700	autosomal dominant neurohypophyseal diabetes insipidus
+9360520	adndi	OMIM:125700	autosomal dominant neurohypophyseal diabetes insipidus
+9360520	inherited disease	D030342	inherited disease
+9360520	diabetes insipidus	D003919	diabetes insipidus
+9360520	adndi	OMIM:125700	autosomal dominant neurohypophyseal diabetes insipidus
+9360520	dominantly inherited neurodegeneration	D020271	dominantly inherited neurodegeneration
+9709714	hypertrophic cardiomyopathy	D002312	hypertrophic cardiomyopathy
+9709714	very-long-chain acyl-coenzyme a dehydrogenase deficiency	C536353	very long chain acyl coenzyme a dehydrogenase deficiency
+9709714	very-long-chain acyl-coenzyme a dehydrogenase (vlcad) deficiency	C536353	very long chain acyl coenzyme a dehydrogenase very long chain acyl coenzyme a dehydrogenase deficiency
+9709714	vlcad deficiency	C536353	very long chain acyl coenzyme a dehydrogenase deficiency
+9709714	hypertrophic cardiomyopathy	D002312	hypertrophic cardiomyopathy
+9709714	hepatomegaly	D006529	hepatomegaly
+9709714	encephalopathy	D001927	encephalopathy
+9709714	hypotonia	D009123	hypotonia
+9709714	vlcad deficiency	C536353	very long chain acyl coenzyme a dehydrogenase deficiency
+9709714	vlcad deficiency	C536353	very long chain acyl coenzyme a dehydrogenase deficiency
+9709714	cardiomyopathy	D009202	cardiomyopathy
+9600235	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9600235	recessive disease	D030342	recessive disease
+9600235	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9600235	a-t	D001260	ataxia telangiectasia
+9600235	a-t	D001260	ataxia telangiectasia
+9600235	a-t	D001260	ataxia telangiectasia
+9770531	renal cell carcinoma	D002292	renal cell carcinoma
+9770531	von hippel-lindau	D006623	von hippel lindau
+9770531	von hippel-lindau	D006623	von hippel lindau
+9770531	vhl	D006623	von hippel lindau
+9770531	renal cell carcinoma	D002292	renal cell carcinoma
+9770531	vhl	D006623	von hippel lindau
+9770531	renal cell carcinoma	D002292	renal cell carcinoma
+9770531	vhl	D006623	von hippel lindau
+9770531	cancers	D009369	cancers
+9770531	cancer	D009369	cancer
+9385378	mucopolysaccharidosis iva	D009085	mucopolysaccharidosis iva
+9385378	mucopolysaccharidosis iva	D009085	mucopolysaccharidosis iva
+9385378	mps iva	D009085	mucopolysaccharidosis iva
+9385378	autosomal recessive lysosomal storage disorder	D016464	autosomal recessive lysosomal storage disorder
+9385378	genetic defect	D030342	genetic defect
+9385378	mps iva	D009085	mucopolysaccharidosis iva
+9385378	mps iva	D009085	mucopolysaccharidosis iva
+9603435	g(m2) gangliosidosis	D020143	g m two gangliosidosis
+9603435	tay-sachs disease	D013661	tay sachs disease
+9603435	tsd	D013661	tay sachs disease
+9603435	infantile form of g (m2) gangliosidosis, type 1	D020143	infantile form of g m two gangliosidosis type one
+9603435	g (m2) gangliosidosis	D020143	g m two gangliosidosis
+9603435	tsd	D013661	tay sachs disease
+9603435	hex a enzyme deficiency	D013661	beta hexosaminidase a enzyme deficiency
+9603435	hex a deficiency	D013661	beta hexosaminidase a deficiency
+9294109	myotonic dystrophy	D009223	myotonic dystrophy
+9294109	myotonic dystrophy	D009223	myotonic dystrophy
+9294109	dm	D009223	myotonic dystrophy
+9294109	muscular disorder	D009135	muscular disorder
+9294109	dm	D009223	myotonic dystrophy
+9618170	dmd	D020388	dmd
+9618170	x-linked dilated cardiomyopathy	D002311	x linked dilated cardiomyopathy
+9618170	x-linked dilated cardiomyopathy	D002311	x linked dilated cardiomyopathy
+9618170	xldcm	D002311	x linked dilated cardiomyopathy
+9618170	dystrophinopathy	D009136	dystrophinopathy
+9618170	myocardial involvement	D009202	myocardial involvement
+9618170	skeletal myopathy	D009135	skeletal myopathy
+9618170	duchenne muscular dystrophy	D020388	duchenne muscular dystrophy
+9618170	xldcm	D002311	x linked dilated cardiomyopathy
+9618170	xldcm	D002311	x linked dilated cardiomyopathy
+9618170	xldcm	D002311	x linked dilated cardiomyopathy
+9618170	xldcm	D002311	x linked dilated cardiomyopathy
+9585583	saethre-chotzen syndrome	D000168	saethre chotzen syndrome
+9585583	saethre-chotzen syndrome	D000168	saethre chotzen syndrome
+9585583	autosomal dominant condition	D030342	autosomal dominant condition
+9585583	craniosynostosis	D003398	craniosynostosis
+9585583	limb anomalies	D017880	limb anomalies
+9585583	saethre-chotzen syndrome	D000168	saethre chotzen syndrome
+9585583	coronal synostosis	D003398	coronal synostosis
+9585583	brachycephaly	D003398	brachycephaly
+9585583	low frontal hairline	D019465	low frontal hairline
+9585583	facial asymmetry	D005146	facial asymmetry
+9585583	ptosis	D001763	ptosis
+9585583	hypertelorism	D006972	hypertelorism
+9585583	broad great toes	D005532	broad great toes
+9585583	clinodactyly	C536852	clinodactyly
+9585583	craniosynostotic condition	D003398	craniosynostotic condition
+9585583	saethre-chotzen, crouzon, and pfeiffer syndromes	OMIM:101400|OMIM:123500|OMIM:101600	saethre chotzen crouzon and pfeiffer syndromes
+9371490	prostate cancer	D011471	prostate cancer
+9371490	sporadic prostate carcinoma	D011471	sporadic prostate carcinoma
+9371490	male cancer	D005834	male cancer
+9371490	cancer	D009369	cancer
+9371490	sporadic prostate cancer	D011471	sporadic prostate cancer
+9371490	tumor	D009369	tumor
+9371490	prostate cancer	D011471	prostate cancer
+9371490	prostate tumors	D011471	prostate tumors
+9371490	tumors	D009369	tumors
+9371490	sporadic prostate cancer	D011471	sporadic prostate cancer
+9521421	mucopolysaccharidosis iva	D009085	mucopolysaccharidosis iva
+9521421	mucopolysaccharidosis iva	D009085	mucopolysaccharidosis iva
+9521421	mps iva	D009085	mucopolysaccharidosis iva
+9521421	autosomal recessive lysosomal storage disorder	D016464	autosomal recessive lysosomal storage disorder
+9521421	genetic defect	D030342	genetic defect
+9521421	mps iva	D009085	mucopolysaccharidosis iva
+9521421	mps iva	D009085	mucopolysaccharidosis iva
+9521421	mps iva	D009085	mucopolysaccharidosis iva
+9852676	myotonic dystrophy	D009223	myotonic dystrophy
+9852676	myotonic dystrophy	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	dm	D009223	myotonic dystrophy
+9852676	friedreichs ataxia	D005621	friedreichs ataxia
+9425228	melanoma	D008545	melanoma
+9425228	familial melanoma	D008545	familial melanoma
+9425228	melanoma	D008545	melanoma
+9425228	melanoma	D008545	melanoma
+9425228	familial melanoma	D008545	familial melanoma
+9425228	melanoma	D008545	melanoma
+9888388	hereditary coproporphyria	D046349	hereditary coproporphyria
+9888388	hereditary coproporphyria	D046349	hereditary coproporphyria
+9888388	hc	D046349	hereditary coproporphyria
+9888388	hepatic porphyria	D017094	hepatic porphyria
+9888388	deficient activity of coproporphyrinogen iii oxidase	D046349	deficient activity of coproporphyrinogen three oxidase
+9888388	neurological dysfunction	D009422	neurological dysfunction
+9888388	infectious diseases	D003141	infectious diseases
+9888388	hc	D046349	hereditary coproporphyria
+9888388	hc	D046349	hereditary coproporphyria
+9888388	gene defects	D030342	gene defects
+9463309	anhaptoglobinemia	D000740	anhaptoglobinemia
+9463309	anhaptoglobinemia	D000740	anhaptoglobinemia
+9463309	anhaptoglobinemia	D000740	anhaptoglobinemia
+9463309	hypohaptoglobinemia	D000740	hypohaptoglobinemia
+9463309	hypohaptoglobinemic	D000740	hypohaptoglobinemic
+9463309	hypohaptoglobinemic	D000740	hypohaptoglobinemic
+9463309	anhaptoglobinemia	D000740	anhaptoglobinemia
+9463309	hypohaptoglobinemia	D000740	hypohaptoglobinemia
+9585611	attenuated adenomatous polyposis coli	C538265	attenuated adenomatous polyposis coli
+9585611	tumor	D009369	tumor
+9585611	attenuated adenomatous polyposis coli	C538265	attenuated adenomatous polyposis coli
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	familial adenomatous polyposis	D011125	familial adenomatous polyposis
+9585611	fap	D011125	familial adenomatous polyposis
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	colonic adenomas	D018256	colonic adenomas
+9585611	colorectal cancer	D015179	colorectal cancer
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	apc	D011125	apc
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	apc	D011125	apc
+9585611	apc	D011125	apc
+9585611	colorectal adenomas	D018256	colorectal adenomas
+9585611	adenomas	D000236	adenomas
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	colorectal adenomas	D018256	colorectal adenomas
+9585611	rectal polyp	D011127	rectal polyp
+9585611	desmoid tumors	D018222	desmoid tumors
+9585611	aapc	C538265	attenuated adenomatous polyposis coli
+9585611	apc	D011125	apc
+9585611	fap	D011125	familial adenomatous polyposis
+9724771	apc	D011125	apc
+9724771	colorectal tumors	D015179	colorectal tumors
+9724771	familial adenomatous polyposis	D011125	familial adenomatous polyposis
+9724771	fap	D011125	familial adenomatous polyposis
+9724771	autosomal dominant disease	D030342	autosomal dominant disease
+9724771	colorectal adenomas and carcinoma	D018256|D015179	colorectal adenomas and carcinoma
+9724771	apc	D011125	apc
+9724771	fap	D011125	familial adenomatous polyposis
+9724771	attenuated adenomatous polyposis coli	C538265	attenuated adenomatous polyposis coli
+9724771	apc	D011125	apc
+9724771	attenuated adenomatous polyposis coli	C538265	attenuated adenomatous polyposis coli
+9724771	colorectal adenomas	D000236	colorectal adenomas
+9724771	fap	D011125	familial adenomatous polyposis
+9724771	adenomas	D000236	adenomas
+9724771	apc	D011125	apc
+9724771	apc	D011125	apc
+9724771	colorectal tumors	D015179	colorectal tumors
+9724771	adenomas	D000236	adenomas
+9724771	colorectal adenomas and/or carcinoma	D018256|D015179	colorectal adenomas and or carcinoma
+9724771	apc	D011125	apc
+9724771	metaplastic polyps of the colorectum	D003111	metaplastic polyps of the colorectum
+9724771	apc	D011125	apc
+9724771	colorectal adenomas and carcinoma	D018256|D015179	colorectal adenomas and carcinoma
+9724771	fap	D011125	familial adenomatous polyposis
+9724771	colorectal cancer	D015179	colorectal cancer
+9585606	hemochromatosis	D006432	hemochromatosis
+9585606	hemochromatosis	D006432	hemochromatosis
+9585606	inherited disorder of iron metabolism	D019189	inherited disorder of iron metabolism
+9585606	iron overload	D019190	iron overload
+9585606	premature death	D003643	premature death
+9585606	hemochromatosis	D006432	hemochromatosis
+9585606	hemochromatosis	D006432	hemochromatosis
+9703501	breast and ovarian cancer	D061325	breast and ovarian cancer
+9703501	deficient in brca1	OMIM:604370	deficient in brca one
+9689113	von willebrand disease	D014842	von willebrand disease
+9689113	thrombosis	D013927	thrombosis
+9689113	von willebrand factor (vwf) deficiency	C531844	von willebrand factor von willebrand factor deficiency
+9689113	von willebrand disease	D014842	von willebrand disease
+9689113	vwf-deficient	C531844	von willebrand factor deficient
+9689113	von willebrand	D014842	von willebrand
+9689113	thrombosis	D013927	thrombosis
+9689113	vascular injury	D057772	vascular injury
+9689113	von willebrand disease	D014842	von willebrand disease
+9448273	von hippel-lindau tumor	D006623	von hippel lindau tumor
+9448273	von hippel-lindau (vhl) tumor	D006623	von hippel lindau von hippel lindau tumor
+9448273	vhl cancer syndrome	D006623	von hippel lindau cancer syndrome
+9448273	sporadic renal cell carcinomas	D002292	sporadic renal cell carcinomas
+9448273	rcc	D002292	renal cell carcinomas
+9448273	brain hemangioblastomas	D018325	brain hemangioblastomas
+9448273	rcc	D002292	renal cell carcinomas
+9448273	vhl	D006623	von hippel lindau
+9448273	cancer	D009369	cancer
+9448273	vhl	D006623	von hippel lindau
+9448273	rcc cancer	D002292	renal cell carcinomas cancer
+9448273	rcc	D002292	renal cell carcinomas
+9448273	vhl	D006623	von hippel lindau
+9448273	vhl	D006623	von hippel lindau
+9448273	tumor	D009369	tumor
+9448273	vhl	D006623	von hippel lindau
+9448273	vhl	D006623	von hippel lindau
+9448273	tumor	D009369	tumor
+9703418	complement c9 deficiency	C565165	complement c nine deficiency
+9703418	deficiency of the ninth component of human complement	C565165	deficiency of the nine component of human complement
+9703418	complement deficiency	D007153	complement deficiency
+9703418	c9 deficiency	C565165	c nine deficiency
+9703418	c9-deficient	C565165	c nine deficient
+9703418	meningococcal meningitis	D008585	meningococcal meningitis
+9703418	c9-deficient	C565165	c nine deficient
+9703418	c9 deficiency	C565165	c nine deficiency
+9848786	human complement factor h deficiency	OMIM:609814	human complement factor h deficiency
+9848786	hemolytic uremic syndrome	D006463	hemolytic uremic syndrome
+9848786	deficiency in the human complement regulatory protein factor h	OMIM:609814	deficiency in the human complement regulatory protein factor h
+9848786	acute renal disease	D007674	acute renal disease
+9848786	hemolytic uremic syndrome	D006463	hemolytic uremic syndrome
+9848786	hus	D006463	hemolytic uremic syndrome
+9848786	factor h deficiency	OMIM:609814	factor h deficiency
+9848786	complement deficiency	D007153	complement deficiency
+9848786	hus	D006463	hemolytic uremic syndrome
+9848786	hus	D006463	hemolytic uremic syndrome
+9342365	breast and ovarian cancer	D061325	breast and ovarian cancer
+9342365	tumor	D009369	tumor
+9342365	tumor	D009369	tumor
+9521325	idiopathic ventricular fibrillation	C537182	idiopathic ventricular fibrillation
+9521325	ventricular fibrillation	D014693	ventricular fibrillation
+9521325	idiopathic ventricular fibrillation	C537182	idiopathic ventricular fibrillation
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9521325	sudden death	D003645	sudden death
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9521325	ivf	C537182	idiopathic ventricular fibrillation
+9869602	apc	D011125	apc
+9869602	colorectal cancer	D015179	colorectal cancer
+9869602	colorectal cancer	D015179	colorectal cancer
+9869602	apc	D011125	apc
+9869602	colorectal cancer	D015179	colorectal cancer
+9869602	colorectal cancer	D015179	colorectal cancer
+9869602	neoplasia	D009369	neoplasia
+9869602	colorectal cancer	D015179	colorectal cancer
+9869602	cancer	D009369	cancer
+9869602	cancer	D009369	cancer
+9869602	colorectal neoplasia	D015179	colorectal neoplasia
+9869602	neoplasia	D009369	neoplasia
+9869602	colorectal, or other, cancers	D009369|D015179	colorectal or other cancers
+9869602	colorectal cancer	D015179	colorectal cancer
+9336417	ankylosing spondylitis	D013167	ankylosing spondylitis
+9336417	ankylosing spondylitis	D013167	ankylosing spondylitis
+9336417	as	D013167	ankylosing spondylitis
+9336417	as	D013167	ankylosing spondylitis
+9336417	rheumatic diseases	D012216	rheumatic diseases
+9336417	as	D013167	ankylosing spondylitis
+9336417	as	D013167	ankylosing spondylitis
+9336417	as	D013167	ankylosing spondylitis
+9731533	cancer	D009369	cancer
+9731533	familial adenomatous polyposis	D011125	familial adenomatous polyposis
+9731533	fap	D011125	familial adenomatous polyposis
+9731533	autosomal dominant disorder	D030342	autosomal dominant disorder
+9731533	polyps	D011127	polyps
+9731533	colorectal cancer	D015179	colorectal cancer
+9731533	crc	D015179	colorectal cancer
+9731533	apc	D011125	apc
+9731533	tumours	D009369	tumours
+9731533	crc	D015179	colorectal cancer
+9731533	cancer	D009369	cancer
+9731533	colorectal, breast and other cancers	D001943|D015179|D009369	colorectal breast and other cancers
+9465039	hemochromatosis	D006432	hemochromatosis
+9465039	hereditary hemochromatosis	D006432	hereditary hemochromatosis
+9465039	hereditary hemochromatosis	D006432	hereditary hemochromatosis
+9457913	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9457913	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9457913	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9463318	myotonic dystrophy	D009223	myotonic dystrophy
+9463318	myotonic dystrophy	D009223	myotonic dystrophy
+9425239	myotonic dystrophy	D009223	myotonic dystrophy
+9425239	myotonic dystrophy	D009223	myotonic dystrophy
+9425239	dm	D009223	myotonic dystrophy
+9425239	dm	D009223	myotonic dystrophy
+9425239	dm	D009223	myotonic dystrophy
+9425239	dm	D009223	myotonic dystrophy
+9425239	myotonic dystrophy	D009223	myotonic dystrophy
+9973276	inherited colorectal polyposis	D011125	inherited colorectal polyposis
+9973276	cancer	D009369	cancer
+9973276	apc	D011125	apc
+9973276	colorectal tumor	D015179	colorectal tumor
+9973276	familial adenomatous polyposis syndrome	D011125	familial adenomatous polyposis syndrome
+9973276	apc	D011125	apc
+9973276	apc	D011125	apc
+9973276	adenomatous polyps	D018256	adenomatous polyps
+9973276	colorectal cancer,	D015179	colorectal cancer
+9973276	colorectal neoplasia	D015179	colorectal neoplasia
+9973276	adenomas	D000236	adenomas
+9973276	colorectal cancers	D015179	colorectal cancers
+9973276	adenoma	D000236	adenoma
+9973276	colorectal cancer	D015179	colorectal cancer
+9973276	colorectal cancer	D015179	colorectal cancer
+9927033	hematological malignancy	D019337	hematological malignancy
+9927033	neurofibromatosis type 1	D009456	neurofibromatosis type one
+9927033	hereditary nonpolyposis colorectal cancer	D003123	hereditary nonpolyposis colorectal cancer
+9927033	hereditary nonpolyposis colorectal cancer	D003123	hereditary nonpolyposis colorectal cancer
+9927033	hematological malignancy	D019337	hematological malignancy
+9927033	neurofibromatosis type 1	D009456	neurofibromatosis type one
+9927033	nf1	D009456	neurofibromatosis type one
+9927033	leukemia	D007938	leukemia
+9927033	lymphoma	D008223	lymphoma
+9927033	neurofibromatosis type 1	D009456	neurofibromatosis type one
+9800909	cognitive impairment	D003072	cognitive impairment
+9800909	duchenne muscular dystrophy	D020388	duchenne muscular dystrophy
+9800909	duchenne muscular dystrophy	D020388	duchenne muscular dystrophy
+9800909	dmd	D020388	duchenne muscular dystrophy
+9800909	cognitive impairment	D003072	cognitive impairment
+9800909	dmd	D020388	duchenne muscular dystrophy
+9800909	dmd	D020388	duchenne muscular dystrophy
+9800909	cognitive impairment	D003072	cognitive impairment
+9800909	cerebral dysfunction	D001927	cerebral dysfunction
+9800909	dmd	D020388	duchenne muscular dystrophy
+9800909	cognitive impairment	D003072	cognitive impairment
+9800909	dmd	D020388	duchenne muscular dystrophy
+9861003	bipolar affective disorder	D001714	bipolar affective disorder
+9861003	bipolar affective disorder	D001714	bipolar affective disorder
+9861003	bpad	D001714	bipolar affective disorder
+9861003	manic-depressive illness	D001714	manic depressive illness
+9861003	mania	D001714	mania
+9861003	hypomania	D019964	hypomania
+9861003	depression	D003866	depression
+9861003	bpad	D001714	bipolar affective disorder
+9861003	bpad	D001714	bipolar affective disorder
+9861003	bpad	D001714	bipolar affective disorder
+9861003	genetic disorders	D030342	genetic disorders
+9861003	psychiatric disorder	D001523	psychiatric disorder
+9861003	bpad	D001714	bipolar affective disorder
+9861003	bpad	D001714	bipolar affective disorder
+9861003	affective disorders	D019964	affective disorders
+932197	hereditary deficiency of the fifth component of complement	C537005	hereditary deficiency of the five component of complement
+932197	hereditary deficiency of the fifth component of complement	C537005	hereditary deficiency of the five component of complement
+932197	systemic lupus erythematosus	D008180	systemic lupus erythematosus
+932197	c5 deficiency	C537005	c five deficiency
+932197	c5-deficient	C537005	c five deficient
+932197	c5d	C537005	c five deficient
+932197	c5d	C537005	c five deficient
+932197	c5d	C537005	c five deficient
+932197	glomerulonephritis	D005921	glomerulonephritis
+932197	vasculitis	D014657	vasculitis
+932197	arthritis	D001168	arthritis
+932197	bacterial infections	D001424	bacterial infections
+932197	c5d	C537005	c five deficient
+932197	pyogenic infection	D007239	pyogenic infection
+9439660	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9439660	ataxia-telangiectasia	D001260	ataxia telangiectasia
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	autosomal recessive syndrome	D030342	autosomal recessive syndrome
+9439660	malignancy	D009369	malignancy
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	cancer	D009369	cancer
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	a-t	D001260	ataxia telangiectasia
+9439660	familial and sporadic cancers	D009369	familial and sporadic cancers
+9439660	tumor	D009369	tumor
+9856498	c6 deficiency	OMIM:612446	c six deficiency
+9856498	deficiency of the sixth component of human complement	OMIM:612446	deficiency of the six component of human complement
+9856498	meningococcal disease	D008589	meningococcal disease
+9856498	c6 deficiency	OMIM:612446	c six deficiency
+9856498	c6-deficient	OMIM:612446	c six deficient
+9744473	metachromatic leukodystrophy	D007966	metachromatic leukodystrophy
+9744473	deficiency of arylsulfatase a	D007966	deficiency of arylsulfatase a
+9744473	metachromatic leukodystrophy	D007966	metachromatic leukodystrophy
+9744473	mld	D007966	metachromatic leukodystrophy
+9744473	mld	D007966	metachromatic leukodystrophy
+9744473	mld	D007966	metachromatic leukodystrophy
+9744473	mld	D007966	metachromatic leukodystrophy
+9450866	piebaldism	D016116	piebaldism
+9450866	deafness	D003638	deafness
+9450866	piebaldism	D016116	piebaldism
+9450866	sensorineural deafness	D006319	sensorineural deafness
+9450866	auditory anomalies	D001304	auditory anomalies
+9450866	deafness	D003638	deafness
+9450866	piebaldism	D016116	piebaldism
+9450866	sensorineural deafness	D006319	sensorineural deafness
+9450866	piebaldism	D016116	piebaldism
+9450866	piebaldism	D016116	piebaldism
+9450866	waardenburg syndrome	D014849	waardenburg syndrome
+9497246	breast cancer	D001943	breast cancer
+9497246	breast cancer	D001943	breast cancer
+9497246	inherited breast cancer	D001943	inherited breast cancer
+9497246	breast cancer	D001943	breast cancer
+9497246	breast cancer	D001943	breast cancer
+9497246	ovarian or other cancers	D010051|D009369	ovarian or other cancers
+9497246	breast-ovarian cancer	D061325	breast ovarian cancer
+9497246	male and female breast cancer	D018567|D001943	male and female breast cancer
+9497246	breast cancer	D001943	breast cancer
+9497246	breast cancer	D001943	breast cancer
+9497246	ovarian cancer	D010051	ovarian cancer
+9497246	breast cancer	D001943	breast cancer
+9620771	obesity	D009765	obesity
+9620771	adrenal insufficiency	D000309	adrenal insufficiency
+9620771	acth deficiency	OMIM:201400|C535668	adrenocorticotrophin deficiency
+9620771	obesity	D009765	obesity
+9620771	obesity	D009765	obesity
+9620771	obesity	D009765	obesity
+9620771	acth deficiency	OMIM:201400|C535668	adrenocorticotrophin deficiency
+9620771	genetic defect	D030342	genetic defect
+9620771	monogenic endocrine disorder	D004700	monogenic endocrine disorder
+9620771	obesity	D009765	obesity
+9620771	adrenal insufficiency	D000309	adrenal insufficiency
+9420335	tumor	D009369	tumor
+9420335	tumor	D009369	tumor
+9420335	pancreatic cancers	D010190	pancreatic cancers
+9420335	growth retardation	D005317	growth retardation
+9420335	gastrulation defect	D004194	gastrulation defect
+9420335	gastrulation defect	D004194	gastrulation defect
+9888390	metachromatic leukodystrophy	D007966	metachromatic leukodystrophy
+9888390	metachromatic leukodystrophy	D007966	metachromatic leukodystrophy
+9888390	mld	D007966	metachromatic leukodystrophy
+9888390	mld	D007966	metachromatic leukodystrophy
+9888390	mld	D007966	metachromatic leukodystrophy
+9888390	mld	D007966	metachromatic leukodystrophy
+9888390	mld	D007966	metachromatic leukodystrophy
+941901	melanoma	D008545	melanoma
+941901	deficiency of hex a	D013661	deficiency of hexosaminidase a
+941901	tay-sachs disease	D013661	tay sachs disease
+941901	tsd	D013661	tay sachs disease
+941901	tsd	D013661	tay sachs disease
+941901	tsd	D013661	tay sachs disease
+941901	tsd	D013661	tay sachs disease
+941901	hex a deficiency	D013661	hexosaminidase a deficiency
+9590284	prader-willi syndrome	D011218	prader willi syndrome
+9590284	prader-willi syndrome	D011218	prader willi syndrome
+9590284	pws	D011218	prader willi syndrome
+9590284	pws	D011218	prader willi syndrome
+9590284	pws	D011218	prader willi syndrome
+9590284	pws	D011218	prader willi syndrome
+9457914	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9457914	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9457914	junctional epidermolysis bullosa	D016109	junctional epidermolysis bullosa
+9457914	blistering	D001768	blistering
+9457914	nail dystrophy	C538333	nail dystrophy
+9457914	patchy alopecia	C531609	patchy alopecia
+9457914	dental abnormalities	D014071	dental abnormalities
+9457914	skin fragility	C536183	skin fragility
+9457914	atrophic benign epidermolysis bullosa	D016109	atrophic benign epidermolysis bullosa
+9843038	hereditary coproporphyria	D046349	hereditary coproporphyria
+9843038	hereditary coproporphyria	D046349	hereditary coproporphyria
+9843038	hcp	D046349	hereditary coproporphyria
+9843038	autosomal dominant disease	D030342	autosomal dominant disease
+9843038	deficiency of coproporphyrinogen oxidase	D046349	deficiency of coproporphyrinogen oxidase
+9843038	hcp	D046349	hereditary coproporphyria
+993342	deficiency of the second component of complement	OMIM:217000	deficiency of the two component of complement
+993342	deficiency of the second component of complement	OMIM:217000	deficiency of the two component of complement
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+993342	c2 deficiency	OMIM:217000	c two deficiency
+9671401	retinoblastoma	D012175	retinoblastoma
+9671401	tumor	D009369	tumor
+9671401	retinoblastoma	D012175	retinoblastoma
+9671401	unilateral tumors	D009369	unilateral tumors
+9671401	tumors	D009369	tumors
+9856499	complement c7 deficiency	OMIM:610102	complement c seven deficiency
+9856499	c7 deficiency	OMIM:610102	c seven deficiency
+9856499	c7 defects	OMIM:610102	c seven defects
+9529364	diffuse mesangial sclerosis	C537346	diffuse mesangial sclerosis
+9529364	denys-drash syndrome	D030321	denys drash syndrome
+9529364	dds	D030321	denys drash syndrome
+9529364	diffuse mesangial sclerosis	C537346	diffuse mesangial sclerosis
+9529364	dms	C537346	diffuse mesangial sclerosis
+9529364	pseudohermaphroditism	D012734	pseudohermaphroditism
+9529364	wilms tumor	D009396	wilms tumor
+9529364	wt	D009396	wilms tumor
+9529364	dds	D030321	denys drash syndrome
+9529364	isolated dms	C537346	isolated diffuse mesangial sclerosis
+9529364	idms	C537346	isolated diffuse mesangial sclerosis
+9529364	dds	D030321	denys drash syndrome
+9529364	urogenital abnormalities	D014564	urogenital abnormalities
+9529364	wt	D009396	wilms tumor
+9529364	idms	C537346	isolated diffuse mesangial sclerosis
+9529364	idms	C537346	isolated diffuse mesangial sclerosis
+9529364	idms	C537346	isolated diffuse mesangial sclerosis
+9529364	dds	D030321	denys drash syndrome
+9529364	idms	C537346	isolated diffuse mesangial sclerosis
+9529364	dms	C537346	diffuse mesangial sclerosis
+9529364	dms	C537346	diffuse mesangial sclerosis
+9391889	congenital myotonic dystrophy	D009223	congenital myotonic dystrophy
+9391889	congenital myotonic dystrophy	D009223	congenital myotonic dystrophy
+9391889	dm	D009223	myotonic dystrophy
+9391889	mentally retarded	D008607	mentally retarded
+9391889	muscular weakness	D018908	muscular weakness
+9391889	dm	D009223	myotonic dystrophy
+9391889	dm	D009223	myotonic dystrophy
+9391889	congenital dm	D009223	congenital myotonic dystrophy
+9391889	congenital dm	D009223	congenital myotonic dystrophy
+9391889	dm	D009223	myotonic dystrophy
+9391889	congenital dm	D009223	congenital myotonic dystrophy
+9391889	congenital dm	D009223	congenital myotonic dystrophy
+9391889	congenital dm	D009223	congenital myotonic dystrophy
+9391889	dm	D009223	myotonic dystrophy
+9465301	angelman syndrome	D017204	angelman syndrome
+9465301	uniparental disomy	D024182	uniparental disomy
+9949197	emery-dreifuss muscular dystrophy	D020389	emery dreifuss muscular dystrophy
+9949197	emery-dreifuss muscular dystrophy	D020389	emery dreifuss muscular dystrophy
+9949197	edmd	D020389	emery dreifuss muscular dystrophy
+9949197	cardiac defects	D006330	cardiac defects
+9949197	edmd	D020389	emery dreifuss muscular dystrophy
+9949197	edmd	D020389	emery dreifuss muscular dystrophy
+9949197	edmd	D020389	emery dreifuss muscular dystrophy
+9988281	non-inherited breast carcinomas	D001943	non inherited breast carcinomas
+9988281	tumour	D009369	tumour
+9988281	hereditary breast and ovarian cancer	D061325	hereditary breast and ovarian cancer
+9988281	non-familial cancers	D009369	non familial cancers
+9988281	sporadic cancers	D009369	sporadic cancers
+9988281	non-familial breast and ovarian cancers	D001943|D010051	non familial breast and ovarian cancers
+9988281	breast malignancies	D001943	breast malignancies
+9988281	invasive lobular cancers	D018275	invasive lobular cancers
+9988281	low-grade ductal carcinomas	D044584	low grade ductal carcinomas
+9988281	ductal carcinomas	D044584	ductal carcinomas
+9988281	sporadic breast cancers	D001943	sporadic breast cancers

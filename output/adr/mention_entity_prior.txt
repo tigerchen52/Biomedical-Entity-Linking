@@ -1,0 +1,2821 @@
+peripheral neuropathy	10029331	10
+anaphylaxis	10002198	24
+infusion reactions	10051792	6
+hematologic toxicities	10061188	2
+infections	10021789	21
+opportunistic infections	10030901	8
+tumor lysis syndrome	10045170	9
+increased toxicity	10070863	1
+hepatotoxicity	10019851	12
+progressive multifocal leukoencephalopathy	10036807	12
+pulmonary toxicity	10061924	5
+dermatologic reactions	10040914	3
+neutropenia	10029354	27
+peripheral sensory neuropathy	10034620	5
+fatigue	10016256	49
+nausea	10028813	77
+anemia	10002034	29
+upper respiratory tract infection	10046306	30
+diarrhea	10012735	59
+pyrexia	10037660	32
+rash	10037844	69
+thrombocytopenia	10043554	24
+cough	10011224	37
+vomiting	10047700	54
+peripheral motor neuropathy	10034580	4
+abdominal pain	10000081	49
+pain	10033371	11
+lymphadenopathy	10025197	5
+headache	10019211	68
+dizziness	10013573	55
+chills	10008531	18
+edema peripheral	10030124	14
+constipation	10010774	39
+pruritus	10037087	39
+alopecia	10001760	14
+night sweats	10029410	5
+dry skin	10013786	10
+dyspnea	10013968	41
+oropharyngeal pain	10068319	13
+arthralgia	10003239	35
+myalgia	10028411	18
+back pain	10003988	31
+pain in extremity	10033425	22
+muscle spasms	10028334	17
+insomnia	10022437	31
+anxiety	10002855	21
+decreased appetite	10061428	23
+weight decreased	10047895	12
+neuropathy	10029331	5
+residual neuropathy	10029331	1
+infusion related reactions	10051792	4
+non infectious pulmonary toxicity	10061924	1
+interstitial infiltration of the chest	10025102	1
+interstitial inflammation of the chest	10022611	1
+pulmonary embolism	10037377	9
+pneumonitis	10035742	10
+pneumothorax	10035759	2
+pyelonephritis	10037596	4
+septic shock	10040070	4
+supraventricular arrhythmia	10003130	1
+urinary tract infection	10046571	25
+stevens johnson syndrome	10042033	14
+pneumonia	10035664	32
+acute respiratory distress syndrome	10001052	10
+paraesthesia	10033775	6
+febrile neutropenia	10016288	10
+hyperglycemia	10020635	19
+pancreatitis	10033645	17
+fatal	10011906	42
+noninfectious pulmonary toxicity	10061924	1
+interstitial lung disease	10022611	14
+toxic epidermal necrolysis	10044223	10
+jc virus infection	10023163	1
+death	10011906	35
+embryo fetal toxicity	10026923	9
+fetal harm	10016852	17
+peripheral neuropathy sensory	10034620	1
+bacteremia	10003997	2
+sepsis	10040047	17
+deaths	10011906	14
+hepatocellular injury	10019837	2
+elevations of transaminases	10054889	2
+elevations of bilirubin	10005364	1
+hypersensitivity reactions	10020751	38
+pruritis	10037087	4
+flushing	10016825	14
+injection site hemorrhage	10022067	4
+injection site problems	10022095	1
+injection site hematoma	10022066	5
+injection site bruising	10022052	4
+gasping syndrome	10069162	2
+transient episode of hypertension	10020772	1
+non infectious pneumonitis	10035742	2
+angioedema	10002424	26
+oral ulceration	10028034	1
+renal failure	10038435	14
+impaired wound healing	10021519	1
+stomatitis	10042128	13
+edema	10030095	9
+fever	10037660	11
+asthenia	10003549	34
+respiratory tract infection	10062352	6
+hypercholesterolemia	10020603	5
+increased aspartate transaminase	10003481	8
+leukopenia	10024384	17
+lymphopenia	10025327	12
+increased alanine transaminase	10001551	2
+hypertriglyceridemia	10020869	6
+decreased potassium	10005724	2
+mouth ulceration	10028034	5
+aphthous stomatitis	10002959	4
+glossodynia	10018388	3
+gingival pain	10018286	2
+glossitis	10018386	1
+lip ulceration	10024572	2
+nasopharyngitis	10028810	34
+bronchitis	10006451	19
+cystitis	10011781	7
+sinusitis	10040753	18
+candidiasis	10074170	5
+hepatitis c	10019744	1
+lung infiltration	10025102	2
+pulmonary fibrosis	10037383	3
+dry mouth	10013781	21
+dysgeusia	10013911	19
+epistaxis	10015090	12
+hot flush	10060800	7
+pancytopenia	10033661	7
+hemoglobin decreased	10018884	9
+white blood cell decreased	10047942	2
+platelets decreased	10035528	5
+lymphocytes decreased	10025256	2
+neutrophils decreased	10029366	4
+glucose increased	10005557	3
+cholesterol increased	10005425	2
+aspartate transaminase increased	10003481	7
+alanine transaminase increased	10001551	3
+triglycerides increased	10005839	2
+albumin decreased	10005287	1
+potassium decreased	10005724	1
+creatinine increased	10005483	4
+decreased hemoglobin	10018884	3
+alkaline phosphatase increased	10059570	3
+bicarbonate decreased	10005359	3
+hypophosphatemia	10021058	11
+increased alkaline phosphatase	10059570	4
+acute renal failure	10069339	13
+acute respiratory distress	10001052	1
+cardiac arrest	10007515	7
+hepatic failure	10019663	8
+hypoglycemia	10020993	12
+myocardial infarction	10028596	12
+congestive heart failure	10007559	2
+sudden death	10042434	5
+thrombotic events	10043607	5
+pulmonary embolus	10037377	1
+thrombosis	10043607	2
+gingival swelling	10018291	1
+gingival ulceration	10049398	2
+tongue ulceration	10043991	1
+mucosal inflammation	10028116	6
+enteritis	10014866	2
+enterocolitis	10014893	4
+colitis	10009887	7
+defecation urgency	10012110	1
+steatorrhea	10041969	1
+restrictive pulmonary disease	10048667	1
+malaise	10025482	10
+edema general	10018092	2
+rhinitis	10039083	11
+upper respiratory infection	10046306	6
+diabetes mellitus	10012601	6
+migraine	10027599	6
+productive cough	10036790	1
+dyspnea exertional	10013971	6
+nail disorders	10028694	1
+pruritus generalized	10052576	3
+xeroderma	10048218	1
+hypertension	10020772	27
+irregular menstruation	10027339	1
+glucose fasting increased	10005557	1
+phosphate decreased	10049471	2
+calcium decreased	10005395	1
+sodium decreased	10005802	1
+bilirubin increased	10005364	1
+potassium increased	10005725	2
+dehydration	10012174	22
+increased creatinine	10005483	4
+acute respiratory failure	10001053	4
+infection	10021789	12
+aspergillosis	10074171	4
+pulmonary alveolar hemorrhage	10037313	1
+alveolitis	10001889	1
+anorexia	10061428	9
+hemorrhoids	10019022	4
+dysphagia	10013950	11
+chest pain	10008479	12
+pleural effusion	10035598	2
+pharyngolaryngeal pain	10023848	4
+rhinorrhea	10039101	5
+hand foot syndrome	10033553	2
+palmar plantar erythrodysesthesia syndrome	10033553	7
+nail disorder	10028694	1
+erythema	10015150	18
+onychoclasis	10048886	1
+skin lesion	10040882	2
+acneiform dermatitis	10012432	2
+exacerbation diabetes mellitus	10012601	1
+new onset of diabetes mellitus	10012601	1
+paresthesia	10033775	18
+eyelid edema	10015993	9
+conjunctivitis	10010741	10
+deep vein thrombosis	10051055	6
+tachycardia	10043071	14
+congestive cardiac failure	10007559	1
+jaw pain	10033433	2
+hemorrhage	10055798	8
+amenorrhea	10001928	3
+hypersensitivity	10020751	37
+bronchospasm	10006482	9
+convulsion	10039906	10
+peripheral edema	10030124	17
+acne	10000496	7
+menorrhagia	10027313	4
+menstrual irregularities	10027339	1
+vaginal hemorrhage	10046910	4
+otitis media	10033078	2
+depression	10012378	17
+abnormal taste	10013911	1
+increased blood luteinizing hormone levels	10005649	2
+increased blood follicle stimulating hormone levels	10005534	2
+ovarian cyst	10033132	1
+leucopenia	10024384	2
+elevated aspartate transaminase	10003481	4
+elevated alanine transaminase	10001551	2
+fasting hyperglycemia	10020635	1
+gastroenteritis	10017888	5
+aggression	10001488	3
+agitation	10001497	6
+elevated partial thromboplastin time	10000636	1
+respiratory tract infection viral	10062106	1
+gastroenteritis viral	10017918	3
+gastrointestinal infection	10017964	1
+panic attack	10033664	3
+abnormal behavior	10061422	1
+obsessive compulsive disorder	10029898	3
+rash generalized	10037858	5
+rash macular	10037867	7
+rash maculo papular	10037868	5
+rash papular	10037876	6
+dermatitis allergic	10012434	4
+urticaria	10046735	33
+behavioral disturbance	10061422	1
+menstrual abnormalities	10027327	1
+dysmenorrhea	10013935	2
+metrorrhagia	10027514	4
+unspecified menstrual irregularity	10027339	1
+cellulitis	10007882	6
+elevated creatinine	10005483	2
+acute pancreatitis	10033647	4
+cholecystitis	10008612	2
+cholelithiasis	10008629	3
+arterial thrombotic events	10003178	2
+reflex sympathetic dystrophy	10064332	1
+mouth ulcers	10028034	1
+oral mucositis	10042128	1
+wound related complications	10053692	1
+elevations of serum creatinine	10005483	1
+elevations urinary protein	10053123	1
+elevations blood glucose	10005557	1
+elevations lipids	10024592	1
+decreases in hemoglobin	10018884	1
+decreases in neutrophils	10029366	1
+decreases in platelets	10035528	1
+bacterial infections	10060945	5
+fungal infections	10017533	3
+viral infections	10047461	5
+protozoal infections	10021859	2
+infections with opportunistic pathogens	10030901	1
+mycobacterial infections	10062207	1
+invasive fungal infections	10052366	3
+pneumocystis jiroveci pneumonia	10073755	5
+reactivation of hepatitis b virus	10019731	5
+respiratory failure	10038695	8
+swelling of the airways	10070774	1
+swelling of the tongue	10042727	3
+respiratory impairment	10025082	1
+delays wound healing	10021519	1
+wound dehiscence	10048031	2
+wound infection	10048038	1
+incisional hernia	10021619	1
+lymphocele	10048642	2
+seroma	10040102	1
+proteinuria	10037032	9
+hyperlipidemia	10062060	3
+decreased lymphocytes	10025256	2
+decreased neutrophils	10029366	2
+decreased platelets	10035528	3
+hepatic impairment	10024670	4
+seizures	10039906	7
+urinary tract infections	10046571	8
+balance disorder	10049848	5
+multiple sclerosis relapse	10048393	1
+dyspepsia	10013946	30
+confusional state	10010305	7
+allergic reactions	10020751	9
+respiratory compromise	10038695	3
+angioedema of the throat	10002424	2
+angioedema of the tongue	10002424	2
+musculoskeletal pain	10028391	14
+blood pressure increased	10005750	4
+injection site reaction	10022095	9
+injection site haemorrhage	10022067	2
+injection site irritation	10022079	7
+injection site pain	10022086	12
+feeling cold	10016326	3
+claustrophobia	10009244	1
+neck pain	10028836	4
+infusion site rash	10059830	1
+radiation risk	10073306	3
+long term cumulative radiation exposure	10073306	3
+cancer	10028997	4
+suicidal behavior	10065604	7
+suicidal ideation	10042458	8
+drug reaction with eosinophilia and systemic symptoms	10073508	4
+multiorgan hypersensitivity	10073508	1
+anaphylactic reactions	10002198	14
+hyponatremia	10021036	9
+neurological adverse reactions	10060860	1
+drug induced liver injury	10072268	2
+abnormal thyroid function tests	10043730	1
+somnolence	10041349	16
+diplopia	10013036	7
+fatigue related adverse reactions	10016256	1
+vertigo	10047340	16
+ataxia	10003591	3
+blurred vision	10047513	15
+tremor	10044565	15
+dysarthria	10013887	6
+visual impairment	10047571	3
+gastritis	10017853	9
+gait disturbance	10017577	9
+fall	10016173	5
+memory impairment	10027175	5
+nystagmus	10029864	4
+suicidal thoughts	10042458	5
+suicidal thinking	10042458	3
+suicides	10010144	6
+suicidal behaviors	10065604	4
+hepatitis	10019717	10
+nephritis	10029117	3
+hematological abnormalities	10057755	2
+myocarditis	10028606	3
+myositis	10028653	5
+eosinophilia	10014950	7
+laryngeal edema	10023845	2
+decreases in sodium values	10005802	1
+gait instability	10017577	1
+injury	10022116	2
+hypochloremia	10020955	1
+disturbance in gait	10017577	1
+disturbance in coordination	10010947	1
+abnormal coordination	10010947	2
+hypersomnia	10020765	3
+sedation	10039897	5
+lethargy	10024264	7
+fatigue related adverse reactions related events	10016256	1
+cognitive dysfunction	10057668	1
+disturbance in attention	10013496	6
+amnesia	10001949	5
+aphasia	10002948	3
+speech disorder	10041466	2
+slowness of thought	10050012	1
+disorientation	10013395	5
+psychomotor retardation	10037213	1
+visual changes	10047571	1
+impaired vision	10047571	1
+eye events	10075536	1
+elevations in transaminases	10054889	2
+elevations of total bilirubin	10005364	1
+transaminase elevations	10054889	7
+elevated bilirubin	10005364	1
+liver injury	10067125	5
+decreases in serum t three free	10053791	1
+decreases in serum t four free	10055162	1
+decreases in serum t four total	10043816	1
+decreases in serum t three total	10044594	1
+asthma	10003553	3
+chronic obstructive pulmonary disease	10009033	1
+chronic obstructive pulmonary disease exacerbation	10009033	1
+angina pectoris	10002383	6
+atrial fibrillation	10003658	11
+cardiovascular adverse reactions	10075534	1
+muscle spasm	10028334	6
+asthma exacerbation	10003553	1
+paradoxical bronchospasm	10006486	3
+heart rate increase	10019303	1
+palpitations	10033557	11
+cardiovascular effect	10075534	1
+increases in pulse rate	10019303	2
+increases in systolic blood pressure	10005760	1
+increases in diastolic blood pressure	10005739	1
+decrease in serum potassium	10005724	2
+decreases in serum potassium	10005724	1
+changes in blood glucose	10049803	1
+hematologic toxicity	10061188	1
+gastrointestinal toxicity	10059024	3
+increased blood lactate dehydrogenase	10005630	1
+infusion site pain	10053483	2
+hypokalemia	10021015	19
+prolonged qt	10014387	1
+hypotension	10021097	31
+phlebitis	10034879	3
+multi organ failure	10028154	3
+died	10011906	10
+ventricular fibrillation	10047290	2
+hepatic toxicity	10019851	4
+liver function test abnormalities	10024690	2
+teratogenicity	10043275	1
+embryo fetal lethality	10055690	1
+genotoxic	unmapped	1
+mortality	10011906	5
+malignancy	10028997	3
+pharyngitis	10034835	9
+lupus nephritis	10025140	1
+erythematous rash	10037855	2
+suicidality	10065604	2
+cardiovascular disease	10007649	1
+suicide	10010144	4
+influenza	10022000	16
+jc virus	10023163	4
+neurological deficits	10029202	1
+malignancies	10028997	9
+non melanoma skin cancers	10040808	1
+acute hypersensitivity reactions	10020751	3
+facial edema	10016029	5
+adverse events associated with the infusion	10051792	1
+bradycardia	10006093	9
+skin reactions	10040914	6
+psychiatric events	10061472	1
+taste following instillation	10069227	1
+eye irritation	10015946	4
+itching	10037087	3
+body rash	10037844	1
+swelling of lips	10024570	1
+swelling of tongue	10042727	1
+swelling of throat	10034829	1
+ocular adverse reaction	10075536	1
+conjunctival redness	10051625	1
+eye pain	10015958	5
+eye pruritus	10052140	1
+overgrowth of non susceptible organisms	unmapped	1
+overgrowth of fungi	10076272	1
+cytokine release syndrome	10052015	2
+neurological toxicities	10029350	1
+effects on ability to drive	10049564	1
+effects on ability to use machines	unmapped	1
+elevated liver enzymes	10060795	3
+leukoencephalopathy	10024382	1
+device related infection	10064687	1
+encephalopathy	10014625	3
+overdose	10033295	1
+confusion	10010305	5
+staphylococcal bacteremia	10051017	1
+neutropenic colitis	10062959	1
+increased alanine aminotransferase	10001551	10
+increased aspartate aminotransferase	10003481	4
+increased weight	10047899	3
+hypomagnesemia	10021027	8
+bone pain	10006002	6
+resting tremor	10071390	2
+bronchial hyperactivity	10066091	1
+respiratory distress	10038687	3
+wheezing	10047924	7
+generalized rash	10037858	3
+macular rash	10037867	1
+maculo papular rash	10037868	1
+papular rash	10037876	1
+vesicular rash	10037898	1
+leukocytosis	10024378	3
+cytokine storm	10050685	1
+decreased immunoglobulins	10021499	1
+increased blood bilirubin	10005364	1
+increased gamma glutamyl transferase	10017693	2
+increased liver enzymes	10060795	3
+hypoalbuminemia	10020942	5
+cognitive disorder	10057668	2
+capillary leak syndrome	10007196	3
+increased total bilirubin	10005364	1
+disseminated intravascular coagulation	10013442	2
+hemophagocytic lymphohistiocytosis	10048595	1
+macrophage activation syndrome	10048595	2
+hlh	10048595	1
+mas	10048595	1
+convulsions	10039906	2
+speech disorders	10041466	1
+disturbances in consciousness	10001854	1
+coordination disorders	10010947	1
+balance disorders	10049848	1
+catheter site infections	10056520	1
+neurologic events	10060860	1
+loss of consciousness	10024855	2
+elevations in liver enzymes	10060795	1
+myelosuppression	10065553	2
+fluid retention	10016807	5
+renal toxicity	10029155	1
+anaphylactic shock	10002199	6
+qtcf interval of greater than 500 milliseconds	10014387	1
+platelet count low	10035528	1
+absolute neutrophil count less than one ten nine l	10029366	1
+hemoglobin low	10018884	1
+alanine aminotransferase greater than five zero uln	10001551	2
+aspartate aminotransferase greater than five zero uln	10003481	1
+aspartate transaminase greater than five zero uln	10003481	1
+lipase greater than two uln	10024574	1
+phosphorus low	10049471	1
+total bilirubin greater than three zero uln	10005364	1
+pericardial effusion	10034474	2
+pericarditis	10034484	3
+tinnitus	10043882	6
+gastrointestinal hemorrhage	10017955	7
+gastric hemorrhage	10017788	5
+upper gastrointestinal hemorrhage	10046274	1
+chest discomfort	10008469	6
+toxic hepatitis	10019795	1
+cytolytic hepatitis	10019717	2
+abnormal hepatic function	10019670	1
+liver disorder	10024670	2
+drug hypersensitivity	10013700	4
+bronchopneumonia	10035664	2
+lobar pneumonia	10035664	1
+primary atypical pneumonia	10003757	1
+electrocardiogram qt prolonged	10014387	2
+increased blood creatine phosphokinase	10005470	1
+increased blood creatinine	10005483	2
+hyperkalemia	10020646	7
+acute pulmonary edema	10001029	1
+pulmonary hypertension	10037400	2
+erythema multiforme	10015218	4
+exfoliative rash	10064579	3
+drug eruption	10013687	3
+embryofetal toxicity	10026923	7
+elevations in alanine aminotransferase	10001551	10
+elevations in aspartate transaminase	10003481	2
+total bilirubin greater than two uln	10005364	1
+alkaline phosphatase less than two uln	10059570	1
+alanine aminotransferase elevation	10001551	5
+aspartate transaminase elevation	10003481	1
+increase in alanine aminotransferase	10001551	2
+increase in aspartate transaminase	10003481	2
+pulmonary edema	10037423	3
+pleural effusions	10035598	1
+pericardial effusions	10034474	2
+decline in estimated glomerular filtration rate	10018358	1
+kidney failure	10038435	1
+candida albicans infection	10074170	1
+immunosuppression	10062016	3
+hypercorticism	10020564	1
+adrenal suppression	10001382	1
+reduction in bone mineral density	10049470	1
+oral candidiasis	10030963	3
+dysphonia	10013952	6
+oropharyngeal candidiasis	10050346	1
+fungal oropharyngitis	10061891	1
+viral respiratory tract infection	10062106	1
+extrasystoles	10015856	1
+upper abdominal pain	10000087	7
+allergic rhinitis	10039085	1
+supraventricular extrasystoles	10042602	1
+ventricular extrasystoles	10047289	2
+acute sinusitis	10001076	1
+nervousness	10029216	5
+candida albicans infection of the mouth	10074170	1
+candida albicans infection of the pharynx	10050346	1
+worsening of infections	10021789	1
+worsening existing tuberculosis	10044755	1
+worsening fungal infections	10017533	1
+worsening bacterial infections	10060945	1
+worsening viral infections	10047461	1
+worsening parasitic infections	10021857	1
+worsening ocular herpes simplex	10073938	1
+chickenpox	10046980	1
+measles	10027011	2
+impaired adrenal function	10001347	1
+infections of the mouth with candida albicans	10030963	1
+infections of the pharynx with candida albicans	10074170	1
+pneumonias	10035664	1
+hypothalamic pituitary adrenal dysfunction	10074052	1
+adrenal crisis	10001389	1
+increases systolic blood pressure	10005760	1
+increases diastolic blood pressure	10005739	1
+cardiac arrhythmias	10003119	2
+supraventricular tachycardia	10042604	2
+fatalities	10011906	3
+prolongation of the qtc interval	10014387	1
+ventricular arrhythmias	10047281	2
+tonsilitis	10044008	1
+ear infection	10014011	2
+hyperhidrosis	10020642	13
+tonsillitis	10044008	2
+hyperammonemia	10020575	1
+pain in extremities	10033425	2
+flatulence	10016766	11
+gastroesophageal reflux disease	10017885	14
+electrocardiogram changes	10061116	1
+prolongation prothrombin ratio cardiac intervals	10053657	1
+prolongation qtc cardiac intervals	10014387	1
+prolongation qrs cardiac intervals	10014380	1
+increases in electrocardiogram intervals prothrombin ratio	10053657	1
+increases in electrocardiogram intervals qtc	10014387	1
+increases in electrocardiogram intervals qrs	10014380	1
+heart failure	10007554	5
+upper respiratory infections	10046306	1
+intestinal obstruction	10022687	3
+tuberculosis infections	10044755	1
+laryngitis	10023874	3
+viral infection	10047461	4
+bladder infection	10011781	1
+bacteriuria	10004056	1
+thrombophilia	10020608	1
+arrhythmias	10003119	2
+cardiac failure	10007554	8
+hypertensive heart disease	10020823	1
+myocardial ischemia	10028600	4
+stroke	10008190	6
+transient ischemic attack	10044390	4
+optic neuritis	10030942	2
+retinal hemorrhage	10038867	2
+uveitis	10046851	4
+bleeding	10055798	5
+injection site reactions	10022095	13
+alopecia totalis	10001766	1
+bipolar disorder	10057667	1
+suicide attempt	10042464	2
+nephrotic syndrome	10029164	3
+menstrual disorder	10027327	2
+dermatitis	10012431	7
+erythema nodosum	10015226	2
+thrombophlebitis	10043570	1
+vasculitis	10047115	3
+acute bronchitis	10006451	1
+hypertensive adverse reactions	10020772	1
+upper respiratory tract infections	10046306	2
+herpes infections	10019973	2
+lower respiratory tract infections	10024968	1
+tuberculosis	10044755	8
+miliary tuberculosis	10013453	1
+lymphatic tuberculosis	10025183	1
+peritoneal tuberculosis	10053583	1
+pulmonary tuberculosis	10037440	3
+new heart failure	10007554	2
+worsening heart failure	10007554	2
+antinuclear antibody titers positive	10060055	1
+lupus like syndrome	10050551	1
+antinuclear antibody	10060055	1
+injection site erythema	10022061	7
+dizziness postural	10013578	2
+serum sickness	10040400	2
+vasovagal syncope	10042772	2
+sarcoidosis	10039486	3
+active tuberculosis	10044755	3
+reactivation of latent tuberculosis	10044755	2
+tuberculosis disseminated	10013453	2
+tuberculosis extrapulmonary	10064445	2
+histoplasmosis	10020141	2
+coccidioidomycosis	10009825	2
+blastomycosis	10005098	2
+pneumocystosis	10073755	2
+histoplasmosis disseminated	10020144	1
+invasive fungal infections disseminated	10052366	1
+infections legionella	10061266	2
+infections listeria	10024641	2
+bacterial sepsis	10053840	2
+infections due to other opportunistic pathogens	10030901	1
+heart failure worsening	10007554	2
+heart failure new onset	10007554	2
+hepatitis b virus reactivation	10019731	3
+demyelinating disease	10012305	2
+cytopenias	10066274	2
+reactivation of tuberculosis	10044755	3
+lymphomas	10025310	2
+hodgkin lymphoma	10020206	1
+non hodgkin s lymphoma	10029547	3
+rare malignancies	10028997	2
+lymphoma	10025310	3
+hepatosplenic t cell lymphoma	10066957	4
+worsening congestive heart failure	10007559	4
+new onset congestive heart failure	10007559	2
+neurological disorders	10029202	1
+seizure disorder	10039906	1
+adverse reactions of the hematologic system	10061590	1
+cytopenia	10066274	1
+formation of autoantibodies	10061664	1
+reflex tachycardia	10043071	1
+syncope	10042772	17
+increased blood triglycerides	10005839	1
+ileus	10021328	4
+decreased oxygen saturation	10033318	2
+pulmonary shunting	10069675	1
+systemic hypotension	10021097	1
+sleep disorder	10040984	1
+hepatomegaly	10019842	5
+splenomegaly	10041660	2
+malaria	10025487	1
+plasmodium falciparum infection	10035500	1
+aspartate aminotransferase increased	10003481	9
+peptic ulcer	10034341	2
+abscess	10000269	3
+acrodermatitis	10012431	1
+helminthic infection	10061201	1
+hookworm infection	10020376	1
+impetigo	10021531	1
+lower respiratory tract infection	10024968	3
+oral herpes	10067152	1
+subcutaneous abscess	10042343	2
+alanine aminotransferase increased	10001551	13
+hematocrit decreased	10018838	3
+lymphocyte morphology abnormal	10062047	1
+platelet count decreased	10035528	2
+platelet count increased	10051608	1
+white blood cell count decreased	10047942	1
+white blood cell count increased	10047943	1
+clonus	10009346	1
+fine motor delay	10066088	1
+hyperreflexia	10020745	2
+hypoesthesia	10020937	11
+mood swings	10027951	3
+hematuria	10018867	13
+pharyngo laryngeal pain	10023848	1
+bullous eruption	10012441	1
+prolongation of the qt interval	10014387	1
+qt prolongation	10014387	8
+perforations	10076705	1
+fistula	10016717	1
+thromboembolic events	10061169	4
+wound complications	10053692	1
+osteonecrosis of the jaw	10064658	2
+reversible posterior leukoencephalopathy syndrome	10071066	4
+decreased weight	10047895	1
+oral pain	10031009	1
+hair color changes	10019030	2
+hypocalcemia	10020947	7
+hyperbilirubinemia	10020578	4
+septicemia	10040047	1
+fistulas	10016717	1
+increased lipase	10024574	1
+tracheal fistula formation	10065787	1
+increased levels of thyroid stimulating hormone	10005833	1
+musculoskeletal chest pain	10050819	3
+hair color depigmentation	10019030	1
+hair color graying	10019030	1
+hyperkeratosis	10020649	2
+elevated blood pressure	10005750	2
+pre hypertension	10065918	1
+gastrointestinal perforations	10018001	2
+fistula formation	10016717	2
+hemoptysis	10018964	5
+gastrointestinal fistulas	10017877	3
+gastrointestinal fistula	10017877	2
+non gastrointestinal fistulas	10016717	1
+fistulas tracheal	10065787	1
+fistulas esophageal	10065835	1
+hemorrhagic events	10055798	3
+venous thromboembolism	10014522	4
+arterial thromboembolism	10014513	1
+onj	10064658	2
+osteomyelitis	10031252	1
+osteitis	10031149	1
+bone erosion	10051728	1
+tooth infection	10048762	1
+periodontal infection	10034539	1
+toothache	10044055	5
+gingival erosion	10018282	1
+persistent jaw pain	10033433	1
+slow healing of the mouth after dental surgery	10021519	1
+slow healing of the jaw after dental surgery	10021519	1
+subcortical vasogenic edema	10067275	1
+hemorrhagic anemia	10052293	2
+petechiae	10034754	4
+thrombocytosis	10043563	3
+melena	10027141	3
+hematochezia	10018836	3
+anaphylactoid reaction	10002216	2
+clostridium difficile colitis	10009657	2
+vulvovaginal mycotic infection	10064899	4
+hepatic transaminases increased	10054889	1
+blood alkaline phosphatase increased	10059570	3
+international normalized ratio increased	10022595	1
+wound hemorrhage	10051373	2
+spontaneous hematoma	10065304	1
+abnormalities in liver tests elevations	10001551	1
+abnormalities in liver tests values greater than ten times upper limit of normal	10001551	1
+clostridium difficile associated diarrhea	10009657	6
+red man syndrome	10038192	1
+flushing of the upper body	10016825	1
+abnormalities in liver tests elevation	10001551	1
+abnormalities in abnormalities in liver tests	10001547	1
+abnormalities in aspartate transaminase	10003477	1
+abnormalities in bilirubin	10058477	1
+skin erythema	10015150	2
+abdominal distension	10000060	6
+abdominal tenderness	10000097	2
+megacolon	10027110	1
+increased blood alkaline phosphatase	10059570	1
+decreased blood bicarbonate	10005359	1
+increased hepatic enzymes	10060795	2
+decreased platelet count	10035528	1
+metabolic acidosis	10027417	3
+angioedema of the mouth	10002424	1
+angioedema of the face	10002424	2
+acute kidney injury	10069339	2
+injection site coldness	10050082	2
+burning sensation	10006784	6
+oropharyngeal discomfort	10068318	1
+serum creatinine increased	10005483	1
+injection site inflammation	10022078	2
+injection site extravasation	10022062	2
+injection site pruritus	10022093	5
+injection site warmth	10022112	3
+arrhythmia	10003119	5
+anaphylactoid reactions	10002216	3
+respiratory arrest	10038669	4
+cyanosis	10011703	4
+pharyngeal edema	10034829	4
+laryngospasm	10023891	1
+ocular hyperemia	10030041	2
+lacrimation increased	10023644	2
+coma	10010071	3
+presyncope	10036653	1
+parosmia	10034018	3
+muscle contracture	10062575	1
+muscle weakness	10028372	4
+salivary hypersecretion	10039424	4
+superficial phlebitis	10034902	1
+nephrogenic systemic fibrosis	10067467	6
+fibrosis	10016642	3
+cardiovascular manifestations	10075534	3
+respiratory manifestations	10075535	3
+cutaneous manifestations	10075531	3
+circulatory collapse	10009192	2
+hypersensitivity reaction	10020751	6
+administration tissue irritation	10075941	1
+cardiovascular disorders	10007649	1
+malignant neoplasms	10028997	1
+gallbladder disease	10017626	2
+abdominal pain upper	10000087	12
+deep venous thrombosis	10051055	4
+retinal vein thrombosis	10038908	3
+endometrial cancer	10014733	1
+dementia	10012267	1
+retinal vascular thrombosis	10062108	1
+breast cancer	10006187	1
+ovarian cancer	10033128	1
+increases in blood pressure	10005750	3
+elevations of plasma triglycerides	10005839	1
+increased thyroid binding globulin levels	10051420	2
+increased thyroid binding globulin	10051420	2
+exacerbate angioedema	10002424	1
+accelerated prothrombin time	10037070	1
+accelerated partial thromboplastin time	10000637	1
+accelerated platelet aggregation time	10035518	1
+increased platelet count	10051608	1
+increased factors two	10037051	1
+increased factors seven antigen	unmapped	1
+increased factors eight antigen	unmapped	1
+increased factors eight coagulant activity	10009770	1
+increased factors nine	10009748	1
+increased factors ten	10009776	1
+increased factors twelve	10009784	1
+increased factors seven ten complex	unmapped	1
+increased factors two seven ten complex	unmapped	1
+increased beta thromboglobulin	unmapped	1
+decreased levels of antifactor xa	unmapped	1
+decreased levels of antithrombin three	10049547	1
+decreased antithrombin three activity	10049547	1
+increased levels of fibrinogen	10005521	1
+increased levels of fibrinogen activity	10005521	1
+increased plasminogen antigen	10059618	1
+increased plasminogen activity	10035495	1
+increased circulating total thyroid hormone	10063161	1
+increased t four levels	10043818	1
+increased t three levels	10044596	1
+t three resin uptake decreased	10044601	1
+elevated thyroid binding globulin	10051420	1
+elevated corticosteroid binding globulin	10072935	2
+elevated sex hormone binding globulin	10059659	2
+increased total circulating corticosteroids	10020610	1
+increased total circulating sex steroids	10005688	1
+free hormone concentrations decreased	unmapped	1
+testosterone decreased	10005814	1
+estradiol decreased	10030229	1
+plasma proteins increased	10037016	1
+increased angiotensinogen	unmapped	1
+increased renin substrate	unmapped	1
+increased alpha one antitrypsin	10001808	1
+increased ceruloplasmin	10008219	1
+increased plasma high density lipoprotein	10020061	1
+increased high density lipoprotein	10020061	1
+increased high density lipoprotein two cholesterol subfraction concentrations	10020061	1
+reduced low density lipoprotein cholesterol concentrations	10024909	2
+increased triglyceride levels	10005839	1
+impaired glucose tolerance	10018429	1
+ocular adverse reactions	10075536	1
+corneal edema	10011033	2
+ciliary hyperemia	10052129	1
+conjunctival hyperemia	10051625	1
+photophobia	10034960	2
+posterior capsule opacification	10036346	1
+anterior chamber cells	10053781	1
+anterior chamber flare	10052127	1
+conjunctival edema	10010726	1
+blepharitis	10005148	3
+reduced visual acuity	10047531	3
+punctate keratitis	10037508	1
+eye inflammation	10015943	1
+iritis	10022955	3
+application site discomfort	10063072	1
+application site irritation	10003046	3
+corneal pigmentation	10011040	1
+corneal striae	10052118	1
+episcleritis	10015084	2
+eye pruritis	10052140	1
+eyelid irritation	10057385	1
+eyelid crusting	10052132	1
+foreign body sensation	10061549	1
+increased lacrimation	10023644	3
+macular edema	10025415	2
+sclera hyperemia	10059096	1
+increased intraocular pressure	10022806	2
+limbal hyperemia	10052129	1
+dry eye	10013774	3
+iridocyclitis	10022941	1
+intraocular pressure increase	10022806	2
+distant spread of toxin effect	unmapped	2
+spread of effects from toxin	unmapped	2
+breathing difficulties	10013968	2
+intradermal immune reaction	10012434	1
+muscular weakness	10028372	8
+injection site discomfort	10054266	2
+eye disorders	10015916	2
+eyelid ptosis	10015995	3
+reduced visual accommodation	10000389	1
+eyelid disorder	10061130	1
+feeling abnormal	10016322	4
+facial paresis	10051267	2
+muscle atrophy	10028289	1
+increase in mean blood glucose	10005557	1
+reduction in heart rate	10019301	1
+blood present in urine	10018870	1
+injection site numbness	10074586	1
+injection site tenderness	10022086	1
+injection site tingling	10022088	1
+injection site itching	10022093	1
+injection site stinging	10022086	1
+injection site tightness	10022095	1
+injection site swelling	10053425	4
+contact dermatitis	10012442	2
+hypoaesthesia	10020937	2
+partial seizures	10061334	1
+contusion	10050584	6
+blood triglycerides increased	10005839	2
+injection site haematoma	10022066	1
+hypertonia	10020852	1
+sensation of heaviness	10013082	1
+influenza like illness	10022004	2
+amyotrophy	10002027	1
+excessive granulation tissue	10063560	1
+spread toxin effects	unmapped	1
+generalized muscle weakness	10028372	2
+ptosis	10015995	2
+urinary incontinence	10046543	5
+swallowing difficulties	10013950	2
+respiratory difficulties	10013968	1
+speech difficulties	10041466	1
+creutzfeldt jakob disease	10011384	4
+toxin effects beyond the site of local injection	unmapped	2
+spread of toxin effects	unmapped	2
+spread of toxin effect	unmapped	2
+aspiration	10003504	3
+weaken neck muscles	10028372	1
+loss of breathing capacity	10044100	2
+viral diseases	10047461	1
+orthostatic hypotension	10031127	6
+increases in serum creatinine	10005483	5
+serum creatinine increases	10005483	1
+low hemoglobin	10018884	1
+low hematocrit	10018838	1
+low red blood count counts	10038153	1
+low platelet counts	10035528	1
+low white blood cell counts	10047942	1
+high white blood cell counts	10047943	1
+high platelet counts	10051608	1
+abnormal platelet counts	10035526	1
+abnormal white blood cell counts	10047940	1
+fetal toxicity	10026923	1
+oligohydramnios	10030289	1
+fetal lung hypoplasia	10037407	1
+fetal skeletal deformations	10010356	1
+neonatal adverse effects	10028934	1
+neonatal skull hypoplasia	10027534	1
+neonatal anuria	10049778	1
+neonatal hypotension	10049223	1
+neonatal renal failure	10038447	1
+neonatal death	10011912	1
+symptomatic hypotension	10021097	5
+changes in renal function	10062237	1
+bleeding related adverse reactions	10055798	1
+decrease in hemoglobin	10018884	2
+bleeding at a critical site	10055798	2
+bleeding intracranial	10018985	2
+bleeding intraspinal	10048992	2
+bleeding intraocular	10015926	2
+bleeding pericardial	10034476	1
+bleeding intra articular	10018829	1
+bleeding intramuscular	10028309	2
+bleeding retroperitoneal	10038980	1
+compartment syndrome	10010121	2
+fatal outcome	10011906	1
+intracranial bleed	10018985	2
+intracerebral bleeding	10008111	1
+intraventricular bleeding	10022840	1
+subdural bleeding	10042364	1
+subarachnoid bleeding	10042316	1
+hemorrhagic stroke	10019016	2
+gastrointestinal bleed	10017955	1
+upper gastrointestinal bleeding	10046274	1
+lower gastrointestinal bleeding	10050953	1
+rectal bleeding	10038063	1
+intracranial bleeding	10018985	1
+non intracranial bleeding	10055798	1
+intracerebral hemorrhage	10018985	1
+bled	10055798	1
+skin rash	10037844	1
+allergic edema	10060934	2
+surgical site bleeding	10071229	1
+bleeding into an operated joint	10018829	1
+intracranial hemorrhage	10018985	4
+hemoglobin decrease	10018884	1
+bleed at critical site	10055798	1
+postoperative anemia	10048861	1
+hematoma	10018852	3
+urethral hemorrhage	10049710	1
+postprocedural hemorrhage	10051077	1
+postprocedural hematoma	10063188	1
+vessel puncture site hematoma	10065902	2
+catheter site hemorrhage	10051099	1
+transaminases increased	10054889	3
+alanine aminotransferase abnormal	10001547	1
+gamma glutamyltransferase increased	10017693	1
+platelet count decreases	10035528	1
+procedural hypotension	10062300	1
+hematemesis	10018830	2
+liver function test abnormal	10024690	2
+blood bilirubin increased	10005364	2
+wound secretion	10048629	1
+incision site hemorrhage	10051100	1
+incision site hematoma	10059241	1
+operative hemorrhage	10071229	1
+gingival bleeding	10018276	1
+muscle hemorrhage	10028309	1
+ocular hemorrhage	10015926	1
+conjunctival hemorrhage	10010719	2
+rectal hemorrhage	10038063	3
+crnm	10055798	1
+clinically relevant nonmajor bleeding	10055798	1
+hemorrhoidal hemorrhage	10054787	1
+anal hemorrhage	10049555	1
+traumatic hematoma	10044522	1
+periorbital hematoma	10034544	1
+menometrorrhagia	10027295	1
+genital hemorrhage	10061178	2
+ecchymosis	10014080	4
+skin hemorrhage	10064265	1
+eye hemorrhage	10015926	2
+blood urine present	10018870	1
+occult blood positive	10061880	1
+occult blood	10061878	1
+red blood cells urine positive	10038182	1
+spinal hematoma	10076051	2
+epidural hematoma	10015769	2
+epidural hematomas	10015769	2
+spinal hematomas	10076051	2
+hematomas	10018852	3
+long term paralysis	10033799	2
+permanent paralysis	10033799	2
+myocardial infarctions	10028596	2
+increased sensitivity to the gastrointestinal tract	10070840	1
+feeling hot	10016334	5
+injection site burning	10022086	1
+pruritus eye	10052140	1
+respiratory disorders	10038683	1
+akathisia	10001540	3
+bundle branch block	10006578	1
+palpitation	10033557	2
+oral discomfort	10030973	1
+maculopapular rash	10037868	2
+discomfort	10013082	1
+elevation of serum iron	10005620	1
+elevation of serum bilirubin	10005364	1
+anaphylacticshock	10002199	1
+pharyngolaryngeal edema	10023845	1
+face edema	10016029	4
+sneezing	10041232	5
+pallor	10033546	3
+restlessness	10038743	3
+shock	10040560	1
+hypersensitivity delayed reactions	10053613	1
+injection site local tissue reactions	10022095	1
+glucose intolerance	10018429	1
+systemic hypersensitivity	10020751	2
+transaminases abnormal	10062688	1
+local reactions	10024769	1
+abdominal discomfort	10000059	9
+allergy	10020751	1
+coagulopathy	10009802	1
+infarct	10061216	1
+ketoacidosis	10023379	2
+central nervous system events	10029202	1
+central nervous system hemorrhage	10072043	1
+central nervous system thrombosis	10029202	1
+central nervous system infarction	10029202	1
+cerebral venous thrombosis	10008138	1
+hemorrhagic pancreatitis	10033650	1
+sagittal sinus thrombosis	10042567	1
+coagulation proteins decreased	10009736	1
+decreased fibrinogen	10005520	1
+decreased protein c activity	10037005	1
+decreased protein s activity	10051120	1
+decreased anti thrombin three	10049547	1
+endophthalmitis	10014801	1
+retinal detachments	10038848	2
+cataract	10007739	4
+vitreous floaters	10047654	2
+intraocular pressure increased	10022806	1
+vitreous detachment	10047650	1
+retinal detachment	10038848	1
+corneal epithelium defect	10011010	1
+detachment of the retinal pigment epithelium	10052501	1
+foreign body sensation in eyes	10051116	1
+vision blurred	10047513	10
+intraocular inflammation	10015943	1
+retinal pigment epithelium tear	10062971	1
+retinal tear	10038897	1
+increases in intraocular pressure	10022806	1
+acute increases in intraocular pressure	10022806	1
+arterial thromboembolic events	10014513	4
+nasal congestion	10028735	7
+weight increased	10047899	9
+musculoskeletal stiffness	10052904	5
+extrapyramidal disorder	10015832	2
+ejaculation failure	10014328	2
+extrapyramidal symptoms	10015832	3
+extrapyramidal symptoms related adverse events	10015832	1
+bradykinesia	10006100	2
+dyskinesia	10013916	2
+dystonia	10013983	3
+parkinsonism	10034010	2
+hematocrit below the extended normal range	10018838	1
+iron deficiency anemia	10022972	1
+atrioventricular block	10003671	3
+cardiac failure congestive	10007559	2
+cardiac failure acute	10007556	1
+hypothyroidism	10021114	3
+conjunctivitis allergic	10010744	1
+eye swelling	10015967	2
+lenticular opacities	10024214	1
+hyperemia	10020565	1
+hyperemia conjunctival	10051625	1
+fecal incontinence	10016092	1
+duodenal ulcer	10013836	1
+hiatus hernia	10020028	1
+hyperchlorhydria	10020601	2
+reflux esophagitis	10017885	1
+edema pitting	10030095	1
+difficulty in walking	10017577	1
+thirst	10043458	4
+hyperthermia	10020843	3
+neutrophil count increased	10029368	1
+increased appetite	10021654	6
+torticollis	10044074	2
+psychomotor hyperactivity	10037211	2
+restless legs syndrome	10058920	2
+delusion	10012239	2
+hostility	10020400	1
+libido decreased	10024419	4
+paranoia	10033864	1
+anorgasmia	10002652	2
+mania	10026749	2
+catatonia	10007776	1
+bulimia nervosa	10006550	1
+delirium	10012218	4
+polydipsia psychogenic	10036069	1
+impulse control disorder	10061215	1
+major depression	10057840	1
+dysuria	10013990	5
+pollakiuria	10036018	7
+enuresis	10014928	2
+nephrolithiasis	10029148	5
+urinary retention	10046555	5
+renal failure acute	10069339	4
+erectile dysfunction	10061461	4
+testicular pain	10043345	1
+breast pain	10006298	3
+menstruation irregular	10027339	2
+gynecomastia	10018800	5
+postmenopausal hemorrhage	10055870	1
+prostatitis	10036978	2
+sinus congestion	10040742	3
+nasal dryness	10028740	2
+dry throat	10013789	2
+sleep apnea syndrome	10040979	1
+retrograde ejaculation	10038967	1
+prolongs qt interval	10014387	1
+neuroleptic malignant syndrome	10029282	6
+tardive dyskinesia	10043118	2
+dyslipidemia	10058108	5
+weight gain	10047899	3
+metabolic changes	10058097	2
+priapism	10036661	1
+cognitive impairment	10057668	2
+motor impairment	10061296	2
+cerebrovascular adverse events	10008196	2
+cerebrovascular accidents	10008190	1
+transient ischemic attacks	10044390	1
+qtc prolongation	10014387	3
+qtcf increase	10014387	1
+hyperpyrexia	10020741	3
+muscle rigidity	10028330	3
+altered mental status	10048294	3
+catatonic signs	10007776	1
+autonomic instability	10003840	3
+irregular pulse	10019304	2
+irregular blood pressure	10005746	2
+diaphoresis	10020642	3
+cardiac dysrhythmia	10003119	2
+elevated creatine phosphokinase	10005470	2
+myoglobinuria	10028629	2
+rhabdomyolysis	10039020	6
+body weight gain	10047899	1
+hyperosmolar coma	10010071	1
+gain in body weight	10047899	1
+agranulocytosis	10001507	5
+elevates prolactin levels	10005780	1
+hyperprolactinemia	10020737	2
+suppress hypothalamic gnrh	10005562	2
+reduced pituitary gonadotropin secretion	10005562	2
+inhibit reproductive function	10074268	2
+impairing gonadalsteroidogenesis	10058359	1
+long standing hyperprolactinemia	10020737	1
+hypogonadism	10058359	3
+decreased bone density	10049470	2
+plasma prolactin levels increase	10005780	1
+elevated plasma prolactin levels	10005780	1
+prolactin elevation	10005780	1
+galactorrhea	10017600	2
+impair judgment	10023236	1
+impair thinking	10043431	1
+impair motor skills	10061296	1
+impairment in renal function	10062237	3
+genital mycotic infections	10061180	3
+increases in low density lipoprotein cholesterol	10024910	5
+bladder cancer	10005003	1
+female genital mycotic infections	10061977	3
+genital mycotic infections females	10061977	1
+vaginal infection	10046914	2
+vulvovaginal candidiasis	10047784	4
+vulvovaginitis	10047794	3
+genital infection	10048461	2
+genital candidiasis	10018143	2
+fungal genital infection	10061180	1
+vulvitis	10047780	2
+genitourinary tract infection	10061182	2
+vulval abscess	10047732	1
+vaginitis bacterial	10062167	2
+escherichia urinary tract infection	10052238	1
+trigonitis	10044668	1
+urethritis	10046480	1
+kidney infection	10023424	1
+increased urination	10036018	3
+polyuria	10036142	3
+urine output increased	10059896	2
+genital mycotic infections males	10062521	1
+balanitis	10004078	3
+balanitis candida	10004074	2
+genital infection male	10062521	1
+penile infection	10061912	2
+balanoposthitis	10004078	3
+balanoposthitis infective	10067741	1
+posthitis	10004078	1
+discomfort with urination	10013990	1
+osmotic diuresis	10036142	3
+reductions in intravascular volume	10021137	2
+volume depletion	10021137	2
+hypovolemia	10021137	3
+decreases in egfr	10018358	2
+renal related adverse reactions	10062237	2
+blood creatinine increase	10005483	1
+renal impairment related adverse reaction	10062237	1
+bone fractures	10017076	3
+fractures	10017076	4
+fracture	10017076	1
+impairment in consciousness	10001854	1
+impairment in behavior	10061422	1
+capillary glucose value < 54 mg dl	10005555	1
+plasma glucose value < 54 mg dl	10005555	1
+capillary glucose measurement < 63 mg dl	10005555	1
+plasma glucose measurement < 63 mg dl	10005555	1
+vulvovaginal mycotic infections	10064899	1
+genital mycotic infection	10061180	1
+cutaneous adverse reactions	10040914	2
+increases in mean hematocrit values	10018840	1
+changes in hematocrit	10049221	1
+hematocrit values > 55	10018840	1
+increases in mean serum phosphorus levels	10050196	1
+hyperphosphatemia	10020711	1
+changes in mean lipid values	10024588	1
+changes for total cholesterol	10005423	1
+changes for low density lipoprotein cholesterol	10024901	1
+increased low density lipoprotein cholesterol	10024910	4
+bladder cancers	10005003	1
+intravascular volume contraction	10021137	3
+increases serum creatinine	10005483	3
+decreases egfr	10018358	3
+adverse renal function	10062237	1
+chromaturia	10008796	2
+elevated alanine aminotransferase	10001551	4
+decreased plasma zinc concentrations	10005867	1
+neutrophil count decreased	10029366	4
+arthropathy	10003285	2
+hypospadias	10021093	1
+papilledema	10033712	1
+retinal toxicity	10048955	1
+gastric ulcer	10017822	1
+parotid gland enlargement	10034023	1
+jaundice	10023126	4
+cryptococcal cutaneous infection	10054216	1
+enteroviral encephalitis	10063946	1
+furuncle	10017553	1
+infectious hepatitis	10019780	1
+rash pustular	10037888	2
+blood creatinine phosphokinase increased	10005470	1
+chondropathy	10061762	1
+trismus	10044684	1
+cerebellar syndrome	10008072	1
+cerebral hemorrhage	10008111	5
+intracranial pressure increased	10022773	1
+psychomotor skills impaired	10049215	1
+pyramidal tract syndrome	10063636	1
+bruxism	10006514	2
+glycosuria	10018473	1
+hemoglobinuria	10018906	1
+periorbital edema	10034545	3
+photosensitivity reaction	10034972	4
+henoch schonlein purpura	10019617	1
+increased alanine aminotransferase values	10001551	1
+increased serum alanine aminotransferase	10001551	1
+transaminase increase	10054889	1
+transaminase increased	10054889	1
+increased bilirubin	10005364	3
+giardiasis	10018262	1
+increased conjugated bilirubin	10004685	1
+increased unconjugated blood bilirubin	10005370	1
+herpes zoster	10019974	8
+procedural pain	10064882	3
+seasonal allergy	10048908	1
+decreased white blood cell count	10047942	1
+rash pruritic	10037884	4
+anaphylactoid	10002216	1
+oropharyngeal swelling	10031118	1
+administration irritation	10075941	1
+bradyarrhythmia	10049765	1
+atrioventricular blocks	10003671	1
+posterior reversible encephalopathy syndrome	10071066	4
+respiratory effects	10038683	1
+liver transaminase elevation	10054889	1
+serum transaminase elevations	10054889	1
+basal cell carcinoma	10004146	3
+tinea versicolor	10056131	1
+actinic keratosis	10000614	2
+liver transaminase elevations	10054889	1
+elevations alanine aminotransferase	10001551	1
+elevations gamma glutamyl transferase	10017693	1
+elevations aspartate transaminase	10003481	1
+skin papilloma	10040907	2
+eczema	10014184	4
+vascular events	10059245	2
+ischemic strokes	10061256	1
+hemorrhagic strokes	10019016	1
+peripheral arterial occlusive disease	10062585	1
+atrioventricular conduction	10003674	1
+decrease in pulmonary function tests	10061922	2
+heart rate decrease	10019301	1
+decline in heart rate	10019301	1
+heart rates below 40 beats per minute	10019301	1
+symptomatic bradycardia	10006093	2
+decrease in heart rate	10019301	1
+atrioventricular conduction delays	10003674	1
+one degree atrioventricular block	10003674	2
+two degree atrioventricular blocks	10003677	1
+atrioventricular blocks mobitz types one	10003677	1
+atrioventricular blocks wenckebach	10003677	1
+two one atrioventricular blocks	10003671	1
+two one atrioventricular block	10003671	1
+conduction abnormalities	10010276	1
+three degree atrioventricular block	10003673	1
+junctional escape	10029470	1
+asystole	10007515	1
+reduction in peripheral lymphocyte count	10025256	1
+sequestration of lymphocytes in lymphoid tissues	unmapped	1
+herpetic infections	10019973	1
+disseminated primary herpes zoster	10065038	1
+herpes simplex encephalitis	10019953	1
+disseminated varicella zoster infections	unmapped	1
+herpes simplex infections	10019948	1
+encephalitis	10014581	2
+multiorgan failure	10028154	1
+cryptococcal infections	10011486	1
+cryptococcal meningitis	10027209	2
+opportunistic viral infection of the brain	10030901	1
+disability	10013050	1
+jc virus in the csf	10023163	1
+compromised immune system	10061598	1
+progressive weakness on one side of the body	10028372	1
+clumsiness of limbs	10009696	1
+disturbance of vision	10047571	1
+changes in thinking	10043431	1
+changes in memory	10027175	1
+changes in orientation	10013395	1
+personality changes	10034719	1
+visual symptoms	10047571	1
+decreased visual acuity	10047531	2
+visual acuity loss	10047531	1
+visual disturbances	10047571	3
+seizure	10039906	4
+ischemic stroke	10061256	2
+reductions in forced expiratory volume over one two	10016987	2
+reductions in diffusion lung capacity for carbon monoxide	10065906	2
+reduction for forced expiratory volume over one two	10016987	1
+diffusion lung capacity for carbon monoxide reduction	10065906	1
+changes in forced expiratory volume over one two	10016985	1
+decrease of diffusion lung capacity for carbon monoxide	10065906	1
+elevations of liver enzymes	10060795	1
+elevation of liver transaminases	10054889	1
+increase systolic pressure	10005760	1
+increase diastolic pressure	10005739	1
+decreased lymphocyte counts	10025256	1
+immunosuppressant effects	10062016	1
+bullous skin disorders	10012441	1
+exfoliative skin disorders	10040844	1
+keratitis	10023332	1
+dermatitis acneiform	10012432	2
+paronychia	10034016	2
+interstitial lung disease like adverse reactions	10022611	1
+ventricular dysfunction	10059056	1
+diastolic dysfunction	10052337	1
+left ventricular dysfunction	10049694	1
+ventricular dilation	10013012	1
+oral mucosa erosion	10064594	1
+mucosal erosion	10061297	1
+mucosal ulceration	10028124	1
+acne pustular	10000513	1
+nail infection	10061304	1
+nail bed infection	10061303	1
+cheilitis	10008417	1
+blood potassium decreased	10005724	1
+skin bullous lesions	10012441	1
+skin blistering lesions	10005191	1
+skin exfoliating lesions	10012455	1
+renal impairment	10062237	10
+cutaneous reactions	10040914	2
+bullous lesions	10012441	1
+blistering lesions	10005191	1
+exfoliating lesions	10040844	1
+acneiform rash	10012432	1
+alveolitis allergic	10001890	1
+liver test abnormalities	10024690	2
+acute eye inflammation	10015943	1
+worsening eye inflammation	10015943	1
+lacrimation	10023644	1
+light sensitivity	10034960	1
+red eye	10030041	1
+embryotoxic	10026923	1
+splenic rupture	10041658	1
+tumor growth stimulatory effects on malignant cells	10028997	1
+white blood cell counts > 100 000 ten ten six l	10047943	1
+angioneurotic edema	10002424	2
+pruritic rash	10037884	1
+sickle cell crisis	10040642	1
+sickle cell crises	10040642	1
+hemoconcentration	10018873	1
+growth factor for tumor	10028980	1
+myeloid malignancies	10028561	1
+myelodysplasia	10028533	1
+qt interval prolongation	10014387	4
+neuropathy peripheral	10029331	2
+polyneuropathy	10036105	3
+peripheral sensoryneuropathy	10034620	1
+elevations in bilirubin	10005364	2
+neutropenic sepsis	10049151	2
+irritability	10022998	7
+feeling drunk	10016330	1
+breast enlargement	10006242	3
+elevated creatine kinase	10005470	2
+driving impairment	10049564	1
+impair ability to operate complex machinery	10052302	1
+tumors	10028980	1
+tumors breast	10006279	1
+tumors brain	10061019	1
+tumors lung	10062042	1
+tumors adrenal	10061588	1
+endometrial carcinoma in situ	10014737	1
+tumors worsened brain	10061019	1
+tumors worsened breast	10006187	1
+tumors worsened prostate	10060862	1
+infections of the upper respiratory tract	10046306	1
+intra abdominal abscess	10060921	1
+subcutaneous injection site reactions	10022095	1
+local tolerability reaction	10024769	1
+varicella	10046980	1
+adenovirus	10060931	1
+lymph node abscess	10050167	1
+viral upper respiratory tract infection	10047482	1
+decreased white blood cells	10047942	1
+decreased white blood cell counts	10047942	2
+decreases in absolute neutrophil count	10029366	2
+absolute neutrophil count less than zero five x ten nine l	10029366	1
+decreases in platelet counts	10035528	1
+high alanine aminotransferase	10001551	3
+high aspartate transaminase	10003481	2
+elevations of serum bilirubin	10005364	1
+unusual infections	10021789	1
+infections cytomegalovirus	10011831	2
+atypical mycobacterial infections	10061663	1
+interfere with normal immune response	10011968	1
+two primary malignancies	10039801	1
+bruising	10050584	1
+skin infections	10040872	2
+increases in creatinine	10005483	2
+decrease of hemoglobin	10018884	1
+decrease of platelets	10035528	1
+decrease of neutrophils	10029366	1
+subdural hematoma	10042361	1
+elevated uric acid levels	10005861	1
+hyperuricemia	10020903	4
+subdural hematomas	10042361	1
+skin infection	10040872	1
+two malignancies	10039801	1
+laceration	10023572	2
+skin cancer	10040808	1
+skin cancers	10040808	1
+carcinomas	10028997	1
+bleeding events	10055798	1
+gastrointestinal bleeding	10017955	1
+post procedural hemorrhage	10051077	1
+atrial flutter	10003662	4
+non skin carcinomas	10028997	1
+two primary malignancy	10039801	1
+non melanoma skin cancer	10040808	3
+reduced fetal weights	10070531	1
+venous thromboembolic events	10014522	3
+gastrointestinal perforation	10018001	2
+thyroid dysfunction	10043709	1
+wound healing complications	10021519	1
+elevation of liver enzymes	10060795	1
+lipase increased	10024574	2
+retinal vein occlusion	10038907	3
+polycythemia	10036051	1
+lymphocytes absolute decreased	10025256	1
+white blood cells decreased	10047942	1
+amylase increased	10002016	2
+hypernatremia	10020679	2
+hemoglobin increased	10018888	1
+hypercalcemia	10020583	3
+hypertensive crisis	10020802	3
+venous thrombotic events	10047249	1
+liver enzyme elevation	10060795	1
+systolic blood pressure > 150 mmhg	10005760	1
+diastolic blood pressure > 100 mmhg	10005739	1
+blood pressure increases	10005750	2
+cerebrovascular accident	10008190	2
+retinal artery occlusion	10038827	1
+lower gastrointestinal hemorrhage	10050953	1
+hyperthyroidism	10020850	2
+elevations of thyroid stimulating hormone	10005833	1
+blindness	10005169	1
+neurologic disturbances	10060860	1
+alanine aminotransferase elevations	10001551	7
+retching	10038776	4
+sluggishness	10041052	1
+hemolytic anemia	10018916	3
+hepatic steatosis	10019708	3
+immune reconstitution syndrome	10065042	3
+sleep disorders	10040984	1
+abnormal dreams	10000125	4
+nightmares	10029412	1
+exertional dyspnea	10013971	3
+lipohypertrophy	10062315	1
+prurigo	10037083	1
+swelling face	10042682	1
+acquired lipodystrophy	10049287	1
+haemorrhagic stroke	10019016	1
+elevated glucose levels	10005557	1
+aspartate transaminase abnormalities	10003477	2
+alanine aminotransferase abnormalities	10001547	2
+abnormalities of aspartate transaminase	10003477	1
+abnormalities of alanine aminotransferase	10001547	2
+abnormalities of total bilirubin	10058477	1
+drug rash with eosinophilia and systemic symptoms	10073508	2
+organ dysfunction	10053159	2
+rashes	10037844	3
+redistribution of body fat	10048474	2
+accumulation of body fat	10055164	2
+body fat peripheral wasting	10024604	2
+central obesity	10065941	2
+dorsocervical fat enlargement	10062315	2
+buffalo hump	10062315	2
+facial wasting	10056866	2
+cushingoid appearance	10011655	2
+inflammatory response	10061218	2
+mycobacterium avium infection	10058806	3
+cytomegalovirus	10011831	3
+autoimmune disorders	10061664	3
+graves disease	10004161	3
+polymyositis	10036102	4
+guillain barre syndrome	10018767	7
+bone fracture	10017076	1
+increases in low density lipoprotein	10024910	1
+male genital mycotic infections	10062521	2
+vulvovaginal pruritus	10056530	1
+loss of strength	10003549	1
+loss of energy	10003549	1
+pancreatitis acute	10033647	1
+pancreatitis chronic	10033649	1
+hypersensitivity related adverse reactions	10020751	1
+diffuse rash	10037858	1
+photosensitivity related adverse reactions	10034972	1
+polymorphic light eruption	10036087	1
+sunburn	10042496	1
+volume depletion related adverse reactions	10021137	1
+postural dizziness	10013578	1
+volume depletion related adverse reaction	10021137	1
+egfr less than 60 ml min one 73 m two	10018358	1
+falls	10016173	5
+increase in serum creatinine	10005483	2
+fall in estimated glomerular filtration rate	10018358	1
+changes in serum creatinine	10005481	1
+changes in egfr	10018356	1
+renal function decline	10062237	1
+egfr below 80 ml min one 73 m two	10018358	1
+egfr 30 lower than baseline	10018358	1
+decreased glomerular filtration rate	10018358	1
+renal related adverse events	10062237	1
+females genital mycotic infections	10061977	1
+candidal balanitis	10004074	1
+males genital mycotic infections	10062521	1
+phimosis	10034878	2
+hypoglycemic events	10020993	3
+fractures upper extremities	10061394	1
+increases in serum potassium	10005725	1
+increases in potassium	10005725	1
+increases in serum magnesium	10005655	1
+change in serum magnesium levels	10005652	1
+serum magnesium levels increased	10005655	1
+increases in serum phosphate	10050196	1
+change in serum phosphate levels	10054823	1
+serum phosphate levels increased	10050196	1
+changes in low density lipoprotein cholesterol	10024901	1
+increases in non high density lipoprotein cholesterol	10063967	1
+changes in non high density lipoprotein cholesterol	unmapped	1
+changes in hemoglobin	10018879	1
+hemoglobin above the upper limit of normal	10018888	1
+declines in bone mineral density at the total hip	10049470	1
+declines in bone mineral density at the lumbar spine	10049470	1
+bone mineral density declines at the femoral neck	10049470	1
+bone mineral density declines at the distal forearm	10049470	1
+renal function abnormalities	10062237	1
+generalized urticaria	10046735	1
+asymptomatic bacteriuria	10056396	1
+genital infection fungal	10061180	1
+cervicitis	10008323	1
+urogenital infection fungal	10065582	1
+nocturia	10029446	2
+genital infections fungal	10061180	1
+scrotal abscess	10049571	1
+polydipsia	10036067	1
+blood pressure decreased	10005734	1
+blood pressure systolic decreased	10005758	1
+egfr 30 to less than 60 ml min one 73 m two	10018358	1
+plasma glucose of less than or equal to 70 mg dl	10005555	1
+capillary glucose of less than or equal to 70 mg dl	10005555	1
+vaginal mycotic infection	10064899	1
+increase in low density lipoprotein cholesterol	10024910	1
+low density lipoprotein cholesterol increased	10024910	1
+increase in hematocrit	10018840	1
+hematocrit increased	10018840	1
+impaired renal function	10062237	1
+mycotic genital infections	10061180	1
+bone marrow suppression	10065553	1
+gastrointestinal adverse reactions	10017944	6
+infection related adverse reactions	10021789	1
+dysguesia	10013911	1
+hematologic abnormalities	10057755	2
+infectious adverse events	10021789	1
+neutropenic	10029354	1
+neutropenic infections	10059482	1
+gastrointestinal disorders	10017944	2
+neutropenic enterocolitis	10062959	1
+electrolyte imbalance	10014418	1
+obstructive uropathy	10029984	1
+ingrown toenails	10022013	1
+application site dermatitis	10003036	3
+application site vesicles	10048941	1
+application site pain	10003051	3
+ingrown toenail	10022013	1
+injection site urticaria	10022107	1
+throat irritation	10043521	4
+bacteria in sputum	10059421	1
+blood glucose increased	10005557	2
+hepatic enzyme increased	10060795	2
+sinus headache	10040744	2
+pharyngeal erythema	10057009	1
+pleuritic pain	10035623	1
+transaminase > eight upper limit of normal	10054889	1
+transaminase > five upper limit of normal	10054889	1
+transaminase > three upper limit of normal	10054889	1
+alanine aminotransferase > eight upper limit of normal	10001551	1
+alanine aminotransferase > five upper limit of normal	10001551	1
+alanine aminotransferase > three upper limit of normal	10001551	1
+aspartate transaminase > eight upper limit of normal	10003481	1
+aspartate transaminase > five upper limit of normal	10003481	1
+aspartate transaminase > three upper limit of normal	10003481	1
+elevated transaminases	10054889	4
+elevated liver transaminases	10054889	1
+alanine aminotransferase levels > eight upper limit of normal	10001551	1
+aspartate transaminase levels > eight upper limit of normal	10003481	1
+cataracts	10007739	3
+non congenital lens opacities	10024214	1
+non congenital cataracts	10007739	1
+cardiac toxicities	10048610	1
+venous thrombosis	10047249	2
+thrombotic thrombocytopenic purpura	10043648	2
+hemolytic uremic syndrome	10018932	2
+decreased lymphocyte	10025256	1
+decreased absolute neutrophil count	10029366	1
+decreased phosphorus	10049471	1
+decreased total white blood cell count	10047942	1
+cardiac adverse events	10075534	1
+infection adverse events	10021789	1
+renal adverse events	10062237	1
+peripheral neuropathies nec	10034607	1
+embolic and thrombotic events venous	10014522	1
+hypertensive emergency	10058179	1
+infusion site reaction	10054996	1
+deafness	10011878	2
+disease progression	10061818	1
+multiple myeloma	10035226	1
+cardiac disorders	10061024	1
+renal disorders	10038428	1
+decreased sodium	10005802	1
+acute diffuse infiltrative pulmonary disease	10022611	1
+new onset cardiac failure	10007554	1
+worsening of pre existing cardiac failure	10007554	1
+decreased ejection fraction	10050528	2
+restrictive cardiomyopathy	10038748	1
+renal insufficiency adverse events	10038435	1
+pulmonary arterial hypertension	10064911	2
+facial flushing	10016825	1
+weakness	10003549	3
+shortness of breath	10013968	1
+chest tightness	10008469	1
+angina	10002383	3
+platelet nadirs	10035528	1
+increased serum transaminases	10054889	1
+tachypnea	10043089	1
+muscle twitching	10028347	3
+increased blood pressure	10005750	3
+rigors	10008531	2
+acute cardiorespiratory failure	10051093	1
+rash erythematous	10037855	3
+livedo reticularis	10024648	1
+nodal rhythm	10029470	1
+rales	10037833	1
+respiratory tract irritation	10038731	1
+cold sweat	10009866	1
+throat tightness	10043528	4
+local swelling	10024770	2
+immunoglobulin g antibody titers with inhibitory activity	unmapped	1
+recurrent hypersensitivity reactions	10020751	1
+fluid overload	10016803	1
+flu like illness	10022004	1
+hypoxia	10021143	1
+peripheral coldness	10034568	1
+stridor	10042241	1
+apnea	10002974	1
+hyperparathyroidism	10020705	1
+systemic immune mediated reactions	10020751	1
+cutaneous immune mediated reactions	10012434	1
+membranous glomerulonephritis	10018372	1
+necrotizing skin lesions	10040893	1
+immune mediated reactions	10020751	2
+cardiorespiratory failure	10051093	1
+tongue swelling	10042727	1
+lip swelling	10024570	2
+acute exacerbation of cardiac compromise	10061024	1
+acute exacerbation of respiratory compromise	10038683	1
+cardiac arrhythmia	10003119	1
+sudden cardiac death	10049418	1
+immune mediated cutaneous reactions	10012434	1
+type three immune mediated reactions	10053614	1
+deposition of anti rhgaa antibodies	unmapped	1
+inflammatory arthropathy	10003285	1
+elevated erythrocyte sedimentation rate	10049187	1
+positive anti rhgaa immunoglobulin g antibody titers	unmapped	1
+immune complex deposition	unmapped	1
+exacerbation of respiratory compromise	10038695	1
+exacerbation of cardiac compromise	10061024	1
+reduced clinical efficacy	10013678	1
+loss of motor function	10061296	1
+dyspeptic signs and symptoms	10013946	1
+asthenic conditions	10003550	2
+rashes generalized	10037858	1
+rashes macular	10037867	1
+rashes maculo papular	10037868	1
+rashes erythematous	10037855	1
+qtc prolonged	10014387	1
+atrial flutter with one one atrioventricular conduction	10003662	1
+leukocytoclastic vasculitis	10020764	2
+teratogen	10043275	1
+cardiovascular death	10049993	2
+cardiovascular death arrhythmic	10049993	1
+heart failure events	10007554	1
+new onset heart failure	10007554	1
+worsening of heart failure	10007554	1
+hepatocellular liver injury	10019837	1
+acute liver failure	10000804	1
+pre renal azotemia	10001017	1
+increases in creatinine levels	10005483	1
+cardiovascular events	10075534	2
+liver disease	10024670	1
+irregular uterine bleeding	10013908	1
+breast tenderness	10006313	1
+headaches	10019211	1
+migraines	10027599	1
+menstrual disorders	10027327	1
+mood changes	10027940	1
+dysfunctional uterine bleeding	10013908	1
+mood altered	10027940	1
+depressed mood	10012374	2
+dysthymic disorder	10013982	1
+crying	10011469	1
+breast discomfort	10049872	1
+abnormal withdrawal bleeding	10069195	1
+uterine hemorrhage	10046788	1
+affect lability	10054196	1
+ruptured ovarian cyst	10033136	1
+focal nodular hyperplasia of the liver	10052285	1
+uterine leiomyoma	10046798	1
+acute cholecystitis	10008614	1
+chronic acalculous cholecystitis	10008612	1
+pulmonary emboli	10037377	1
+cerebral thrombosis	10008132	1
+chloasma	10008570	1
+gastrointestinal symptoms	10017944	3
+vascular risks thrombotic	10043607	1
+high blood pressure	10020772	1
+carbohydrate metabolic effects	10061023	1
+lipid metabolic effects	10024588	1
+uterine bleeding	10046788	1
+venous thrombotic event	10014522	1
+rupture of hepatic adenomas	10019629	1
+intra abdominal hemorrhage	10061249	1
+headaches recurrent	10019211	1
+headaches persistent	10019211	1
+cerebrovascular event	10008196	1
+oligomenorrhea	10030295	1
+intracyclic bleeding	10027514	1
+hepatic enzyme elevations	10060795	1
+fulminant hepatic failure	10000804	1
+hepatic effects	10019851	2
+serum alanine aminotransferase elevations	10001551	1
+application site erythema	10003041	2
+supine hypertension	10020772	1
+exacerbate ischemic heart disease	10028600	1
+exacerbate arrhythmias	10003119	1
+exacerbate congestive heart failure	10007559	1
+cardiovascular risk	10075534	1
+involuntary movements	10013916	1
+altered consciousness	10001854	1
+mental status changes	10048294	2
+allergic type reactions	10020751	1
+bronchial asthma	10003553	1
+post transplant lymphoproliferative disorder	10051358	2
+central nervous system post transplant lymphoproliferative disorder	10029202	1
+polyoma virus nephropathy	10065381	1
+graft dysfunction	10074860	1
+central nervous system infections	10061036	1
+cytomegalovirus infection	10011831	1
+complications of transplanted kidney	10010185	1
+non central nervous systempost transplant lymphoproliferative disorder	10051358	1
+infectious etiology	10021789	1
+skin fungal infections	10017543	1
+mucocutaneous fungal infections	10017533	1
+infections bacterial	10060945	1
+infections viral	10047461	1
+infections fungal	10017533	1
+infectious adverse reactions	10021789	1
+bradykinin virus associated nephropathy	10065381	1
+infections polyoma virus	10057366	1
+infections herpes	10019973	1
+chagas encephalitis	10001935	1
+cerebral aspergillosis	10051597	1
+west nile encephalitis	10057293	1
+early proteinuria	10037032	1
+new onset diabetes after transplantation	10012601	2
+renal tubular necrosis	10038540	1
+blood creatinine increased	10005483	1
+chronic allograft nephropathy	10063209	1
+arteriovenous fistula thrombosis	10003192	1
+renal artery stenosis	10038378	1
+hydronephrosis	10020524	2
+increased susceptibility to infection	10021866	1
+polyoma virus associated nephropathy	10065381	2
+kidney graft loss	10074495	1
+acute rejection graft	10044439	1
+graft loss	10048748	1
+malignancies skin	10040808	1
+cytomegalovirus infections	10011831	2
+bradykinin virus infection	10055181	1
+deteriorating renal function	10062237	1
+graft rejections	10044439	1
+post transplant acute rejection	10044439	1
+graft rejection	10044439	1
+potentiation of sedation	10039897	1
+dermatological reactions	10040914	1
+physical dependence	10012335	1
+psychological dependence	10013663	1
+drooling	10013642	1
+abdominal distention	10000060	2
+hypothermia	10021113	1
+apathy	10002942	1
+hallucination	10019063	2
+respiratory depression	10038678	1
+lip edema	10024558	1
+tension headache	10043269	1
+upper respiratory tractinfection	10046306	1
+weight decrease	10047895	1
+frequent bowel movement	10017367	1
+decrease appetite	10061428	1
+frequent bowel movements	10017367	2
+tooth abscess	10044016	1
+folliculitis	10016936	2
+attempted suicide	10042464	1
+ophthalmic adverse reaction	10075536	1
+local skin reactions	10040914	1
+application site pruritus	10003053	2
+application site infection	10049041	1
+local skin erythema	10015150	1
+local skin flaking	10040844	1
+local skin scaling	10040844	1
+local skin crusting	10039509	1
+local skin swelling	10053262	1
+local skin vesiculation	10040914	1
+local skin pustulation	10037888	1
+local skin erosion	10040840	1
+local skin ulceration	10040943	1
+skin flaking	10040844	1
+skin scaling	10040844	1
+skin crusting	10039509	1
+skin swelling	10053262	1
+skin vesiculation	10005191	1
+skin pustulation	10037888	1
+skin erosion	10040840	1
+skin ulceration	10040943	1
+allergic contact dermatitis	10012442	1
+chemical conjunctivitis	10055116	1
+corneal burn	10015911	1
+skin reactions in the treated area	10040914	1
+skin reactions in the treated area erythema	10003041	1
+skin reactions in the treated area crusting	10066209	1
+skin reactions in the treated area swelling	10053424	1
+skin reactions in the treated area vesiculation	10048941	1
+skin reactions in the treated area postulation	10049044	1
+skin reactions in the treated area erosion	10065577	1
+skin reactions in the treated area ulceration	10003059	1
+retinal abnormalities	10038853	1
+vision loss	10005169	2
+skin discoloration	10040829	4
+neuropsychiatric symptoms	unmapped	1
+qt interval effect	10014387	1
+withdrawal seizures	10013752	1
+dysphasia	10002948	1
+psychotic disorder	10061920	1
+urinary hesitation	10046542	2
+hallucinations	10019063	2
+myoclonus	10028622	2
+hypokinesia	10021021	1
+hyperhydrosis	10020642	1
+weight increasing	10047899	1
+euphoric mood	10015535	1
+renal colic	10038419	1
+retinal abnormalities similar to retinal pigment dystrophies	10038857	1
+damage to the photoreceptors	10057430	1
+abnormal visual acuity	10047531	1
+retinal pigmentary abnormalities	10038845	1
+retinal abnormalities similar to pigment dystrophies	10038857	1
+abnormalities of the retina	10038853	1
+funduscopic features similar to retinal pigment dystrophies	10038857	1
+damage to photoreceptors	10057430	1
+scleral discoloration	10039696	1
+nail discoloration	10028692	1
+mucous membrane discoloration	10054877	1
+discoloration	unmapped	1
+funduscopic abnormalities	unmapped	1
+perivascular pigmentation in the retinal periphery	10038894	1
+perivascular pigmentation bone spicule pattern in the retinal periphery	10038894	1
+focal retinal pigment epithelium clumping	10038845	1
+retinal dystrophy	10038857	1
+abnormalities in the electroretinogram	10059663	1
+abnormalities in electrooculogram	10014456	1
+abnormal fluorescein angiography	10060956	1
+diminished sensitivity on visual field	10047555	1
+renal function impairment	10062237	1
+discoloration of the palate	10030996	1
+discoloration of the sclera	10039696	1
+discoloration of the conjunctiva	10010712	1
+lip discoloration	10024549	1
+skin abnormalities	10075267	1
+psychotic symptoms	10037249	1
+psychosis	10061920	1
+psychiatric symptoms	10061472	1
+visual hallucinations	10019075	1
+auditory hallucinations	10019070	1
+mixed hallucinations	10019079	1
+qt prolonging	10014387	1
+gastrointestinal events	10017944	3
+intracerebral bleeds	10008111	1
+subarachnoid bleeds	10042316	1
+subdural bleeds	10042364	1
+bleed	10055798	1
+non intracranial bleed	10055798	1
+gastrointestinal bleeds	10017955	1
+bleeds	10055798	1
+epigastric discomfort	10053155	2
+esophagitis	10030216	2
+erosive gastritis	10017865	1
+hemorrhagic gastritis	10017866	1
+hemorrhagic erosive gastritis	10067786	1
+gastrointestinal ulcer	10061459	1
+anaphylactic reaction	10002198	3
+symptomatic bleeding in a critical area	10055798	1
+symptomatic bleeding in a critical organ	10055798	1
+retroperitoneal bleeding	10038980	1
+intra articular bleeding	10018829	1
+pericardial bleeding	10034476	1
+fall in hemoglobin level	10018884	1
+mbe	10055798	1
+esophageal ulcer	10030201	1
+prosthetic heart valve thrombosis	10053748	1
+thromboembolic stroke	10014498	1
+serotonin syndrome	10040108	1
+abnormal bleeding	10019009	1
+angle closure glaucoma	10002500	2
+hypomania	10021030	1
+discontinuation syndrome	10013754	1
+eosinophilic pneumonia	10014962	1
+male sexual function disorders	10057672	1
+feeling jittery	10016338	1
+yawning	10048232	1
+mydriasis	10028521	1
+sexual function adverse reactions	10040477	1
+orgasm abnormal	10031085	1
+ejaculation delayed	10014325	1
+ejaculation disorder	10014326	1
+sexual dysfunction	10040477	1
+blood prolactin increased	10005780	1
+depersonalization	10012357	1
+photosensitivity	10034972	2
+ischemic cardiac adverse reactions	10028600	1
+coronary occlusion	10011086	1
+elevations in fasting serum total cholesterol	10005425	1
+elevations in fasting serum low density lipoproteins	10024910	2
+elevations in fasting serum cholesterol	10005425	1
+elevations in fasting serum triglycerides	10005839	1
+lipid abnormalities	10024588	1
+total cholesterol > 261 mg dl	10005425	1
+low density lipoproteins cholesterol > 190 mg dl	10024910	1
+triglycerides fasting > 327 mg dl	10005839	1
+supine diastolic blood pressure > 90 mm hg	10005739	1
+elevation of supine diastolic blood pressure	10005739	1
+systolic orthostatic hypotension	10031127	1
+clinical worsening	10010264	1
+suicide risk	10042458	1
+activation of mania	10026749	1
+activation of hypomania	10021030	1
+labile blood pressure	10023533	1
+neuromuscular symptoms	10029323	1
+rigidity	10028330	1
+incoordination	10010947	1
+angle closure attack	10002500	1
+syndrome of inappropriate antidiuretic hormone secretion	10053198	2
+serum sodium lower than 110 mmol l	10005802	1
+difficulty concentrating	10013496	1
+unsteadiness	10049848	1
+dermatologic adverse reactions	10040914	1
+atypical subtrochanteric femoral fractures	10016454	1
+atypical diaphyseal femoral fractures	10016454	1
+spinal osteoarthritis	10041591	1
+sciatica	10039674	1
+decreases in serum calcium levels	10005395	1
+symptomatic hypocalcemia	10020947	1
+infections in the abdomen	10056519	1
+infections in the urinary tract	10046571	1
+infections in the ear	10014011	1
+endocarditis	10014665	1
+erysipelas	10015145	1
+epidermal adverse events	10040914	1
+dermal adverse events	10040914	1
+atypical femoral fractures	10070884	1
+atypical femoral fracture	10070884	1
+malignancies to the breast	10006187	1
+malignancies to the reproductive system	10018160	1
+malignancies to the gastrointestinal system	10017940	1
+prostate cancers	10060862	1
+facial swelling	10042682	1
+elevation in serum parathyroid hormone	10005703	1
+joint pain	10003239	1
+muscle pain	10028411	2
+suppression of bone turnover	10063000	1
+upper airway edema	10070774	1
+hypocalcemia exacerbated	10020947	1
+elevations of serum parathyroid hormone	10005703	1
+femoral atypical fractures of the shaft	10016454	1
+fractures in the femoral shaft	10016454	1
+thigh pain	10033425	1
+infections of the abdomen	10056519	1
+infections of the urinary tract	10046571	1
+infections of the ear	10014011	1
+suppression of bone remodeling	10005954	1
+atypical fractures	10072395	1
+delayed fracture healing	10021519	1
+hepatic decompensation	10019663	1
+thrombotic complications	10043607	1
+thromboembolic complications	10061169	1
+hemorrhagic reactions	10055798	1
+serum liver test abnormalities	10024690	1
+hepatobiliary laboratory abnormalities	10024690	1
+portal vein thromboses	10036206	1
+vitamin d deficiency	10047626	1
+total bilirubin greater than or equal to one five ten upper limit of normal	10005364	1
+alanine aminotransferase greater than or equal to three ten upper limit of normal	10001551	1
+aspartate transaminase greater than or equal to three ten upper limit of normal	10003481	1
+cytogenetic abnormality	10067477	1
+changes in chromosome seven	10008817	1
+thrombotic microangiopathy	10043645	1
+portal vein thrombosis	10036206	2
+ascites	10003445	1
+liver enzyme elevations	10060795	1
+indirect hyperbilirubinemia	10020578	1
+thrombotic event	10043607	1
+thrombotic events of the portal venous system	10019713	1
+increases in platelet counts	10051608	1
+thrombotic venous events	10047249	1
+thrombotic arterial events	10003178	1
+thromboembolic venous events	10014522	1
+thromboembolic arterial events	10061169	1
+thrombotic complication	10043607	1
+portal venous thrombosis	10036206	1
+application associated pain	10003051	1
+increase in blood pressure	10005750	1
+application site papules	10049043	1
+application site reactions	10003055	2
+increases in pain	10033371	1
+pain increases	10033371	1
+application site edema	10003050	1
+application site swelling	10053424	1
+application site dryness	10048943	2
+application site urticaria	10050104	1
+application site paresthesia	10050103	1
+application site hyperesthesia	10050100	1
+application site excoriation	10065577	2
+application site warmth	10003060	1
+application site anesthesia	10003033	2
+application site bruising	10050114	1
+application site inflammation	10049042	2
+application site exfoliation	10064578	1
+hyperesthesia	10020568	1
+abnormal skin odor	10040904	1
+coughing	10011224	1
+adverse cardiovascular effects	10075534	1
+application site oral ulcers	10028034	1
+application site blisters	10048941	1
+application site peeling	10064578	1
+application site sloughing	10064578	1
+hemodynamic effects	10052076	1
+oral hypoesthesia	10057371	1
+oral paresthesia	10057372	1
+hyperkinesia	10020651	1
+oculogyration	10030071	1
+stomach discomfort	10000059	2
+blepharospasm	10005159	2
+masked facies	10026863	1
+heart rate increased	10019303	1
+oral dysesthesia	10050820	1
+abdominal pain lower	10000084	3
+hyperinsulinemia	10060378	1
+blood insulin increased	10005614	1
+oral paraesthesia	10057372	1
+muscle strain	10050031	1
+anger	10002368	1
+bipolar one disorder	10004939	1
+depressive symptoms	10054089	1
+prolonged abnormal contractions of muscle groups	unmapped	1
+dystonic symptoms	10013983	1
+spasm of the neck muscles	10028334	1
+tightness of the throat	10043528	1
+swallowing difficulty	10013950	1
+difficulty breathing	10013968	2
+protrusion of the tongue	10037076	1
+acute dystonia	10013983	1
+dyskinesias	10013916	1
+extrapyramidal symptoms related events	10015832	1
+oromandibular dystonia	10067954	1
+muscle contractions involuntary	10028293	1
+protrusion tongue	10037076	1
+elevations in serum transaminases	10054889	1
+increase in transaminase levels	10054889	1
+increase of alanine aminotransferase	10001551	1
+decreases in prolactin levels	10005779	1
+prolactin elevations	10005780	1
+increase in prolactin levels	10005780	1
+decrease in prolactin	10005779	1
+increases in prolactin levels	10005780	1
+creatine kinase elevations	10005470	1
+temporary bundle branch block	10006578	1
+accommodation disorder	10000389	2
+swollen tongue	10042727	1
+idiosyncratic drug reaction	10049998	1
+application site reactions sublingual area	10003055	1
+choking	10008589	1
+oropharyngeal muscular dysfunction	10070912	1
+increased mortality	10011906	3
+increases in qt interval	10014387	1
+increase of fasting glucose	10005557	1
+total cholesterol elevations	10005425	1
+elevations in triglycerides	10005839	1
+increases in weight	10047899	1
+increase in body weight	10047899	1
+weight change	10049040	1
+changes in body weight	10049040	1
+increases in qtc interval	10014387	1
+qt prolongations	10014387	1
+elevate prolactin levels	10005780	1
+impairing gonadal steroidogenesis	10058359	1
+abnormal prolactin levels	10005778	1
+body temperature increases	10005911	1
+extrapulmonary tuberculosis	10064445	1
+newly ana positive	10060055	1
+infusion reaction	10051792	2
+herpes	10019973	1
+vascular disorders	10059245	1
+blood disorders	10061590	1
+lymphatic disorders	10052314	1
+superficial fungal infection	10017533	1
+melanoma	10025650	2
+systemic hypersensitivity reactions	10020751	1
+skin exfoliation	10040844	2
+bullous skin reactions	10012441	1
+infections due to opportunistic pathogens	10030901	1
+hepatitis b reactivation	10019731	2
+demyelinating disease exacerbation	10012305	1
+demyelinating disease new onset	10012305	1
+new tuberculosis infections	10044755	1
+hodgkin s lymphoma	10020206	1
+acute leukemia	10000830	1
+chronic leukemia	10008943	1
+rare type of t cell lymphoma	10042971	1
+merkel cell carcinoma	10029266	1
+congestive heart failure exacerbations	10007559	1
+new onset central nervous system demyelinating disorders	10012305	2
+exacerbation of central nervous system demyelinating disorders	10012305	2
+multiple sclerosis	10028245	2
+peripheral demyelinating disorders	10061811	1
+central demyelination	10012305	1
+peripheral demyelinating polyneuropathy	10061811	1
+aplastic anemia	10002967	1
+blood amylase increased	10002016	1
+aminotransferase elevations	10054889	1
+alanine aminotransferase three times the upper limit of normal	10001551	1
+aspartate aminotransferase three times the upper limit of normal	10003481	1
+additive qt prolongation	10014387	1
+prolongs the qt interval	10014387	1
+hepatic related adverse reactions	10019670	1
+unstable angina	10002388	1
+erection increased	10015120	1
+electrocardiogram abnormal	10014363	2
+change in color vision	10047571	1
+cardiac risk	10061024	1
+transient decreases in sitting blood pressure	10005734	1
+lightheadedness	10013573	1
+fainting	10042772	1
+potentiates the anti aggregatory effect of sodium nitroprusside	unmapped	1
+lactic acidosis	10023676	1
+steatosis	10019708	1
+acute exacerbations of hepatitis b	10059193	1
+new onset renal impairment	10062237	1
+worsening renal impairment	10062237	1
+bone effects	10005956	1
+ocular icterus	10058117	1
+renal adverse reactions	10062237	1
+peripheral neuritis	10029331	1
+increased cough	10011224	1
+hyperpigmentation on the palms	10040865	1
+hyperpigmentation on the soles	10040865	1
+aspartate transaminase > five zero upper limit of normal	10003481	1
+alanine aminotransferase > three zero upper limit of normal	10001551	1
+amylase > two zero upper limit of normal	10002016	1
+creatine kinase > ten zero upper limit of normal	10005470	1
+urine red blood count	10050676	1
+decreases in bone mineral density	10049470	2
+increase serum creatinine	10005483	2
+decrease estimated creatinine clearance	10011372	1
+decreases in estimated creatinine clearance	10011372	1
+elevations in serum creatinine	10005483	1
+elevated serum creatinine	10005483	1
+abnormalities of alkaline phosphatase	10059571	1
+abnormalities of bilirubin	10058477	1
+abnormalities of serum glucose	10005554	1
+abnormalities of glycosuria	10018473	1
+abnormalities of neutrophils	10061313	1
+abnormalities of fasting cholesterol	10005423	1
+abnormalities of fasting triglycerides	10005837	1
+allergic reaction	10020751	1
+increased amylase	10002016	1
+increased gamma gt	10017693	1
+osteomalacia	10031250	1
+myopathy	10028641	2
+acute tubular necrosis	10038540	1
+fanconi syndrome	10016219	1
+proximal renal tubulopathy	10038537	1
+interstitial nephritis	10048302	2
+interstitial nephritis acute	10048302	1
+nephrogenic diabetes insipidus	10029147	1
+renal insufficiency	10038435	2
+acute exacerbation of hepatitis b	10059193	1
+exacerbations of hepatitis b	10019731	1
+liver decompensation	10019663	1
+liver failure	10019663	1
+renal tubular injury	10038537	1
+renal adverse reaction	10062237	1
+proximal renal tubular dysfunction	10038537	1
+declines in estimated creatinine clearance	10011372	1
+increases in biochemical markers of bone metabolism	unmapped	1
+increased bone turnover	10062624	1
+arthralgias	10003239	1
+residual opportunistic infections	10030901	2
+pneumocystis jirovecii pneumonia	10073755	4
+primary malignancies	10028997	1
+tumor promotion in braf wild type melanoma	10007269	1
+cardiomyopathy	10007636	1
+ocular toxicities	10061137	1
+febrile reactions	10037660	1
+skin toxicity	10059516	2
+glucose six phosphate dehydrogenase deficiency	10018444	1
+papilloma	10033713	1
+cutaneous squamous cell carcinomas and keratoacanthomas	10041834	1
+squamous cell carcinoma of the skin	10041834	1
+keratoacanthoma	10023347	1
+cutaneous squamous cell carcinoma	10041834	1
+bullous rash	10012441	1
+lymphedema	10025282	1
+rash vesicular	10037898	1
+brain stem hemorrhage	10006145	1
+gingival hemorrhage	10018276	1
+hemorrhage intracranial	10018985	1
+vitreous hemorrhage	10047655	1
+transient blindness	10005184	1
+qtcf prolongation	10014387	1
+qtcf was increased	10014387	1
+primary malignancies cutaneous	10040808	1
+primary malignancies non cutaneous	10028997	1
+cutaneous squamous cell carcinomas	10041834	1
+keratoacanthomas	10023347	1
+primary malignant melanomas	10025650	1
+squamous cell carcinoma	10041834	1
+primary melanoma	10025650	1
+non cutaneous malignancies	10028997	1
+kras mutation positive pancreatic adenocarcinoma	10052747	1
+recurrent nras mutation positive colorectal carcinoma	10061451	1
+head and neck carcinoma	unmapped	1
+glioblastoma	10018336	1
+hemorrhages	10055798	1
+symptomatic bleeding	10055798	1
+hemorrhagic event	10055798	1
+decrease in left ventricular ejection fraction	10050528	1
+absolute decrease in left ventricular ejection fraction	10050528	1
+retinal pigment epithelial detachments	10052501	2
+secondary infections of the skin	10040872	1
+thyroid c cell tumors	10043744	2
+gastrointestinal complaints	10000059	1
+gastrointestinal reactions	10017944	2
+injection site rash	10022094	2
+injection site hypersensitivity	10022071	1
+hypoglycemic episode	10020993	1
+plasma glucose concentration < 70 mg dl	10005555	1
+hypoglycemic symptoms	10020993	1
+appendicitis	10003011	1
+alanine aminotransferase increase	10001551	2
+elevation in alanine aminotransferase	10001551	1
+increase in total bilirubin	10005364	1
+increased gamma glutamyltransferase	10017693	1
+mean heart rate higher by an average of one to two bpm	10019303	1
+increase in heart rate	10019303	3
+medullary thyroid carcinoma	10027105	3
+renal function declined	10062237	1
+albumin urine present	10001582	1
+elevations of hepatic transaminases	10054889	1
+elevations of alanine aminotransferase	10001551	1
+elevations of aspartate aminotransferase	10003481	1
+elevated hepatic transaminases	10054889	1
+increase in mean eosinophil counts	10014945	1
+swelling of the throat	10034829	2
+decrease lymphocyte counts	10025256	1
+lymphocyte counts decreased	10025256	1
+lymphocyte counts < zero five x ten nine l	10025256	1
+prolonged lymphopenia	10025327	1
+lymphocyte counts < zero five ten ten nine l	10025256	1
+warmth	10016334	1
+redness	10015150	1
+direct coombs test seroconversion	10010933	1
+increased transaminases	10054889	1
+seroconversion from a negative to a positive direct coombs test result	10010933	1
+seroconverted from a negative to a positive direct coombs test result	10010933	1
+fat redistribution	10048474	1
+suicidal attempt	10042464	1
+suicidal completion	10010144	1
+elevated cholesterol	10005425	1
+elevated lipase	10024574	1
+liver chemistry elevations	10060795	1
+creatinine increases	10005483	1
+elevated total bilirubin	10005364	1
+elevated total lipase	10024574	1
+dry eyes	10013774	1
+gamma glutamyl transferase increased	10017693	2
+diverticulitis	10013538	1
+irritable bowel syndrome	10023003	1
+qt corrected interval prolongation	10014387	1
+airway obstruction	10061877	1
+angioedema of the lips	10002424	1
+angioedema of the larynx	10002424	1
+central nervous system effects	10058046	1
+upper airway swelling	10070774	1
+anticholinergic central nervous sytem effects	10029202	2
+central nervous sytem anticholinergic effects	10029202	1
+extravasation injury	10015866	1
+worsening hypertension	10020772	1
+herpes simplex	10019948	1
+myelosuppressive effects	10065553	1
+leukocytes decreased	10047942	1
+bilirubin elevations	10005364	1
+increases in aspartate transaminase	10003481	1
+increases in alanine aminotransferase	10001551	1
+changes in creatinine levels	10005481	1
+catheter site pain	10052268	1
+myelodysplastic syndrome	10028533	1
+hemolysis	10018910	1
+taste disorder	10013911	1
+atypical pneumonia	10003757	1
+skin necrosis	10040893	1
+injection site phlebitis	10022090	1
+infusion site reactions	10054996	2
+infusion site phlebitis	10053663	1
+infusion site pruritus	10053664	1
+infusion site irritation	10065473	1
+infusion site swelling	10053505	1
+pre malignant diseases	10049673	1
+malignant diseases	10028997	1
+extravasation	10015866	1
+myelosuppression related adverse reactions	10065553	1
+diffuse alveolar hemorrhage	10037313	1
+opportunistic infection	10030901	1
+infection cytomegalovirus	10011831	1
+toxic skin reactions	10057970	1
+bullous exanthema	10012441	1
+myeloproliferative disorders	10028576	1
+acute myeloid leukemia	10000880	1
+bronchial carcinoma	10006417	1
+extravasations	10015866	1
+swelling	10042674	1
+gastrointestinal disease	10017944	1
+fecal volume increased	10049939	1
+vomiting projectile	10047708	1
+gastrointestinal pain	10017999	1
+eructation	10015137	1
+symptomatic hypoglycemia	10020993	1
+sinus tachycardia	10040752	1
+persistence of sinus tachycardia	10040752	1
+systemic rash	10037844	1
+increase prothrombin ratio interval	10053657	1
+prothrombin ratio interval increase	10053657	1
+increases in lipase	10024574	1
+increases in pancreatic amylase	10002016	1
+worsening of narrow angle glaucoma	10002500	1
+worsening of urinary retention	10046555	1
+immediate hypersensitivity reactions	10045240	1
+osteoarthritis	10031161	1
+cardio respiratory arrest	10007617	1
+swelling of the lips	10024570	1
+ocular irritation	10015946	1
+application site hypoesthesia	10074585	1
+pyoderma	10037632	1
+excoriation	10049796	1
+thermal burn	10053615	1
+dandruff	10011859	1
+neonatal toxicity	unmapped	1
+neonatal gasping syndrome	10069162	1
+gasping respirations	10013968	1
+progressive hypotension	10021097	1
+central nervous system depression	10012373	1
+intraventricular hemorrhage	10022840	1
+allergic dermatitis	10012434	2
+irritant dermatitis	10012442	1
+liver function abnormalities	10019670	1
+idiopathic thrombocytopenic purpura	10074667	1
+cardiac murmur	10007586	1
+sinus bradycardia	10040741	2
+frequent stools	10017367	1
+gastrointestinal discomfort	10000059	1
+haematemesis	10018830	1
+influenza like symptoms	10022004	1
+mass	10026865	1
+appetite decreased	10061428	1
+appetite increased	10021654	1
+arthritis	10003246	2
+joint stiffness	10023230	1
+joint swelling	10023232	2
+muscle tightness	10049816	1
+altered taste	10013911	1
+hemiparesis	10019465	1
+hyposmia	10050515	1
+lacunar infarction	10051078	1
+mental impairment	10027374	1
+personality change	10034719	1
+urinary urgency	10027566	1
+paranasal sinus hypersecretion	10057392	1
+respiratory tract congestion	10052251	1
+angio edema	10002424	1
+dermographism	10068773	1
+hair growth abnormal	10019044	1
+peeling skin	10040844	1
+purpura	10037549	1
+skin altered pigmentation	10062080	1
+skin odor abnormal	10040904	1
+activated partial thromboplastin time prolonged	10000636	1
+creatine increased	10005464	1
+sodium increased	10005803	1
+electroencephalogram abnormal	10014408	1
+thyroid stimulating hormone increased	10005833	1
+mcv increased	10027004	1
+red blood count decreased	10038153	1
+blood urea increased	10005851	1
+bun creatinine ratio increased	10050760	1
+creatine phosphokinase increased	10005470	2
+ldh increased	10005630	1
+prostate specific antigen increased	10036975	1
+urine output decreased	10059895	1
+lymphocyte count decreased	10025256	2
+white blood cell increased	10047943	1
+coagulation test abnormal	10063557	1
+low density lipoprotein increased	10024910	2
+prothrombin time prolonged	10037063	1
+urinary casts	10067534	1
+urine positive for white blood cells	10047967	1
+urine positive for protein	10053123	1
+abnormal liver function	10019670	1
+psychotic behavior	10037249	1
+aggressive thoughts	10001488	1
+tubulointerstitial nephritis	10048302	1
+hypersensitivity skin reactions	10012434	1
+gout flare	10018627	1
+gout flares	10018627	1
+cardiovascular thromboembolic events	10061169	1
+cardiovascular deaths	10049993	1
+strokes	10008190	1
+alteration of taste	10013911	1
+decreased neutrophil counts	10029366	1
+decreased platelet counts	10035528	1
+platelet counts of less than 50 ten nine per l	10035528	1
+hemoglobin g dl < ten	10018884	1
+hemoglobin g dl < eight five	10018884	1
+neutrophils ten nine l < zero 75	10029366	1
+neutrophils ten nine l < zero five	10029366	1
+platelets ten nine l < 50	10035528	1
+platelets ten nine l < twenty five	10035528	1
+drug rash with eosinophilia and systemic symptoms syndrome	10073508	2
+exfoliative dermatitis	10012455	1
+toxic skin eruption	10057970	1
+toxicoderma	10057970	1
+birth defects	10010356	1
+fetal death	10055690	1
+decrease in hemoglobin concentrations	10018884	1
+worsening of neutropenia	10029354	1
+death of the exposed fetus	10055690	1
+additional decrease in hemoglobin concentrations	10018884	1
+hemoglobin values less than ten g per dl	10018884	1
+hemoglobin values less than eight five g per dl	10018884	1
+hemoglobin less than ten g per dl	10018884	1
+neutrophil counts of less than zero five ten nine per l	10029366	1
+acute respiratory complications	10058046	1
+chest pressure	10008469	1
+paraesthesias	10033775	1
+paresthesias	10033775	1
+visual loss	10005169	1
+vision disorders	10047518	1
+diabetic ketoacidosis	10012671	1
+vision disorder	10047518	2
+neuralgia	10029223	2
+sensory disturbance	10040026	1
+renal cyst	10038423	1
+aspartate aminotransferase elevation	10003481	2
+dysesthesia	10013886	2
+parasthesia	10033775	1
+burning sensation in skin	10054786	1
+photopsia	10034962	2
+visual adverse reactions	10047571	1
+neuropathy sensory	10034620	1
+renal cysts	10038423	1
+renal cysts complex	10038423	1
+local cystic invasion beyond the kidney	10011732	1
+elevations in aspartate aminotransferase	10003481	2
+total bilirubin two times the upper limit of normal	10005364	2
+qtcf greater than or equal to 500 ms	10014387	1
+increase qtcf	10014387	1
+heart rate less than 50 beats per minute	10019301	1
+visual field defect	10047555	1
+optic atrophy	10030910	1
+optic nerve disorder	10061322	1
+diarrhoea	10012735	1
+dyspnoea	10013968	1
+brow ptosis	10059001	1
+facial pain	10016059	1
+sensation of pressure	10013082	1
+eye disorder	10015916	1
+muscle disorder	10028300	1
+elevation of eyebrow	unmapped	1
+flu like symptoms	10022004	1
+localized allergic reactions	10020751	1
+localized swelling	10048961	1
+localized edema	10048961	2
+localized erythema	10015150	1
+localized pruritus	10037087	2
+localized rash	10037844	1
+spread from the area of injection	unmapped	1
+toxin effects	unmapped	1
+spread of effect	unmapped	1
+corneal exposure	unmapped	1
+corneal ulceration	10064996	1
+reduced blinking	unmapped	1
+corneal perforation	10011039	1
+transmission of viral diseases	10047461	1
+tendon ruptures	10043248	1
+injury to the injected extremity	10061225	1
+corporal rupture	10052530	1
+penile fracture	10052530	1
+penile hematoma	10070656	1
+penile ecchymoses	10034305	1
+penile detumescence	10061461	1
+penile popping sound	10034336	1
+penile popping sensation	10034336	1
+swelling of the injected hand	10053425	1
+pain in the injected extremity	10033425	1
+penile swelling	10034319	1
+penile pain	10034310	1
+flexor tendon rupture of the finger	10043248	1
+adverse reaction of the injected extremity	10071152	1
+pain in the treated extremity	10033425	1
+injection site edema	10022085	1
+axillary mass	10049021	1
+tenderness	10043224	1
+skin laceration	10023572	1
+lymph node pain	10025182	1
+axillary pain	10048750	1
+tendon rupture of the finger	10065433	1
+blood blister	10005372	1
+adverse reactions of the penis	10034336	1
+adverse reactions of the groin	unmapped	1
+penile bruising	10073352	1
+penile edema	10066774	1
+scrotal swelling	10039759	1
+ecchymoses	10014080	1
+penile hemorrhage	10034305	1
+penile blister	10052898	1
+pruritus genital	10037093	1
+painful erection	10056303	1
+injection site vesicles	10022111	1
+dyspareunia	10013941	1
+nodule	10054107	1
+suprapubic pain	10050822	1
+popping noise in the penis	unmapped	1
+popping sensation in the penis	10034336	1
+penis snapping	10034336	1
+penis cracking	10034336	1
+detumescence	10061461	1
+penile injury	10068036	1
+tendon rupture	10043248	1
+injury to the injected finger	10061225	1
+injury to the injected hand	10061225	1
+injury to the penis	10068036	1
+permanent injury	10022116	1
+flexor tendon ruptures	10043248	1
+collagen containing structures damage	unmapped	1
+tendons of the hand damage	10043242	1
+ligaments of the hand damage	10061225	1
+ligament damage	10061223	1
+pulley rupture	10065433	1
+ligament injury	10061223	1
+complex regional pain syndrome	10064332	2
+sensory abnormality of the hand	10061567	1
+skin the hand and skin laceration	10023572	1
+corpora cavernosa of the penis damage	10068036	1
+penile ecchymosis	10034305	1
+spinal cord compression	10041549	1
+cauda equina syndrome	10007821	1
+mental impairment disorders	10057167	1
+lung infection	10061229	1
+non pathologic fractures	10017076	1
+dyspneae	10013968	1
+non pathological fracture	10017076	1
+dyspnea at rest	10013969	1
+fall related injuries	10016173	1
+joint injuries	10060820	1
+immune mediated enterocolitis	10075761	1
+immune mediated hepatitis	10003827	1
+immune mediated dermatitis	10012434	1
+immune mediated neuropathies	10070439	1
+immune mediated endocrinopathies	10003818	1
+immune mediated adverse reactions	10020751	1
+ocular manifestations	10075536	1
+intestinal perforation	10022694	2
+endocrinopathy	10014695	1
+hypopituitarism	10021067	1
+adrenal insufficiency	10001367	2
+meningitis	10027199	1
+large intestinal ulcer	10023799	1
+dress syndrome	10073508	1
+peritoneal signs	10061343	1
+mucus in stool	10028140	1
+blood in stool	10018836	1
+aspartate transaminase elevations	10003481	2
+total bilirubin elevations	10005364	1
+total bilirubin elevation	10005364	1
+increases in transaminases	10054889	1
+increases in total bilirubin	10005364	1
+dermal ulceration	10040943	1
+dermal necrotic manifestations	10040893	1
+dermal bullous manifestations	10012441	1
+dermal hemorrhagic manifestations	10037549	1
+myasthenia gravis	10028417	1
+endocrinopathies	10014695	1
+cushing s syndrome	10011652	1
+immune mediated endocrinopathy	10003818	1
+hypophysitis	10062767	1
+angiopathy	10059245	1
+temporal arteritis	10043207	1
+polymyalgia rheumatica	10036099	1
+scleritis	10039705	1
+psoriasis	10037153	1
+autoimmune thyroiditis	10049046	1
+neurosensory hypoacusis	10067587	1
+autoimmune central neuropathy	10070439	1
+ocular myositis	10053635	1
+worsening infection	10021789	1
+complications of infection	10021789	1
+ileus paralytic	10021333	1
+oropharyngeal infection	10048685	1
+fungal urinary tract infection	10049059	1
+increased serum gamma glutamyl transpeptidase	10017693	1
+increased serum alkaline phosphatase	10059570	1
+positive coombs test	10061090	1
+lymphocyte count increased	10025258	1
+toxicities	10070863	1
+toxicities hepatic	10019851	1
+recurrence alanine aminotransferase elevations	10001551	1
+recurrence aspartate transaminase elevations	10003481	1
+dermatitis exfoliative	10012455	1
+skin disorder	10040831	1
+general physical health deterioration	10049438	1
+cardiac tamponade	10007610	1
+esophageal disorder	10061318	1
+hypotonia	10021118	1
+vision impairment	10047571	1
+presbyopia	10036628	1
+prolonged qt interval	10014387	1
+bilirubin total increased	10005364	1
+qtc interval prolongation	10014387	1
+elevations of lipase	10024574	1
+elevations of amylase	10002016	1
+ventricular tachyarrhythmias	10065341	1
+torsade de pointes	10044066	1
+qtc interval increase	10014387	1
+qtc greater than 500 msec	10014387	1
+increase from baseline qtc	10014387	1
+increases in the qtc interval	10014387	1
+heart rate of less than 50 beats per minute	10019301	1
+fatality	10011906	1
+mineralocorticoid excess	10020571	1
+adrenocortical insufficiency	10001367	1
+joint discomfort	10053156	1
+elevated alkaline phosphatase	10059570	1
+muscle discomfort	10053156	1
+urinary frequency	10036018	1
+low serum phosphorus	10049471	1
+low potassium	10005724	1
+high total bilirubin	10005364	1
+groin pain	10018735	1
+cardiorespiratory arrest	10007617	1
+increases in liver enzymes	10060795	1
+increased mineralocorticoid levels	10020610	1
+alanine aminotransferase increases	10001551	1
+aspartate transaminase increases	10003481	1
+liver test elevation	10024690	1
+liver enzyme increases	10060795	1
