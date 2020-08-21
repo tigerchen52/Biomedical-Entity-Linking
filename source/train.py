@@ -4,7 +4,7 @@ import argparse
 import logging
 import numpy as np
 import load_data
-from data_utils import gen_valid_data, gen_train_data
+from data_utils import gen_valid_data, gen_train_data, set_random_seed
 from build_model import input_attention_hinge_loss
 from keras.callbacks import ModelCheckpoint, CSVLogger, EarlyStopping
 from predict import predict_data
@@ -27,11 +27,17 @@ parser.add_argument('-hinge', help='the parameter for hinge loss', type=float, d
 parser.add_argument('-topk_candidates', help='the number of entity candidates', type=int, default=20)
 parser.add_argument('-alpha', help='the threshold to filter candidates', type=float, default=0.0)
 parser.add_argument('-voting_k', help='the number of adjacent mentions are used to calculate the coherence ', type=int, default=8)
-parser.add_argument('-context_sentence_length', help='the length of context sentence', type=int, default=50)
+parser.add_argument('-context_sentence_length', help='the length of context sentence', type=int, default=100)
 parser.add_argument('-context_rnn_dim', help='the dimension of Bi-RNN for context words', type=int, default=32)
-parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=32)
-parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=True)
-args = parser.parse_args()
+parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=30)
+parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=False)
+parser.add_argument('-add_context', help='whether use context for ranking', type=bool, default=False)
+parser.add_argument('-add_coherence', help='whether use coherence for ranking', type=bool, default=False)
+try:
+    args = parser.parse_args()
+except:
+    parser.print_help()
+    sys.exit(0)
 
 #file path
 origin_entity_path = '../input/{a}/origin_entity.txt'.format(a=args.dataset)
@@ -178,6 +184,10 @@ def create_model_and_fit(params):
 
 
 def run():
+    #lock seed
+    set_random_seed(2019)
+
+    #generate word embedding file
     if not os.path.exists(word_embedding_file):
         _, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
         generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)

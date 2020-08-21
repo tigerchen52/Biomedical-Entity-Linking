@@ -101,6 +101,7 @@ def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, para
     sequence1 = concatenate([cnn(com_repre1) for cnn in cnns])
     sequence2 = concatenate([cnn(com_repre2) for cnn in cnns])
     sequence = concatenate([sequence1, sequence2])
+    sequence = concatenate([sequence, can_prior])
 
 
     #context
@@ -114,6 +115,8 @@ def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, para
     weight = norm_att(can_repre, context_repre)
     context_repre = Dot(axes=1)([weight, context_repre])
     context_score = Dot(axes=1, normalize=True)([can_repre, context_repre])
+    if params.add_context:
+        sequence = concatenate([sequence, context_score])
 
 
     #cohrence
@@ -121,9 +124,10 @@ def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, para
     coherence_feature = Dot(normalize=True, axes=-1)([candidate_embs, voting_candidates_emb])
     pool = GlobalAveragePooling1D()(coherence_feature)
     #undo
-    coherence_feature = Dense(1)(pool)
+    coherence_score = Dense(1)(pool)
+    if params.add_coherence:
+        sequence = concatenate([sequence, coherence_score])
 
-    sequence = concatenate([sequence, context_score, coherence_feature, can_prior])
 
     #output
     sequence = Dropout(dropout)(sequence)

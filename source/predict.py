@@ -1,5 +1,5 @@
 import numpy as np
-from clean.ncbi_load_data import load_entity
+from load_data import load_entity
 
 
 def predict_batch(test_data, model, batch_size=None):

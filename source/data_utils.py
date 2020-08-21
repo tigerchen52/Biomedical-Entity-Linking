@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import random
 import os
 import numpy as np
+import tensorflow as tf
 import logging
 from load_data import load_train_data, load_data_by_id, load_entity_by_id, \
             load_candidates_by_id, load_mention_entity_prior2, load_entity_emb, load_voting_eid_by_doc, \
@@ -15,6 +16,12 @@ local_file = os.path.split(__file__)[-1]
 logging.basicConfig(
     format='%(asctime)s : %(filename)s : %(funcName)s : %(levelname)s : %(message)s',
     level=logging.INFO)
+
+
+def set_random_seed(seed_value):
+    random.seed(seed_value)
+    np.random.seed(seed_value)
+    tf.set_random_seed(seed_value)
 
 
 def sample(sample_list):
