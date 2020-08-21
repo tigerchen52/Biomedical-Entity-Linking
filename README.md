@@ -1,5 +1,5 @@
 # Biomedical-Entity-Linking
-![model](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/tree/master/images/model.jpg)
 
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
