@@ -30,6 +30,16 @@ Here, the medical corpus we adopt is a collection of PubMed abstracts
 which can be obtained at *ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*
 
 ## Evaluation
+First you can use `-help` to show the arguments
+```
+python train.py -help
+```
+Once complete the data preparation and environment setup, we can evaluate the model via `train.py`.
+We have also provided datasets after preprocessing, you can just run the mode without downloading.
+```
+python3 train.py -dataset ncbi
+```
+
 **Using Optimal Parameters**
 1. NCBI datast
 ```
@@ -37,7 +47,20 @@ python train.py -dataset ncbi -hinge 0.15
 ```
 2. ShARe/CLEF dataset
 ```
-python train.py -dataset clef -hinge 0.15 
+python train.py -dataset clef -hinge 0.30 -voting_k 15 -alpha 0.6 
+```
+3. ADR dataset
+```
+python train.py -dataset adr -hinge 0.10 -voting_k 10  
+```
+**Adding Features**
+1. add context
+```
+python train.py -dataset ncbi -add_context True
+```
+2. add coherence
+```
+python train.py -dataset ncbi -add_coherence True
 ```
 
 ## Reference
