@@ -17,6 +17,7 @@ pip install -r requirements.txt
 **Word Embedding.** 
 In our experiments, we represent each word by a 200-dimensional word embedding computed on PubMed and
 MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.com/ncbi-nlp/BioSentVec)
+After downloading, put the embedding file in the path `Biomedical-Entity-Linking/input/` 
 
 **Extra Biomedical documents.**
 entities in the same document have a co-occurrence relationship to some extent,
@@ -29,10 +30,14 @@ Here, the medical corpus we adopt is a collection of PubMed abstracts
 which can be obtained at *ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*
 
 ## Evaluation
-**Using Optimal Parameters
+**Using Optimal Parameters**
 1. NCBI datast
 ```
 python train.py -dataset ncbi -hinge 0.15 
+```
+2. ShARe/CLEF dataset
+```
+python train.py -dataset clef -hinge 0.15 
 ```
 
 ## Reference
