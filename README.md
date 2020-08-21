@@ -1,5 +1,5 @@
 # Biomedical-Entity-Linking
-![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/tree/master/images/model.jpg)
+![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/model.jpg)
 
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
