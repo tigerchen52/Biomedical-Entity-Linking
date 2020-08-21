@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 **Word Embedding.** 
 In our experiments, we represent each word by a 200-dimensional word embedding computed on PubMed and
-MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.com/ncbi-nlp/BioSentVec)
+MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.com/ncbi-nlp/BioSentVec).
 After downloading, put the embedding file in the path `Biomedical-Entity-Linking/input/` 
 
 **Extra Biomedical documents.**
@@ -34,7 +34,7 @@ First you can use `-help` to show the arguments
 ```
 python train.py -help
 ```
-Once complete the data preparation and environment setup, we can evaluate the model via `train.py`.
+Once completing the data preparation and environment setup, we can evaluate the model via `train.py`.
 We have also provided datasets after preprocessing, you can just run the mode without downloading.
 ```
 python3 train.py -dataset ncbi
@@ -62,6 +62,8 @@ python train.py -dataset ncbi -add_context True
 ```
 python train.py -dataset ncbi -add_coherence True
 ```
+**Result**
+![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/performance.PNG)
 
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
