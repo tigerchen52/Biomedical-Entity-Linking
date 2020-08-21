@@ -4,7 +4,7 @@
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Data preparation
 **Dataset.** We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
@@ -28,6 +28,12 @@ so that entities often co-occur together have a similar distributed representati
 Here, the medical corpus we adopt is a collection of PubMed abstracts
 which can be obtained at *ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*
 
+## Evaluation
+**Using Optimal Parameters
+1. NCBI datast
+```
+python train.py -dataset ncbi -hinge 0.15 
+```
 
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
