@@ -63,7 +63,7 @@ python train.py -dataset ncbi -add_context True
 python train.py -dataset ncbi -add_coherence True
 ```
 **Result**
-![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/performance.PNG)
+![performance](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/performance.jpg)
 
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
