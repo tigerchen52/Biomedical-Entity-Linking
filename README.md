@@ -1,5 +1,5 @@
 # Biomedical-Entity-Linking
-![model](images/model.jpg)
+![model](https://sites.google.com/site/novatec2013fibra/_/rsrc/1393369152790/3-google-academico/google.png)
 
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
