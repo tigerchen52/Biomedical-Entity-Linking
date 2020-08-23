@@ -1,5 +1,5 @@
 # Biomedical-Entity-Linking
-![model](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/model.jpg)
+![model](images/model.jpg)
 
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
@@ -63,7 +63,7 @@ python train.py -dataset ncbi -add_context True
 python train.py -dataset ncbi -add_coherence True
 ```
 **Result**
-![performance](https://github.com/tigerchen52/Biomedical-Entity-Linking/blob/master/images/performance.jpg)
+![performance](images/performance.jpg)
 
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
