@@ -122,7 +122,7 @@ def create_model(word_embedding_matrix, word_list, char_list, params):
         sequence = concatenate([sequence, context_score])
 
 
-    #cohrence
+    #coherence
     candidate_embs = RepeatVector(K.int_shape(voting_candidates_emb)[1])(candidate_emb)
     coherence_feature = Dot(normalize=True, axes=-1)([candidate_embs, voting_candidates_emb])
     pool = GlobalAveragePooling1D()(coherence_feature)

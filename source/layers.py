@@ -53,10 +53,6 @@ class Dot_Abs():
         self.input_shape = input_shape
         self.axis = axis
         self.return_con = return_con
-        self.model = Sequential()
-        self.model.add(
-            TimeDistributed(Dense(64, activation='relu')))
-        self.model.add(TimeDistributed(Dropout(0.2)))
 
     def __call__(self, x1, x2):
 
@@ -194,14 +190,12 @@ class ESIMAttention():
 
         def _normalize(args):
             arg_x, arg_y = args[0], args[1]
-            e = K.batch_dot(arg_x, K.permute_dimensions(arg_y, (0, 2, 1)))
-            sum_e = K.maximum(K.sum(e, axis=-1, keepdims=True), K.epsilon())
-            nor_e = e / sum_e
+            attention = K.batch_dot(arg_x, K.permute_dimensions(arg_y, (0, 2, 1)))
+            nor_e = Lambda(lambda x: softmax(x, axis=1))(attention)
             return K.batch_dot(nor_e, arg_y)
 
 
         output_shape = (self.sequence_length, self.input_dim,)
-        #output_shape = (self.sequence_length, self.sequence_length,)
         # (batch_size, timesteps1, dim)
         att1 = Lambda(
             _normalize,
@@ -224,11 +218,9 @@ class NormAttention():
 
         def _normalize(args):
             arg_x, arg_y = args[0], args[1]
-            e = K.batch_dot(arg_x, arg_y, axes=-1)
-            sum_e = K.maximum(K.sum(e, axis=-1, keepdims=True), K.epsilon())
-            nor_e = e / sum_e
+            attention = K.batch_dot(arg_x, K.permute_dimensions(arg_y, (0, 2, 1)))
+            nor_e = Lambda(lambda x: softmax(x, axis=1))(attention)
             return nor_e
-
 
         output_shape = (self.sequence_length,)
 
@@ -259,30 +251,6 @@ class PoolingLayer(object):
         ave_pooling = GlobalAveragePooling1D()(inputs)
         pooling = concatenate([max_pooling, ave_pooling])
         return pooling
-
-
-def create_pretrained_embedding(pretrained_weights, trainable=True):
-    "Create embedding layer from a pretrained weights array"
-    in_dim, out_dim = pretrained_weights.shape
-    embedding = Embedding(in_dim, out_dim, weights=[pretrained_weights], trainable=trainable, name='word_embedding')
-    return embedding
-
-
-def create_char_embedding(charsize, maxlen, max_char_len, char_embedding_dim):
-    char_embedding = Embedding(input_dim=charsize, output_dim=char_embedding_dim,
-                               embeddings_initializer='lecun_uniform', input_shape=(maxlen, max_char_len),
-                               mask_zero=False, trainable=True, name='char_embedding')
-    return char_embedding
-
-
-def soft_attention_alignment(input_1, input_2):
-    "Align text representation with neural soft attention"
-    attention = Dot(axes=-1)([input_1, input_2])
-    w_att_1 = Lambda(lambda x: softmax(x, axis=1))(attention)
-    w_att_2 = Permute((2, 1))(Lambda(lambda x: softmax(x, axis=2))(attention))
-    in1_aligned = Dot(axes=1)([w_att_1, input_1])
-    in2_aligned = Dot(axes=1)([w_att_2, input_2])
-    return in1_aligned, in2_aligned
 
 
 class HingeLoss():

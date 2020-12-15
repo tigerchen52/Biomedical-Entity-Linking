@@ -46,10 +46,8 @@ except:
 #file path
 origin_entity_path = '../input/{a}/origin_entity.txt'.format(a=args.dataset)
 origin_train_path = '../input/{a}/origin_train.txt'.format(a=args.dataset)
-origin_develop_path = '../input/{a}/origin_develop.txt'.format(a=args.dataset)
 origin_test_path = '../input/{a}/origin_test.txt'.format(a=args.dataset)
 train_data_path = '../output/{a}/train_data.txt'.format(a=args.dataset)
-develop_data_path = '../output/{a}/develop_data.txt'.format(a=args.dataset)
 test_data_path = '../output/{a}/test_data.txt'.format(a=args.dataset)
 all_data_path = '../output/{a}/all_data.txt'.format(a=args.dataset)
 word_vocab_path = '../output/{a}/word_vocabulary.dict'.format(a=args.dataset)
@@ -58,7 +56,6 @@ bin_embedding_file = '../input/BioWordVec_PubMed_MIMICIII_d200.vec.bin'
 txt_embedding_file = '../input/word_embedding.txt'
 word_embedding_file = '../output/{a}/embed/word2vec_200_dim_with_context.npy'.format(a=args.dataset)
 train_context_path = '../output/{a}/context/train_mention_context.txt'.format(a=args.dataset)
-develop_context_path = '../output/{a}/context/develop_mention_context.txt'.format(a=args.dataset)
 test_context_path = '../output/{a}/context/test_mention_context.txt'.format(a=args.dataset)
 prior_path = '../output/{a}/mention_entity_prior.txt'.format(a=args.dataset)
 entity_path = '../output/{a}/entity_kb.txt'.format(a=args.dataset)
@@ -80,11 +77,10 @@ logging.basicConfig(
 
 def create_model_and_fit(params):
 
-    #parameter
+    # parameter
     batch_size = params.batch_size
     sentence_length = params.sentence_length
     character_length = params.character_length
-    develop_step = params.develop_step
     topk_candidates = params.topk_candidates
     alpha = params.alpha
     voting_k = params.voting_k
@@ -93,17 +89,18 @@ def create_model_and_fit(params):
     steps_per_epoch = params.steps_per_epoch
     word_embed_dim = params.word_embed_dim
 
-    #load file
+    # load word and char
     word_dict, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
     char_dict, char_list = load_data.load_char_vocabulary(char_vocab_path)
 
+    # load word embedding
     if not params.random_init:
         word_embedding_matrix = np.load(word_embedding_file)
     else:
         word_embedding_matrix = np.random.rand(len(word_list), word_embed_dim)
 
 
-    #data
+    # load data
     train_data = gen_train_data(
         train_data_path,
         word_dict,
@@ -119,24 +116,6 @@ def create_model_and_fit(params):
         alpha=alpha,
         voting_k=voting_k,
         context_path=train_context_path,
-        context_max_len=context_sentence_length
-    )
-
-    develop_data = gen_train_data(
-        develop_data_path,
-        word_dict,
-        char_dict,
-        entity_path,
-        batch_size,
-        sentence_length,
-        character_length,
-        all_candidate_path,
-        prior_path,
-        entity_embedding_path,
-        topk=topk_candidates,
-        alpha=alpha,
-        voting_k=voting_k,
-        context_path=develop_context_path,
         context_max_len=context_sentence_length
     )
 
@@ -156,7 +135,7 @@ def create_model_and_fit(params):
         context_max_len=context_sentence_length
     )
 
-    #create model
+    # create model
     train_model, predict_model = create_model(
         word_embedding_matrix,
         word_list,
@@ -165,22 +144,20 @@ def create_model_and_fit(params):
     )
 
 
-    #fit model
+    # fit model
     logger.info(train_model.summary())
     history = train_model.fit_generator(
         generator=train_data,
         steps_per_epoch=steps_per_epoch,
         epochs=epochs,
         verbose=1,
-        validation_data=develop_data,
-        validation_steps=develop_step,
         shuffle=True,
         callbacks=[
             CSVLogger(log_path),
         ]
     )
 
-    #predict
+    # evaluate
     acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
 
     return acc
