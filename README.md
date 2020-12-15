@@ -8,7 +8,8 @@ pip install -r requirements.txt
 ```
 ## Data preparation
 **Dataset.** 
-It is not easy to get all related data quickly. For example, you need to finish an exam before obtaining the ShARe/CLEF dataset. For your convenient, we provide all preprocessed datasets so that you could run our model straight. 
+It is not easy to collect all related data quickly. For your convenience, we provide all preprocessed datasets so that you could run our model straight. 
+But there is a data license of the ShARe/CLEF dataset, we suggest you to obtain it according to an official guideline.
 We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
 | Dataset | Reference KB  |
 |------|------|
@@ -23,12 +24,16 @@ After downloading, put the embedding file in the path `Biomedical-Entity-Linking
 
 **Extra Biomedical documents.**
 We provide pre-trained entity embeddings. You can find them in this path `Biomedical-Entity-Linking/output/*dataset name*/embed/entity_emb_50.txt`
-Entities in the same document have a co-occurrence relationship to some extent,
-which can be used to enhance entity liking. To capture this relationship among entities, we adopt the
-method of pre-trained entity embedding. More specifically, we treat each entity occurring in the same
-document as a single word. Hence, each document can be represented as a sentence and each word in it is
-an entity. Then utilizing the word2vec model to get pre-trained entity embeddings
-so that entities often co-occur together have a similar distributed representation.
+Certain entities are more likely to occur together
+in the same document than others, and we can leverage
+this disposition to help the entity linking. To capture the
+co-occurrence of entities, we pre-train entity embeddings in
+such a way that entities that often co-occur together have
+a similar distributed representation. We train these embeddings
+with Word2Vec on a collection
+of PubMed abstracts2. Since the entities in this corpus are
+not linked to our KB, we consider every occurrence of an
+exact entity name as a mention of that entity.
 Here, the medical corpus we adopt is a collection of PubMed abstracts
 which can be obtained at *ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*
 
@@ -46,15 +51,15 @@ python3 train.py -dataset ncbi
 **Using Optimal Parameters**
 1. NCBI datast
 ```
-python train.py -dataset ncbi -hinge 0.15 
+python train.py -dataset ncbi -epochs 9
 ```
 2. ShARe/CLEF dataset
 ```
-python train.py -dataset clef -hinge 0.30 -voting_k 15 -alpha 0.6 
+python train.py -dataset clef -hinge 0.30 -alpha 0.6 -epochs 15
 ```
 3. ADR dataset
 ```
-python train.py -dataset adr -hinge 0.10 -voting_k 10  
+python train.py -dataset adr -epochs 20    
 ```
 **Adding Features**
 1. add prior
@@ -67,8 +72,11 @@ python train.py -dataset ncbi -add_context True
 ```
 3. add coherence
 ```
-python train.py -dataset ncbi -add_coherence True
+python train.py -dataset ncbi -add_coherence True -voting_k 10
 ```
+-voting_k 10 for adr
+-voting_k 15 for ShARe/CLEF
+
 **Result**
 ![performance](images/performance.png)
 
