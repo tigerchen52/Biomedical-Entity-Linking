@@ -21,7 +21,7 @@ logging.basicConfig(
 def set_random_seed(seed_value):
     random.seed(seed_value)
     np.random.seed(seed_value)
-    tf.set_random_seed(seed_value)
+    tf.random.set_seed(seed_value)
 
 
 def sample(sample_list):
