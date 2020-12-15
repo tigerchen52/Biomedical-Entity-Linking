@@ -21,6 +21,7 @@ parser.add_argument('-filters', help='the dimension of CNN output', type=int, de
 parser.add_argument('-kernel_sizes', help='the length of the 1D convolution window', type=str, default='1,2,3')
 parser.add_argument('-dropout', help='the rate of neurons are ignored during training', type=float, default=0.1)
 parser.add_argument('-char_dim', help='the dimension of character embedding', type=int, default=128)
+parser.add_argument('-word_embed_dim', help='the dimension of word embedding', type=int, default=200)
 parser.add_argument('-lr', help='learning rate', type=float, default=5e-4)
 parser.add_argument('-char_rnn_dim', help='the dimension of Bi-RNN for characters', type=int, default=64)
 parser.add_argument('-hinge', help='the parameter for hinge loss', type=float, default=0.1)
@@ -29,7 +30,8 @@ parser.add_argument('-alpha', help='the threshold to filter candidates', type=fl
 parser.add_argument('-voting_k', help='the number of adjacent mentions are used to calculate the coherence ', type=int, default=8)
 parser.add_argument('-context_sentence_length', help='the length of context sentence', type=int, default=100)
 parser.add_argument('-context_rnn_dim', help='the dimension of Bi-RNN for context words', type=int, default=32)
-parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=30)
+parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=15)
+parser.add_argument('-steps_per_epoch', help='the number of steps in each epoch', type=int, default=500)
 parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=False)
 parser.add_argument('-add_context', help='whether use context for ranking', type=bool, default=False)
 parser.add_argument('-add_coherence', help='whether use coherence for ranking', type=bool, default=False)
@@ -78,15 +80,6 @@ logging.basicConfig(
 
 def create_model_and_fit(params):
 
-    #load file
-    word_dict, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
-    char_dict, char_list = load_data.load_char_vocabulary(char_vocab_path)
-
-    if not params.random_init:
-        word_embedding_matrix = np.load(word_embedding_file)
-    else:
-        word_embedding_matrix = np.random.rand(len(word_list), 200)
-
     #parameter
     batch_size = params.batch_size
     sentence_length = params.sentence_length
@@ -96,6 +89,18 @@ def create_model_and_fit(params):
     alpha = params.alpha
     voting_k = params.voting_k
     context_sentence_length = params.context_sentence_length
+    epochs = params.epochs
+    steps_per_epoch = params.steps_per_epoch
+    word_embed_dim = params.word_embed_dim
+
+    #load file
+    word_dict, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
+    char_dict, char_list = load_data.load_char_vocabulary(char_vocab_path)
+
+    if not params.random_init:
+        word_embedding_matrix = np.load(word_embedding_file)
+    else:
+        word_embedding_matrix = np.random.rand(len(word_list), word_embed_dim)
 
 
     #data
@@ -159,41 +164,23 @@ def create_model_and_fit(params):
         params=params
     )
 
-    #save best model
-    class SavePredictModel(Callback):
-        def __init__(self, predict_model):
-            self.predict_model = predict_model
-            self.max_acc = 0
-            self.min_val_loss = 100000
-
-        def on_epoch_end(self, epoch, logs=None):
-            val_loss = logs.get('val_loss')
-            if val_loss < self.min_val_loss:
-                self.predict_model.save_weights(model_weights_path, overwrite=True)
-                self.min_val_loss = val_loss
-
-    save_predict_model = SavePredictModel(predict_model)
 
     #fit model
-    es = EarlyStopping(monitor='val_loss', mode='min', verbose=1, patience=5)
     logger.info(train_model.summary())
     history = train_model.fit_generator(
         generator=train_data,
-        steps_per_epoch=500,
-        epochs=30,
+        steps_per_epoch=steps_per_epoch,
+        epochs=epochs,
         verbose=1,
         validation_data=develop_data,
         validation_steps=develop_step,
         shuffle=True,
         callbacks=[
             CSVLogger(log_path),
-            es,
-            save_predict_model
         ]
     )
 
     #predict
-    predict_model.load_weights(model_weights_path)
     acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
 
     return acc
