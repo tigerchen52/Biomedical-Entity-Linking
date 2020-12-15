@@ -7,7 +7,9 @@ Clone the repository and set up the environment via "requirements.txt". Here we 
 pip install -r requirements.txt
 ```
 ## Data preparation
-**Dataset.** We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
+**Dataset.** 
+It is not easy to get all related data quickly. For example, you need to finish an exam before obtaining the ShARe/CLEF dataset. For your convenient, we provide all preprocessed datasets so that you could run our model straight. 
+We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
 | Dataset | Reference KB  |
 |------|------|
 | [NCBI disease](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) | [MEDIC (July 6, 2012)](http://ctdbase.org/downloads/#alldiseases) |
@@ -20,7 +22,8 @@ MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.
 After downloading, put the embedding file in the path `Biomedical-Entity-Linking/input/` 
 
 **Extra Biomedical documents.**
-entities in the same document have a co-occurrence relationship to some extent,
+We provide pre-trained entity embeddings. You can find them in this path `Biomedical-Entity-Linking/output/*dataset name*/embed/entity_emb_50.txt`
+Entities in the same document have a co-occurrence relationship to some extent,
 which can be used to enhance entity liking. To capture this relationship among entities, we adopt the
 method of pre-trained entity embedding. More specifically, we treat each entity occurring in the same
 document as a single word. Hence, each document can be represented as a sentence and each word in it is
@@ -54,16 +57,21 @@ python train.py -dataset clef -hinge 0.30 -voting_k 15 -alpha 0.6
 python train.py -dataset adr -hinge 0.10 -voting_k 10  
 ```
 **Adding Features**
-1. add context
+1. add prior
+```
+python train.py -dataset ncbi -add_prior True
+```
+2. add context
 ```
 python train.py -dataset ncbi -add_context True
 ```
-2. add coherence
+3. add coherence
 ```
 python train.py -dataset ncbi -add_coherence True
 ```
 **Result**
-![performance](images/performance.jpg)
+![performance](images/performance.png)
+
 
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.

@@ -15,7 +15,7 @@ logging.basicConfig(
     level=logging.INFO)
 
 
-def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, params):
+def create_model(word_embedding_matrix, word_list, char_list, params):
     logger.info(params)
     words_num = len(word_list)
     char_num = len(char_list)
@@ -101,7 +101,10 @@ def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, para
     sequence1 = concatenate([cnn(com_repre1) for cnn in cnns])
     sequence2 = concatenate([cnn(com_repre2) for cnn in cnns])
     sequence = concatenate([sequence1, sequence2])
-    sequence = concatenate([sequence, can_prior])
+
+    #prior
+    if params.add_prior:
+        sequence = concatenate([sequence, can_prior])
 
 
     #context
@@ -123,8 +126,7 @@ def input_attention_hinge_loss(word_embedding_matrix, word_list, char_list, para
     candidate_embs = RepeatVector(K.int_shape(voting_candidates_emb)[1])(candidate_emb)
     coherence_feature = Dot(normalize=True, axes=-1)([candidate_embs, voting_candidates_emb])
     pool = GlobalAveragePooling1D()(coherence_feature)
-    #undo
-    coherence_score = Dense(1)(pool)
+    coherence_score = Lambda(K.mean, output_shape=(1,), arguments={'axis': -1, 'keepdims':True})(pool)
     if params.add_coherence:
         sequence = concatenate([sequence, coherence_score])
 

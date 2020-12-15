@@ -5,8 +5,8 @@ import logging
 import numpy as np
 import load_data
 from data_utils import gen_valid_data, gen_train_data, set_random_seed
-from build_model import input_attention_hinge_loss
-from keras.callbacks import ModelCheckpoint, CSVLogger, EarlyStopping
+from build_model import create_model
+from keras.callbacks import ModelCheckpoint, CSVLogger, EarlyStopping, Callback
 from predict import predict_data
 from embed import generate_word_embeddings
 
@@ -33,6 +33,8 @@ parser.add_argument('-epochs', help='the number of epochs to train the model', t
 parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=False)
 parser.add_argument('-add_context', help='whether use context for ranking', type=bool, default=False)
 parser.add_argument('-add_coherence', help='whether use coherence for ranking', type=bool, default=False)
+parser.add_argument('-add_prior', help='whether use prior for ranking', type=bool, default=False)
+
 try:
     args = parser.parse_args()
 except:
@@ -61,11 +63,11 @@ entity_path = '../output/{a}/entity_kb.txt'.format(a=args.dataset)
 entity_embedding_path = '../output/{a}/embed/entity_emb_50.txt'.format(a=args.dataset)
 all_candidate_path = '../output/{a}/candidates/training_aligned_cos_with_mention_candidate.txt'.format(a=args.dataset)
 test_can_path = '../output/{a}/candidates/test_candidates.txt'.format(a=args.dataset)
-model_path = '../checkpoints/mp_lrs.h5'
+# model_path = '../checkpoints/mp_lrs.h5'
 log_path = '../checkpoints/model_log.txt'
 predict_result_path = '../checkpoints/predict_result.txt'
 predict_score_path = '../checkpoints/predict_score.txt'
-model_weights_path = '../checkpoints/predict/predict_model_weights.h5'
+model_weights_path = '../checkpoints/predict_model_weights.h5'
 
 logger = logging.getLogger(__name__)
 local_file = os.path.split(__file__)[-1]
@@ -150,13 +152,27 @@ def create_model_and_fit(params):
     )
 
     #create model
-    train_model, predict_model = input_attention_hinge_loss(
+    train_model, predict_model = create_model(
         word_embedding_matrix,
         word_list,
         char_list,
         params=params
     )
 
+    #save best model
+    class SavePredictModel(Callback):
+        def __init__(self, predict_model):
+            self.predict_model = predict_model
+            self.max_acc = 0
+            self.min_val_loss = 100000
+
+        def on_epoch_end(self, epoch, logs=None):
+            val_loss = logs.get('val_loss')
+            if val_loss < self.min_val_loss:
+                self.predict_model.save_weights(model_weights_path, overwrite=True)
+                self.min_val_loss = val_loss
+
+    save_predict_model = SavePredictModel(predict_model)
 
     #fit model
     es = EarlyStopping(monitor='val_loss', mode='min', verbose=1, patience=5)
@@ -170,15 +186,15 @@ def create_model_and_fit(params):
         validation_steps=develop_step,
         shuffle=True,
         callbacks=[
-            ModelCheckpoint(model_path, save_weights_only=True, monitor='val_loss', mode='min', save_best_only=True),
             CSVLogger(log_path),
-            es
+            es,
+            save_predict_model
         ]
     )
 
     #predict
     predict_model.load_weights(model_weights_path)
-    acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path)
+    acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
 
     return acc
 
@@ -188,7 +204,7 @@ def run():
     set_random_seed(2019)
 
     #generate word embedding file
-    if not os.path.exists(word_embedding_file):
+    if not args.random_init and not os.path.exists(word_embedding_file):
         _, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
         generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
 

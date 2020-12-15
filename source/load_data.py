@@ -202,6 +202,23 @@ def load_entity(entity_path):
     return entity_dict, id_map
 
 
+def load_candidates2(can_path):
+    candidate_dict = dict()
+    with open(can_path, encoding='utf8') as f:
+        lines = f.readlines()
+        for line in lines:
+            row = line.strip().split('\t')
+            mention = row[1]
+            can_list = row[2:]
+            if mention in candidate_dict:continue
+            if mention not in candidate_dict:
+                candidate_dict[mention] = list()
+            for i in range(0, len(can_list), 3):
+                e_id, e_name, e_score = can_list[i], can_list[i + 1], float(can_list[i + 2])
+                candidate_dict[mention].append((e_id, e_name, float(e_score)))
+    return candidate_dict
+
+
 def load_candidates_by_id(word_dict, char_dict, max_len, can_path, max_word_len, topk=10, alpha=0.5):
     logging.info('load candidates from path = {a}, topk = {b}, alpha = {c}'.format(a=can_path, b=topk, c=alpha))
     can_dict, raw_can_dict, can_char_dict = {}, {}, {}
