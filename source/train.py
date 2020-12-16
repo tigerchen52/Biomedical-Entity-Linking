@@ -16,7 +16,6 @@ parser.add_argument('-dataset', help='which benchmark to use, ncbi, clef, and ad
 parser.add_argument('-sentence_length', help='the length of mentions and entities', type=int, default=20)
 parser.add_argument('-character_length', help='the length of characters', type=int, default=25)
 parser.add_argument('-batch_size', help='the number of samples in one batch', type=int, default=64)
-parser.add_argument('-develop_step', help='total number of steps to yield from validation_data generator', type=int, default=1500)
 parser.add_argument('-filters', help='the dimension of CNN output', type=int, default=32)
 parser.add_argument('-kernel_sizes', help='the length of the 1D convolution window', type=str, default='1,2,3')
 parser.add_argument('-dropout', help='the rate of neurons are ignored during training', type=float, default=0.1)
@@ -31,6 +30,7 @@ parser.add_argument('-voting_k', help='the number of adjacent mentions are used 
 parser.add_argument('-context_sentence_length', help='the length of context sentence', type=int, default=100)
 parser.add_argument('-context_rnn_dim', help='the dimension of Bi-RNN for context words', type=int, default=32)
 parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=15)
+parser.add_argument('-seed_value', help='whether use prior for ranking', type=float, default=None)
 parser.add_argument('-steps_per_epoch', help='the number of steps in each epoch', type=int, default=500)
 parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=False)
 parser.add_argument('-add_context', help='whether use context for ranking', type=bool, default=False)
@@ -62,7 +62,6 @@ entity_path = '../output/{a}/entity_kb.txt'.format(a=args.dataset)
 entity_embedding_path = '../output/{a}/embed/entity_emb_50.txt'.format(a=args.dataset)
 all_candidate_path = '../output/{a}/candidates/training_aligned_cos_with_mention_candidate.txt'.format(a=args.dataset)
 test_can_path = '../output/{a}/candidates/test_candidates.txt'.format(a=args.dataset)
-# model_path = '../checkpoints/mp_lrs.h5'
 log_path = '../checkpoints/model_log.txt'
 predict_result_path = '../checkpoints/predict_result.txt'
 predict_score_path = '../checkpoints/predict_score.txt'
@@ -143,6 +142,20 @@ def create_model_and_fit(params):
         params=params
     )
 
+    class CheckTraining(Callback):
+        def __init__(self, predict_model, test_data, max_acc):
+            self.predict_model = predict_model
+            self.test_data = test_data
+            self.max_acc = max_acc
+
+        def on_epoch_end(self, epoch, logs=None):
+            acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
+            if acc > self.max_acc:
+                self.max_acc = acc
+                print('this is {a} epoch, acc = {b}, MAX ACC = {c} !'.format(a=epoch+1, b=acc, c=self.max_acc))
+
+    max_acc = 0.
+    save_predicted = CheckTraining(predict_model, test_data, max_acc)
 
     # fit model
     logger.info(train_model.summary())
@@ -154,24 +167,22 @@ def create_model_and_fit(params):
         shuffle=True,
         callbacks=[
             CSVLogger(log_path),
+            save_predicted
         ]
     )
 
-    # evaluate
-    acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
-
-    return acc
-
 
 def run():
-    #lock seed
-    set_random_seed(2019)
+    # lock seed
+    if args.seed_value:
+        set_random_seed(args.seed_value)
 
-    #generate word embedding file
+    # create word embedding file
     if not args.random_init and not os.path.exists(word_embedding_file):
         _, word_list = load_data.load_word_vocabulary(word_vocab_path, True)
         generate_word_embeddings(bin_embedding_file, txt_embedding_file, word_list, word_embedding_file)
 
+    # fit
     create_model_and_fit(args)
 
 

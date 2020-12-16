@@ -17,18 +17,15 @@ def predict_data(test_data, entity_path, model, predict_path, score_path, test_p
         groud_truth, doc_id, mention = raw_data[0], raw_data[1], raw_data[2]
 
         raw_entity_list = data['entity_name']
-        result = predict_batch(data, model, batch_size=len(labels))
-        flatten_result = []
-        for i in result:
-            for j in i:
-                flatten_result.append(j)
-        pred_index = np.argmax(flatten_result)
+        pred_result = predict_batch(data, model, batch_size=len(labels))
+        pred_result = [j for r in pred_result for j in r]
+        pred_index = np.argmax(pred_result)
         pred_label = labels[pred_index]
         pred_entity_name = raw_entity_list[pred_index]
 
         #all score
         all_score += doc_id + '\t' + mention
-        for index, score in enumerate(flatten_result):
+        for index, score in enumerate(pred_result):
             entity_id = labels[index]
             entity_name = raw_entity_list[index]
             all_score += '\t' + entity_id + '\t' + entity_name + '\t' + str(round(score, 4))
@@ -37,6 +34,7 @@ def predict_data(test_data, entity_path, model, predict_path, score_path, test_p
         if pred_label == groud_truth:
             acc_cnt += 1
         else:
+            # write wrong results down
             if groud_truth in id_map:
                 groud_truth = id_map[groud_truth]
 
@@ -52,7 +50,6 @@ def predict_data(test_data, entity_path, model, predict_path, score_path, test_p
                    ground_name + '\t' + pred_label + '\t' + pred_entity_name + '\n'
 
     accuracy = 1.0 * acc_cnt / (total_cnt+1)
-    print('total = {b}, acc = {c}, accuracy of the model is {a}'.format(a=accuracy, b=total_cnt, c=acc_cnt))
     with open(predict_path, 'w', encoding='utf8')as f:
         f.write(w_l)
 
