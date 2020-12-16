@@ -51,15 +51,15 @@ python3 train.py -dataset ncbi
 **Using Optimal Parameters**
 1. NCBI datast
 ```
-python train.py -dataset ncbi -epochs 9
+python train.py -dataset ncbi 
 ```
 2. ShARe/CLEF dataset
 ```
-python train.py -dataset clef -hinge 0.30 -alpha 0.6 -epochs 15
+python train.py -dataset clef -hinge 0.30 -alpha 0.6 
 ```
 3. ADR dataset
 ```
-python train.py -dataset adr -epochs 20    
+python train.py -dataset adr    
 ```
 **Adding Features**
 1. add prior
