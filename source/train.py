@@ -152,7 +152,7 @@ def create_model_and_fit(params):
             acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
             if acc > self.max_acc:
                 self.max_acc = acc
-                print('this is {a} epoch, acc = {b}, MAX ACC = {c} !'.format(a=epoch+1, b=acc, c=self.max_acc))
+            print('this is {a} epoch, acc = {b}, MAX ACC = {c} !'.format(a=epoch+1, b=acc, c=self.max_acc))
 
     save_predicted = CheckTraining(predict_model, test_data)
 
