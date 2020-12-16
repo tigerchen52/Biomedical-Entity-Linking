@@ -29,7 +29,7 @@ parser.add_argument('-alpha', help='the threshold to filter candidates', type=fl
 parser.add_argument('-voting_k', help='the number of adjacent mentions are used to calculate the coherence ', type=int, default=8)
 parser.add_argument('-context_sentence_length', help='the length of context sentence', type=int, default=100)
 parser.add_argument('-context_rnn_dim', help='the dimension of Bi-RNN for context words', type=int, default=32)
-parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=15)
+parser.add_argument('-epochs', help='the number of epochs to train the model', type=int, default=30)
 parser.add_argument('-seed_value', help='whether use prior for ranking', type=float, default=None)
 parser.add_argument('-steps_per_epoch', help='the number of steps in each epoch', type=int, default=500)
 parser.add_argument('-random_init', help='whether use initial word embeddings randomly', type=bool, default=False)
