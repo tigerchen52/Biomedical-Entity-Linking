@@ -1,4 +1,5 @@
 # Biomedical-Entity-Linking
+This is a Keras implementation of the paper [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/abs/2012.08844).
 ![model](images/model.jpg)
 
 ## Environment setup
