@@ -9,19 +9,21 @@ from build_model import create_model
 from keras.callbacks import ModelCheckpoint, CSVLogger, EarlyStopping, Callback
 from predict import predict_data
 from embed import generate_word_embeddings
+import tensorflow.keras.backend as K
 
 #hyper-parameters
 parser = argparse.ArgumentParser(description='biomedical entity liking')
 parser.add_argument('-dataset', help='which benchmark to use, ncbi, clef, and adr ', type=str, default='ncbi')
 parser.add_argument('-sentence_length', help='the length of mentions and entities', type=int, default=20)
 parser.add_argument('-character_length', help='the length of characters', type=int, default=25)
-parser.add_argument('-batch_size', help='the number of samples in one batch', type=int, default=64)
+parser.add_argument('-batch_size', help='the number of samples in one batch', type=int, default=128)
 parser.add_argument('-filters', help='the dimension of CNN output', type=int, default=32)
 parser.add_argument('-kernel_sizes', help='the length of the 1D convolution window', type=str, default='1,2,3')
 parser.add_argument('-dropout', help='the rate of neurons are ignored during training', type=float, default=0.1)
 parser.add_argument('-char_dim', help='the dimension of character embedding', type=int, default=128)
 parser.add_argument('-word_embed_dim', help='the dimension of word embedding', type=int, default=200)
-parser.add_argument('-lr', help='learning rate', type=float, default=5e-4)
+parser.add_argument('-lr', help='learning rate', type=float, default=0.001)
+parser.add_argument('-decay_rate', help='decay rate', type=float, default=0.05)
 parser.add_argument('-char_rnn_dim', help='the dimension of Bi-RNN for characters', type=int, default=64)
 parser.add_argument('-hinge', help='the parameter for hinge loss', type=float, default=0.1)
 parser.add_argument('-topk_candidates', help='the number of entity candidates', type=int, default=20)
@@ -152,7 +154,12 @@ def create_model_and_fit(params):
             acc = predict_data(test_data, entity_path, predict_model, predict_result_path, predict_score_path, test_data_path, params.dataset)
             if acc > self.max_acc:
                 self.max_acc = acc
-            print('this is {a} epoch, acc = {b}, MAX ACC = {c} !'.format(a=epoch+1, b=acc, c=self.max_acc))
+            else:
+                optimizer = self.model.optimizer
+                lr = K.get_value(self.model.optimizer.lr)
+                K.set_value(optimizer.lr, lr * (1 - K.get_value(optimizer.schedule_decay)))
+            lr = round(float(K.get_value(self.model.optimizer.lr)), 5)
+            print('this is {a} epoch, lr = {b}, acc = {c}, MAX ACC = {d} !'.format(a=epoch+1, b=lr, c=round(acc, 5), d=round(self.max_acc, 5)))
 
     save_predicted = CheckTraining(predict_model, test_data)
 
@@ -186,5 +193,7 @@ def run():
 
 
 if __name__ == '__main__':
+    import os
+    os.environ["CUDA_VISIBLE_DEVICES"] = "2"
     logger.info("running %s", " ".join(sys.argv))
     run()

@@ -28,6 +28,7 @@ def create_model(word_embedding_matrix, word_list, char_list, params):
     character_length = params.character_length
     char_dim = params.char_dim
     lr = params.lr
+    decay_rate = params.decay_rate
     hinge = params.hinge
     coherence_k = params.voting_k * 2
     context_sentence_length = params.context_sentence_length
@@ -154,7 +155,7 @@ def create_model(word_embedding_matrix, word_list, char_list, params):
     train_model = Model(inputs=train_inputs, outputs=result)
 
     # Compile model
-    nadam = optimizers.nadam(lr=lr)
+    nadam = optimizers.nadam(lr=lr, schedule_decay=decay_rate)
     train_model.compile(loss=lambda y_true, y_pred: y_pred, optimizer=nadam)
     pre_inputs = (mention, candidate, men_char, can_char, can_prior, candidate_emb, voting_candidates_emb, can_context)
     predict_model = Model(inputs=pre_inputs, outputs=pred)
