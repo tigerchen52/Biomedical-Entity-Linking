@@ -80,7 +80,7 @@ python train.py -dataset ncbi -add_coherence True -voting_k 10
 -voting_k 10 for adr
 -voting_k 15 for ShARe/CLEF
 ```
-**Result**
+## Result
 ![performance](images/performance.png)
 
 
