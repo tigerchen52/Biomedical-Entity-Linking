@@ -83,7 +83,7 @@ python train.py -dataset ncbi -add_coherence True -voting_k 10
 **Result**
 ![performance](images/performance.png)
 
-##Citation
+## Citation
 ```
 @misc{2012.08844,
 Author = {Lihu Chen and Gaël Varoquaux and Fabian M. Suchanek},
