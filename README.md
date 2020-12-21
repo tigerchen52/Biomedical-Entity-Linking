@@ -83,6 +83,14 @@ python train.py -dataset ncbi -add_coherence True -voting_k 10
 **Result**
 ![performance](images/performance.png)
 
-
+##Citation
+```
+@misc{2012.08844,
+Author = {Lihu Chen and Gaël Varoquaux and Fabian M. Suchanek},
+Title = {A Lightweight Neural Model for Biomedical Entity Linking},
+Year = {2020},
+Eprint = {arXiv:2012.08844},
+}
+```
 ## Reference
 [1] Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.
