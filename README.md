@@ -86,11 +86,11 @@ python train.py -dataset ncbi -add_coherence True -voting_k 10
 
 ## Citation
 ```
-@misc{2012.08844,
-Author = {Lihu Chen and Gaël Varoquaux and Fabian M. Suchanek},
-Title = {A Lightweight Neural Model for Biomedical Entity Linking},
-Year = {2020},
-Eprint = {arXiv:2012.08844},
+@article{chen2020lightweight,
+  title={A Lightweight Neural Model for Biomedical Entity Linking},
+  author={Chen, Lihu and Varoquaux, Ga{\"e}l and Suchanek, Fabian M},
+  journal={arXiv preprint arXiv:2012.08844},
+  year={2020}
 }
 ```
 ## Reference
