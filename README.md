@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 ## Data preparation
 **Dataset.** 
-It is not easy to collect all related data quickly. For your convenience, we provide all preprocessed datasets so that you could run our model straight. 
+It is not easy to collect all related data quickly. For your convenience, we provide a preprocessed version of datasets so that you could run our model straight. 
 But there is a data license of the ShARe/CLEF dataset, we suggest you to obtain it according to an official guideline.
 We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
 | Dataset | Reference KB  |
