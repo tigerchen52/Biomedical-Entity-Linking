@@ -23,7 +23,7 @@ In our experiments, we represent each word by a 200-dimensional word embedding c
 MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.com/ncbi-nlp/BioSentVec).
 After downloading, put the embedding file in the path `Biomedical-Entity-Linking/input/` 
 
-**Extra Biomedical documents.**
+**Entity Embedding.**
 We provide pre-trained entity embeddings. You can find them in this path `Biomedical-Entity-Linking/output/*dataset name*/embed/entity_emb_50.txt`
 Certain entities are more likely to occur together
 in the same document than others, and we can leverage
