@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 ## Data preparation
 **Dataset.** 
-It is not easy to collect all related data quickly. For your convenience, we provide all preprocessed datasets so that you could run our model straight. 
+It is not easy to collect all related data quickly. For your convenience, we provide a preprocessed version of datasets so that you could run our model straight. 
 But there is a data license of the ShARe/CLEF dataset, we suggest you to obtain it according to an official guideline.
 We valid our model on three datasets, ShARe/CLEF, NCBI and ADR. Download these dataset and their corresponding knowledge bases following the urls below.
 | Dataset | Reference KB  |
@@ -23,7 +23,7 @@ In our experiments, we represent each word by a 200-dimensional word embedding c
 MIMIC-III corpus, which is proposed in this paper[1]. [Downlaod](https://github.com/ncbi-nlp/BioSentVec).
 After downloading, put the embedding file in the path `Biomedical-Entity-Linking/input/` 
 
-**Extra Biomedical documents.**
+**Entity Embedding.**
 We provide pre-trained entity embeddings. You can find them in this path `Biomedical-Entity-Linking/output/*dataset name*/embed/entity_emb_50.txt`
 Certain entities are more likely to occur together
 in the same document than others, and we can leverage
@@ -86,11 +86,11 @@ python train.py -dataset ncbi -add_coherence True -voting_k 10
 
 ## Citation
 ```
-@misc{2012.08844,
-Author = {Lihu Chen and Gaël Varoquaux and Fabian M. Suchanek},
-Title = {A Lightweight Neural Model for Biomedical Entity Linking},
-Year = {2020},
-Eprint = {arXiv:2012.08844},
+@article{chen2020lightweight,
+  title={A Lightweight Neural Model for Biomedical Entity Linking},
+  author={Chen, Lihu and Varoquaux, Ga{\"e}l and Suchanek, Fabian M},
+  journal={arXiv preprint arXiv:2012.08844},
+  year={2020}
 }
 ```
 ## Reference
